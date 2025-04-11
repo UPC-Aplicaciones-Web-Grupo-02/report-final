@@ -62,6 +62,40 @@ Markdown: Lenguaje de marcado ligero para crear contenido formateado de forma se
 
 
 ### 5.1.2. Source Code Management.
+En esta sección, se detallaran las herramientas que  se utilizaron para el seguimiento de las modificaciones, así como la semántica y nomenclatura que se usara para los commits y releases. 
+Para el sistema de control de versiones del informe, landing page, web service y front-end se utilizó Git, el cual se encuentra alojado en GitHub.
+- Url de la organizacion: [github.com/UPC-Aplicaciones-Web-Grupo-02]( https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final)
+
+**Gitflow**
+Decidimos utilizar este modelo de trabajo ya que permite mantener el codigo ordenado al dividirlo en ramas, de tal forma que nos facilita trabajar colaborativamente. Las ramas que se utilizaron son:
+- Main: En esta rama se encuentra el código que se encuentra en producción.
+- Develop: En esta rama se encuentra el código que se encuentra en desarrollo.
+- Feature: En esta rama se encuentran las nuevas funcionalidades que se están desarrollando.
+
+**Semantic Versioning**
+Este es un conjunto de reglas que nos permitirán gestionar correctamente la numeración de versiones de nuestro proyecto.
+**Version Principal**
+Se incrementa cuando los cambios agregados no son compatibles con las versiones anteriores.
+
+<table align="center" border="1">
+    <tr>
+        <td>release-1.0.5</td>
+    </tr>
+    <tr>
+        <td>release-2.1.3</td>
+    </tr>
+    <tr>
+        <td>release-2.2.1</td>
+    </tr>
+</table>
+
+**Conventional commits**
+Se utilizó el estándar de commits convencionales para mantener un historial de cambios limpio y ordenado. Los commits se dividen en los siguientes tipos:
+- **feat**: Se utiliza para nuevas funcionalidades.
+- **fix**: Se utiliza para corrección de errores.
+- **chore**: Se utiliza para cambios en el código que no afectan la funcionalidad.
+- **refactor**: Se utiliza para cambios en el código que no afectan la funcionalidad.
+
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
