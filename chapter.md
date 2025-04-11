@@ -137,6 +137,67 @@ Se utilizó este estandar para garantizar una facil comprension de nuestros regi
 ### 5.2.1. Sprint 01
 
 #### 5.2.1.1. Sprint Planning 01.
+<table border="1px" align="center">
+    <tr>
+        <th>Sprint #</th>
+        <th>Sprint 1</th>
+    </tr>
+    <tr> 
+        <td colspan="2" style="text-align: center;">Sprint Planning Background</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Date</td>
+        <td>11/04/2025</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Time</td>
+        <td>6:00 pm - 10:00 pm </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Location</td>
+        <td>Modalidad remota a través de WhatsApp y Google Meets</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Prepared By</td>
+        <td> Nestor Velarde Gonzales </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Attendees (to planning meeting)</td>
+        <td>
+            Arnold Morales Sosa<br>
+            Alonso Muñiz Huayanca <br>
+            Nestor Velarde Gonzales<br>
+            Rafael Cuya Villegas<br>
+            Sebastian Flores Manrique    
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 0 Review Summary</td>
+        <td>No existe.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 0 Retrospective Summary</td>
+        <td>No existe.</td>
+    </tr>
+    <tr> 
+        <td colspan="2" style="text-align: center;">Sprint Goal & User Stories</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Goal</td>
+        <td>
+            En este sprint se espera la implementación y despliegue de la landing page con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar HTML y CSS para hacer la landing page. Al finalizar este sprint, la landing page se desplegó en Netlify para que sea accesible por cualquier usuario desde su navegador de preferencia.
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sprint 1 Velocity</td>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Sum of Story Points</td>
+        <td>18</td>
+    </tr>
+</table>
+
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
