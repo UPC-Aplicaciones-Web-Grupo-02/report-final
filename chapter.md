@@ -201,7 +201,85 @@ Se utilizó este estandar para garantizar una facil comprension de nuestros regi
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
-#### 5.2.1.3. Sprint Backlog n.
+
+
+
+#### 5.2.1.3. Sprint Backlog 1.
+![TrelloSprint1](https://github.com/user-attachments/assets/2e3b9c35-a927-4003-985a-572ba6fbec90)
+
+Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1)
+
+<table border="1px" align="center"> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 1 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item / Task</th>
+   </tr>
+   <tr>
+     <th> Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th> Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+   <tr>
+       <td> EP01-US01 </td>
+      <td colspan="3">Implementación de la sección “Home” de la Landing Page</td>
+      <td> W01  </td>
+      <td> Sección “Home” </td>
+      <td>Implementar la sección “Home” de la Landing Page. </td>
+      <td> 3  </td>
+      <td> Rafael Cuya </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP01-US02 </td>
+      <td colspan="3">Implementación de la sección "Contacto" de la Landing Page</td>
+      <td> W02  </td>
+      <td> Sección "Contacto "</td>
+      <td>Implementar la sección "Contacto" de la landing page. </td>
+      <td> 1  </td>
+      <td> Alonso Muñiz</td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP01-US03 </td>
+      <td colspan="3">Implementación de la sección "Servicios" de la Landing Page</td>
+      <td> W03  </td>
+      <td> Sección "Services" </td>
+      <td>Implementar la sección "Servicios" de la landing page. </td>
+      <td> 3  </td>
+      <td> Nestor Velarde </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP01-US04 </td>
+      <td colspan="3">Implementación de la sección "Suscripciones" de la Landing Page</td>
+      <td> W04  </td>
+      <td> Sección "Suscripciones" </td>
+      <td>Implementar la sección "Suscripciones" en la landing page </td>
+      <td> 3  </td>
+      <td> Arnold Morales </td> 
+      <td> Done </td>
+   </tr>
+   <tr>
+      <td> EP01-US05 </td>
+      <td colspan="3">Implementación de la sección "About us" de la Landing Page</td>
+      <td> W05  </td>
+      <td> Sección "About us" </td>
+      <td>Implementar la sección "About us" de la landing page</td>
+      <td> 3  </td>
+      <td> Sebastian Flores </td> 
+      <td> Done </td>
+   </tr>   
+</table>
+
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
