@@ -27,7 +27,6 @@ Somos InnovaTech, una startup fundada por 5 estudiantes de la Universidad Peruan
 </table>
 
 ### 1.1.2. Perfiles de integrantes del equipo
-| <p align="center"><img width="auto" height="auto" src="assets/images/commons/ArnoldProfile.png?raw=true"></p> | Mi nombre es Arnold Morales Sosa, tengo 24 años y soy estudiante de la carrera de Ingeniería de Software en la UPC, con estudios intermedios en Ensamblaje, Mantenimiento, Conectividad de equipos, desarrollo de software, programación y diseño. Innovador con deseos de aprender y apoyar en este proyecto donde pueda desarrollar mis conocimientos, apoyar a la mejora y logros de los objetivos estratégicos. Soy una persona con facilidad para trabajar en equipo, bajo presión, responsable, honesto, proactivo, creativo, ordenado, y dinámico. 
 
 ## 1.2. Solution Profile
 
