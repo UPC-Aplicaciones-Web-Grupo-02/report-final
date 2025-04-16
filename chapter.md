@@ -65,7 +65,66 @@ Nuestra capital Lima, es una de las ciudades con mayor tráfico del mundo, lo qu
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
+
 #### 1.2.2.2. Lean UX Assumptions.
+
+**Features**
+
+- Herramientas de Colaboración: Funcionalidades que faciliten el alquiler de un scooter eléctrico.
+- 
+- Listado de scooters disponibles: Un amplio catálogo de scooters disponibles para ser alquilados.
+- Perfil de Usuario: Perfiles personalizables para que los usuarios se identifiquen.
+- Soporte para Dispositivos Múltiples: Accesibilidad desde cualquier dispositivo.
+
+**Bussiness Outcomes**
+
+Utilizando la tecnica de Metrics Mountain se obtuvo lo siguiente.
+
+1. Adquisición:
+   Porcentaje de nuevos usuarios registrados como arrendatarios que se suscriben a un plan mensual.
+
+2. Activación:  
+   Porcentaje de usuarios que completan el proceso de reserva de un vehículo en los primeros 7 dias de registro.
+
+3. Retención:  
+   Porcentaje de usuarios que realizan al menos 3 solicitudes de alquiler por semana.
+
+4. Ingresos:
+   Ingresos mensuales por suscripciones de arrendatarios.
+
+5. Impacto Social Positivo:
+   Contribuir a la sociedad fomentando el uso de un transporte eco-amigable.
+
+Usando estas métricas se evaluaron los siguientes outcomes:
+
+- Aumento en el número total reservas por parte de nuevos usuarios.
+- Mejora en la utilización de vehículos, reduciendo los períodos de inactividad y aumentando la rentabilidad por vehículo.
+- Lograr un crecimiento significativo en los ingresos mensuales por suscripciones de arrendatarios.
+- Reducir al menos en un 30% el tiempo de viaje diario de los usuarios.
+
+**Users**  
+Los usuarios de la plataforma serán principalmente arrendatarios universitarios que buscan alquilar un scooter eléctrico por horas o dias para transportarse de manera más rápida y económica.
+
+**User outcomes**
+
+**Cliente:**
+
+¿Qué está intentando lograr el usuario?  
+Reducir el tiempo y el estrés asociados con los desplazamientos diarios en Lima, así como ahorrar dinero en transporte para destinarlo a otros gastos.
+
+¿Cómo quiere sentirse el usuario durante y después de este proceso?  
+Desea sentirse aliviado y menos estresado durante sus viajes diarios, así como satisfecho por haber encontrado una solución económica y confiable para sus necesidades de transporte.
+
+¿Cómo acerca nuestro producto o servicio al usuario a una meta o sueño de vida?  
+Nuestro servicio de transporte le permite al usuario ahorrar tiempo y dinero, contribuyendo a una mayor eficiencia en su vida diaria y liberando recursos para otros aspectos de su vida.
+
+¿Por qué buscaría su usuario su producto?  
+El usuario busca nuestro producto porque valora la economía, y está interesado en soluciones que reduzcan el tiempo y el estrés al movilizarse.
+
+¿Qué cambio de comportamiento podemos observar que indique que han logrado su objetivo?  
+Utiliza regularmente nuestro servicio de alquiler de scooters eléctricos para sus desplazamientos diarios, experimentando una disminución en el tiempo de viaje y una mayor sensación de calma y comodidad durante sus trayectos.
+
+
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
