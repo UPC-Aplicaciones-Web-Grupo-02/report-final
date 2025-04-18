@@ -85,14 +85,17 @@ Scooter?
 **Entrevistas segmento 01: Estudiantes Universitarios**
 Entrevista 1:
 Datos del entrevistador:
-Nombre: Rafael Cuya Villegas
+- Nombre: Rafael Cuya Villegas
+  
 Datos del entrevistado:
-Nombre: Pia Barandiaran
-Edad: 23 años
-Distrito de residencia: San isidro
-Enlace: https://upcedupemy.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EeVlsT0DrS1BhWbC6BxlkNkB0WxsJhARf3qfYkCSQ4v7ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vviwa8
-Duracion de la entrevista: 3 minutos y 23 segundos
+- Nombre: Pia Barandiaran
+- Edad: 23 años
+- Distrito de residencia: San isidro
+- Enlace: https://upcedupemy.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EeVlsT0DrS1BhWbC6BxlkNkB0WxsJhARf3qfYkCSQ4v7ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vviwa8
+- Duracion de la entrevista: 3 minutos y 23 segundos
+  
 ![Entrevista1-segmento1]()
+
 Resumen de la entrevista:
 Pia Barandiarán, una joven de 23 años que reside en el distrito de San Isidro, nos comenta que es estudiante de la Universidad UTEC, ubicada en Barranco. Uno de los principales desafíos que enfrenta en su día a día es el tráfico limeño. Indica que utiliza el transporte público para dirigirse a su casa de estudios y que, casi siempre, se encuentra con congestión vehicular. Además, menciona que le parece una excelente iniciativa la implementación de scooters eléctricos, ya que le serían de gran utilidad. Destaca que el distrito de Miraflores cuenta con una buena infraestructura de ciclovías, ideales para este tipo de transporte, lo cual le permitiría llegar a su universidad en menos tiempo y sin tener que lidiar con el tráfico.
 
