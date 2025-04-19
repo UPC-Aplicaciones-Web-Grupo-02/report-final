@@ -132,28 +132,88 @@ Usando estas métricas se evaluaron los siguientes outcomes:
 - Reducción en al menos un 30% del tiempo de viaje diario de los estudiantes que utilizan scooters para sus desplazamientos universitarios.
 
 **Users**  
-Los usuarios de la plataforma serán principalmente arrendatarios universitarios que buscan alquilar un scooter eléctrico por horas o dias para transportarse de manera más rápida y económica.
+Los usuarios de la plataforma serán principalmente estudiantes universitarios que buscan alquilar scooters eléctricos para trasladarse de manera rápida y económica entre la universidad, su hogar y otros destinos cercanos. Estos usuarios también podrán optar por alquilar scooters por horas o días, buscando una forma de transporte flexible y eficiente.
 
 **User outcomes**
 
-**Cliente:**
+**Estudiantes universitarios:**
 
 ¿Qué está intentando lograr el usuario?  
-Reducir el tiempo y el estrés asociados con los desplazamientos diarios en Lima, así como ahorrar dinero en transporte para destinarlo a otros gastos.
+Reducir el tiempo y el estrés asociados con los desplazamientos diarios entre su universidad y otros lugares, ahorrando dinero en transporte para destinarlo a otros gastos relacionados con su vida estudiantil.
 
 ¿Cómo quiere sentirse el usuario durante y después de este proceso?  
-Desea sentirse aliviado y menos estresado durante sus viajes diarios, así como satisfecho por haber encontrado una solución económica y confiable para sus necesidades de transporte.
+El estudiante desea sentirse aliviado y menos estresado durante sus viajes diarios, así como satisfecho por haber encontrado una opción de transporte económica y confiable que se adapta a su estilo de vida.
 
 ¿Cómo acerca nuestro producto o servicio al usuario a una meta o sueño de vida?  
-Nuestro servicio de transporte le permite al usuario ahorrar tiempo y dinero, contribuyendo a una mayor eficiencia en su vida diaria y liberando recursos para otros aspectos de su vida.
+Nuestro servicio de alquiler de scooters eléctricos les ayuda a los estudiantes a ahorrar tiempo y dinero, permitiéndoles ser más eficientes en sus desplazamientos y liberar recursos para otros aspectos de su vida universitaria.
 
 ¿Por qué buscaría su usuario su producto?  
-El usuario busca nuestro producto porque valora la economía, y está interesado en soluciones que reduzcan el tiempo y el estrés al movilizarse.
+Los estudiantes buscan nuestro producto porque valoran la economía, la rapidez y la facilidad para movilizarse sin tener que depender del transporte público o de vehículos particulares.
 
 ¿Qué cambio de comportamiento podemos observar que indique que han logrado su objetivo?  
-Utiliza regularmente nuestro servicio de alquiler de scooters eléctricos para sus desplazamientos diarios, experimentando una disminución en el tiempo de viaje y una mayor sensación de calma y comodidad durante sus trayectos.
+El estudiante comienza a utilizar regularmente el servicio de alquiler de scooters eléctricos, experimentando una reducción en los tiempos de viaje y sintiendo más comodidad y calma durante sus trayectos entre la universidad y otros destinos.
 
+<br>
 
+**Residentes en Miraflores:**
+
+¿Qué está intentando lograr el usuario?
+Reducir el tiempo de desplazamiento y el estrés del tráfico en Miraflores, además de ahorrar dinero en transporte para otros gastos cotidianos, mientras disfrutan de un transporte rápido y eficiente.
+
+¿Cómo quiere sentirse el usuario durante y después de este proceso?
+El usuario quiere sentirse aliviado y relajado al poder moverse sin preocupaciones sobre el tráfico, además de sentirse satisfecho por haber encontrado una opción económica y conveniente para sus necesidades de transporte.
+
+¿Cómo acerca nuestro producto o servicio al usuario a una meta o sueño de vida?
+Nuestro servicio permite a los residentes de Miraflores ahorrar tiempo y dinero en sus desplazamientos urbanos, mejorando su eficiencia diaria y brindándoles más tiempo para otras actividades.
+
+¿Por qué buscaría su usuario su producto?
+Los residentes de Miraflores buscan una solución que les permita evitar los atascos del tráfico, reducir su gasto en transporte y desplazarse de manera más cómoda, sin depender de los medios tradicionales de transporte.
+
+¿Qué cambio de comportamiento podemos observar que indique que han logrado su objetivo?
+El usuario comienza a alquilar scooters de manera regular, experimentando una disminución en el tiempo de viaje y una mayor comodidad en sus desplazamientos dentro de Miraflores, mostrando mayor satisfacción y calma durante sus trayectos.
+
+**User assumptions**
+
+¿Quién es el usuario?  
+El usuario es el estudiante universitario que busca una alternativa para su transporte o puede ser cualquier persona interesada en alquilar un scooter eléctrico.
+
+¿Dónde encaja nuestro producto en sus trabajos o vidas?  
+Nuestro producto se integra en la vida de los usuarios como una plataforma digital que facilita el alquiler de scooters eléctricos. Para los usuarios es una plataforma donde podrán tener una amplia lista de scooters en alquiler para poder elegir el que mejor se adecue a sus necesidades y presupuesto.
+
+¿Qué problema resuelve nuestro producto?
+Pérdida de tiempo en el tráfico: Proporciona una plataforma donde las personas pueden alquilar scooters eléctricos y poder transportarse de manera rápida y económica.  
+
+¿Cuándo y cómo es usado nuestro producto?   
+Los usuarios la utilizarán para alquilar un scooter cuando lo necesiten.
+
+¿Qué características son importantes?
+- Búsqueda y Filtros: Funcionalidades para buscar scooters que se adecuen a las preferencias del usuario.
+
+¿Cómo debería verse y comportarse nuestro producto?
+- Diseño Limpio y Atractivo: Interfaz intuitiva con un enfoque en las fotos e información precisa.
+- Facilidad de Uso: Navegación sencilla y procesos claros para cargar contenido.
+- Transparencia en Compensación: Información clara sobre cómo se alquila un scooter.
+
+**Business Assumptions**
+
+1. Creemos que nuestros clientes necesitan una plataforma que les permita alquilar scooters eléctricos de manera rápida y sencilla. Los usuarios buscan alquilar el scooter ideal para sus necesidades.
+
+2. Estas necesidades se pueden resolver con una aplicación web que de alquiler de scooters eléctricos.
+
+3. El valor #1 que mi cliente quiere de mi servicio
+    - Una plataforma donde puedan encontrar diversias opciones de scooters eléctricos para alquilar.
+
+4. Voy a adquirir la mayoría de mis clientes la promoción activa en redes sociales, asociaciones con comunidades del cuidado del medio ambiente y la creación de contenido atractivo para atraer a nuestro público objetivo.
+
+5. Haré dinero a través de modelos de suscripción semanal, mensual o anual.
+
+6. Mi competencia principal en el mercado serán plataformas existentes como emove, grin4u y otras aplicaciones que den en alquiler transportes altermnativos incluidos scooters eléctricos.
+
+7. Los venceremos debido a la simplicidad de uso gracias a la interfaz intuitiva y procesos sencillos, facilitando la colaboración y la publicación.
+
+8. El mayor riesgo es que no logremos una base de usuarios activa o no cumplamos con las expectativas de calidad y colaboración.
+
+9. Resolveremos esto a través de fomentar una comunidad activa y estar en constante mejora de calidad de la aplicación.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
