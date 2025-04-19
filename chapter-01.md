@@ -28,6 +28,30 @@ Somos InnovaTech, una startup fundada por 5 estudiantes de la Universidad Peruan
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+<table>
+  <tr>
+    <th>Integrantes</th>
+    <th>Descripción</th>
+    <th>Conocimiento</th>
+  </tr>
+  <tr>
+    <td>Velarde Gonzales, Néstor H - u20211c221</td>
+    <td>Estudiante de la carrera de Ing. De Software en la UPC, actualmente cuento con conocimientos básicos de desarrollo de software desde el análisis, especificación  y el desarrollo proyectos tanto Frontend y Backend aplicando las buenas prácticas en todo el proceso de desarrollo.</td>
+    <td>Herramientas: Git, GitHub, GitFlow  Frontend develop: html, css, js, angular, vue, Boostrap-5  Backend develop: C#, Python, sprint boot.</td>
+  </tr>
+  <tr>
+    <td>Dato 4</td>
+    <td>Dato 5</td>
+    <td>Dato 6</td>
+  </tr>
+  <tr>
+    <td>Dato 4</td>
+    <td>Dato 5</td>
+    <td>Dato 6</td>
+  </tr>
+</table>
+
+
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
