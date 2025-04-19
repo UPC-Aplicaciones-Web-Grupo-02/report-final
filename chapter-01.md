@@ -132,6 +132,8 @@ Utiliza regularmente nuestro servicio de alquiler de scooters eléctricos para s
 
 ## 1.3. Segmentos objetivo.
 
+Los segmentos son ...
+
 
 
 
