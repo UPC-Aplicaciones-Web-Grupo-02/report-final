@@ -83,47 +83,53 @@ Nuestra ciudad, Lima, es una de las más congestionadas del mundo en términos d
 - **How much (Cuánto)**  
   ¿Cuánto dinero está implicando?  
   El impacto económico es significativo, ya que la congestión afecta diariamente a millones de personas, provocando retrasos, pérdidas de productividad y un aumento en los costos de transporte. Esto se traduce en más de 500 soles anuales por manejar en horas pico o en el incremento de los pasajes en transporte público, los cuales han subido casi 100 soles mensuales desde 2010.
-- 
+
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
+El sistema de transporte público en Perú es ineficiente y deficiente. ¿De qué manera podemos incentivar a las personas a elegir alternativas como los scooters eléctricos para su movilidad?
+
+Actualmente, los servicios disponibles no permiten que los usuarios generen ingresos adicionales alquilando su scooter. ¿Cómo podríamos ofrecer una solución que permita a los propietarios de scooters generar dinero con sus vehículos?
+
+Hemos observado que los adultos suelen ser escépticos respecto a lo que encuentran en internet. ¿Qué estrategias podríamos implementar para generar confianza en nuestra aplicación entre este grupo de personas?
+
+A veces surgen problemas como robos o daños a los vehículos. ¿Qué medidas podríamos tomar para evitar que individuos irresponsables perjudiquen a nuestros clientes?
 
 #### 1.2.2.2. Lean UX Assumptions.
 
 **Features**
 
-- Herramientas de Colaboración: Funcionalidades que faciliten el alquiler de un scooter eléctrico.
-- 
-- Listado de scooters disponibles: Un amplio catálogo de scooters disponibles para ser alquilados.
-- Perfil de Usuario: Perfiles personalizables para que los usuarios se identifiquen.
-- Soporte para Dispositivos Múltiples: Accesibilidad desde cualquier dispositivo.
+- Herramientas de Colaboración: Funcionalidades diseñadas específicamente para facilitar el alquiler de scooters eléctricos, ideales para desplazarse entre la universidad y otros puntos de interés cercanos.
+- Listado de scooters disponibles: Un amplio catálogo de scooters disponibles para alquiler, permitiendo a los usuarios encontrar fácilmente el vehículo que se ajuste a sus necesidades de transporte rápido y eficiente.
+- Perfil de Usuario: Perfiles personalizables para que los estudiantes puedan gestionar su cuenta y realizar seguimientos de sus viajes de manera cómoda y rápida.
+- Soporte para Dispositivos Múltiples: Acceso sencillo a la plataforma desde cualquier dispositivo, permitiendo a los usuarios universitarios alquilar y gestionar scooters con facilidad, ya sea desde su móvil, tablet o computadora.
 
 **Bussiness Outcomes**
 
 Utilizando la tecnica de Metrics Mountain se obtuvo lo siguiente.
 
 1. Adquisición:
-   Porcentaje de nuevos usuarios registrados como arrendatarios que se suscriben a un plan mensual.
+   Porcentaje de nuevos usuarios registrados como arrendatarios (estudiantes universitarios y publico mayor de 18 años que residen en Miraflores) que se suscriben a un plan mensual.
 
 2. Activación:  
-   Porcentaje de usuarios que completan el proceso de reserva de un vehículo en los primeros 7 dias de registro.
+   Porcentaje de usuarios que completan el proceso de reserva de un scooter en los primeros 7 días de registro.
 
 3. Retención:  
    Porcentaje de usuarios que realizan al menos 3 solicitudes de alquiler por semana.
 
 4. Ingresos:
-   Ingresos mensuales por suscripciones de arrendatarios.
+   Ingresos mensuales por suscripciones de arrendatarios (estudiantes y público que alquilan scooters)
 
 5. Impacto Social Positivo:
-   Contribuir a la sociedad fomentando el uso de un transporte eco-amigable.
+   Contribución a la sociedad fomentando el uso de un transporte eco-amigable entre los estudiantes universitarios.
 
 Usando estas métricas se evaluaron los siguientes outcomes:
 
-- Aumento en el número total reservas por parte de nuevos usuarios.
-- Mejora en la utilización de vehículos, reduciendo los períodos de inactividad y aumentando la rentabilidad por vehículo.
-- Lograr un crecimiento significativo en los ingresos mensuales por suscripciones de arrendatarios.
-- Reducir al menos en un 30% el tiempo de viaje diario de los usuarios.
+- Aumento en el número de nuevas reservas realizadas por los estudiantes universitarios.
+- Mejora en la utilización de scooters, reduciendo los períodos de inactividad y aumentando la rentabilidad de cada vehículo.
+- Crecimiento significativo en los ingresos mensuales provenientes de las suscripciones de arrendatarios.
+- Reducción en al menos un 30% del tiempo de viaje diario de los estudiantes que utilizan scooters para sus desplazamientos universitarios.
 
 **Users**  
 Los usuarios de la plataforma serán principalmente arrendatarios universitarios que buscan alquilar un scooter eléctrico por horas o dias para transportarse de manera más rápida y económica.
