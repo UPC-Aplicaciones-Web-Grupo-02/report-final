@@ -217,11 +217,29 @@ Los usuarios la utilizarán para alquilar un scooter cuando lo necesiten.
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+Utilizando los bussines outcomes, user outcomes y solutions se formularon las siguientes hipótesis:
+
+**Estudiantes universitarios:**
+**Creemos que** al ofrecer un descuento único para estudiantes universitarios de casas de estudios y simplificar el proceso de registro en nuestra plataforma, aumentaremos la cantidad de nuevos usuarios entre la comunidad estudiantil. **Sabremos que** hemos tenido éxito **cuando** observemos un incremento notable en el número de cuentas creadas por estudiantes universitarios en los primeros 7 días después del lanzamiento, y una mayor tasa de activación de sus reservas.
+
+**Clientes que residen en Miraflores:**  
+**Creemos que** al simplificar el proceso de registro en nuestra plataforma, aumentaremos la cantidad de nuevos usuarios. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de cuentas creadas en los primeros 7 días después del lanzamiento.
+
+**Creemos que** al facilitar la información de cada scooter disponible, aumentaremos la cantidad de usuarios que alquilen un scooter. **Sabremos que** hemos tenido éxito **cuando** observemos un aumento significativo en el número de personas que pongan en alquiler sus scooters.
+
 #### 1.2.2.4. Lean UX Canvas.
 
 ## 1.3. Segmentos objetivo.
 
-Los segmentos son ...
+Según Huamanraime y Echevarría (2022), se ha observado que los adultos y adultos mayores hacen uso de los e-scooters, principalmente en distritos con un alto índice de desarrollo humano, como Miraflores o San Isidro. Con base en ello, nuestros segmentos objetivo del proyecto propuesto son dos, los cuales presentamos a continuación:
+
+**Segmento 1** Usuarios Universitarios: 
+
+Este segmento está compuesto por estudiantes universitarios que buscan alquilar scooters eléctricos como una alternativa rápida, económica y ecológica para desplazarse entre la universidad, su hogar y otros puntos cercanos. Los estudiantes optan por el alquiler por horas debido a que no cuentan con los recursos suficientes para adquirir un scooter propio y necesitan una opción de transporte flexible y accesible.
+
+**Segmento 2** Público Mayor de 18 Años que Reside en Miraflores, Lima:
+
+Este segmento está compuesto por personas mayores de 18 años que residen en Miraflores, Lima, y buscan alquilar scooters eléctricos para su desplazamiento diario dentro del distrito. Este grupo prefiere alquilar scooters debido a la flexibilidad y rapidez que brindan, sobre todo en un entorno urbano con altos niveles de tráfico. Además, muchos optan por esta alternativa en lugar de comprar un vehículo propio debido a la falta de necesidad de un medio de transporte permanente.
 
 
 
