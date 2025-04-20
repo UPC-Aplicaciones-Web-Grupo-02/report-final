@@ -702,3 +702,211 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
 
 ## 3.4. Product Backlog.
 
+<table border="1px">
+  <tr>
+    <th>#Orden</th>
+    <th>User Story Id</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>StoryPoints (1/2/3/5/8)</th>
+  </tr>
+  <tr>
+    <td>01</td>
+    <td>US01</td>
+    <td>Implementación de la sección "Inicio" de la Landing Page</td>
+    <td>Como visitante de la landing page Quiero visualizar la sección "Inicio" Para tener una primera vista del producto.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>02</td>
+    <td>US02</td>
+    <td>Implementación de la sección "Sobre nosotros" de la Landing Page</td>
+    <td>Como visitante de la landing page Quiero visualizar la sección "Sobre nosotros" Para tener información de la startup CiberMach.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>03</td>
+    <td>US03</td>
+    <td>Implementación de la sección "Servicios" de la Landing Page</td>
+    <td>Como visitante de la landing page Quiero visualizar la sección "Servicios" Para tener información de los servicios ofrecidos por la aplicación.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>US04</td>
+    <td>Implementación de la sección "Planes" de la Landing Page</td>
+    <td>Como visitante de la landing page Quiero visualizar la sección "Planes" Para tener información de las membresías de la aplicación</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>05</td>
+    <td>US05</td>
+    <td>Implementación de la sección "About the Team" de la Landing Page</td>
+    <td>Como visitante de la landing page Quiero visualizar la sección "About the Team" Para tener información de los miembros que conforman la startup.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>06</td>
+    <td>US06</td>
+    <td>Landing Page Responsiva a diferentes tamaños de pantalla</td>
+    <td>Como visitante interesado Quiero que la landing page tenga un diseño responsivo Para acceder a ella desde cualquier dispositivo.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+  <td>07</td>
+  <td>US07</td>
+  <td>Acceder a la aplicación desde la landing page</td>
+  <td>Como visitante de la landing page Quiero poder acceder a la aplicación MoviRent desde la landing page Para comenzar a utilizar las funcionalidades ofrecidas</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>08</td>
+  <td>US08</td>
+  <td>Registrar usuario</td>
+  <td>Como visitante de la aplicación web de MoviRent Quiero poder crear una cuenta personal Para comenzar a hacer uso de la aplicación como Owner/Cliente.</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>09</td>
+  <td>US09</td>
+  <td>Iniciar sesión</td>
+  <td>Como Owner/Cliente de Movix Quiero iniciar sesión Para acceder a los beneficios que ofrece la aplicación.</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>10</td>
+  <td>US10</td>
+  <td>Visualizar perfil de usuario</td>
+  <td>Como Owner/Cliente de Movix Quiero visualizar mi perfil personal Para visualizar mis datos actuales.</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>11</td>
+  <td>US11</td>
+  <td>Cambiar datos personales</td>
+  <td>Como Owner/Cliente de Movix Quiero cambiar los datos asociados a mi perfil Para actualizar la información.</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>12</td>
+  <td>US12</td>
+  <td>Eliminar cuenta de usuario</td>
+  <td>Como Owner/Cliente de Movix Quiero eliminar mi cuenta de usuario Para dejar de usar los servicios de la aplicación.</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>13</td>
+  <td>US13</td>
+  <td>Publicar scooter en alquiler</td>
+  <td>Como Owner de un scooter eléctrico Quiero crear publicaciones con la información y especificaciones de mi scooter Para que pueda ser alquilado por un cliente.</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>14</td>
+  <td>US14</td>
+  <td>Visualizar un scooter en alquiler</td>
+  <td>Como Owner de un scooter eléctrico Quiero visualizar las publicaciones con la información y especificaciones de mi scooter Para verificar que toda la información ingresada es correcta y actualizada.</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>15</td>
+  <td>US15</td>
+  <td>Editar Scooter en alquiler</td>
+  <td>Como Owner de un scooter eléctrico Quiero editar la publicación de mi scooter Para que la información proporcionada a los clientes esté siempre actualizada.</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>16</td>
+  <td>US16</td>
+  <td>Eliminar scooter en alquiler</td>
+  <td>Como Owner Quiero eliminar un scooter en alquiler Para mantener la integridad de la información almacenada.</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>17</td>
+  <td>US17</td>
+  <td>Búsqueda de scooters cercano</td>
+  <td>Como cliente de Movix Quiero poder buscar scooters disponibles en mi distrito Para facilitar mi desplazamiento.</td>
+  <td>8</td>
+</tr>
+<tr>
+  <td>18</td>
+  <td>US18</td>
+  <td>Alquiler Scooter</td>
+  <td>Como Cliente de Movix Quiero alquilar un scooter Para llegar rápido a mi destino.</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>19</td>
+  <td>US19</td>
+  <td>Calificación y reseñas</td>
+  <td>Como cliente de Movix Quiero poder calificar y dejar reseñas sobre mi experiencia con scooters utilizados y la zona donde los tomé Para ayudar a otros usuarios a tomar decisiones informadas.</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>20</td>
+  <td>US20</td>
+  <td>Visualizar historial de scooters alquilados</td>
+  <td>Como Cliente de Movix Quiero visualizar mi historial de scooters alquilados Para acceder fácilmente a su información.</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>21</td>
+  <td>US21</td>
+  <td>Borrar historial de scooters alquilados</td>
+  <td>Como Cliente de Movix Quiero borrar mi historial de scooters alquilados Para ya no tener información que considere innecesaria.</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>22</td>
+  <td>US22</td>
+  <td>Adquirir plan</td>
+  <td>Como Cliente de Movix Quiero comprar un plan Para acceder a sus beneficios al usar la aplicación.</td>
+  <td>5</td>
+</tr>
+<tr>
+  <td>23</td>
+  <td>US23</td>
+  <td>Cancelar suscripción</td>
+  <td>Como Cliente de Movix Quiero cancelar mi suscripción Para ya no seguir teniendo cobros de esta.</td>
+  <td>3</td>
+</tr>
+<tr>
+  <td>24</td>
+  <td>TS01</td>
+  <td>Endpoint User</td>
+  <td>Como desarrollador de Movix Quiero hacer uso del endpoint /user Para gestionar los datos de los usuarios.</td>
+  <td>8</td>
+</tr>
+<tr>
+  <td>25</td>
+  <td>TS02</td>
+  <td>Endpoint Scooter</td>
+  <td>Como desarrollador de Movix Quiero hacer uso del endpoint /scooter Para gestionar los datos de los scooters</td>
+  <td>8</td>
+</tr>
+<tr>
+  <td>26</td>
+  <td>TS03</td>
+  <td>Endpoint Suscription</td>
+  <td>Como desarrollador de Movix Quiero hacer uso del endpoint /suscription Para gestionar los datos de las suscripciones.</td>
+  <td>8</td>
+</tr>
+<tr>
+  <td>27</td>
+  <td>TS04</td>
+  <td>Endpoint Historial</td>
+  <td>Como desarrollador de Movix Quiero hacer uso del endpoint /historial Para gestionar los datos de los historiales.</td>
+  <td>8</td>
+</tr>
+<tr>
+  <td>28</td>
+  <td>TS05</td>
+  <td>Endpoint Review</td>
+  <td>Como desarrollador de Movix Quiero hacer uso del endpoint /reviews Para gestionar los datos de las reseñas</td>
+  <td>8</td>
+</tr>
+</table>
+
+<div style="page-break-before: always;"></div>
+
