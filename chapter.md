@@ -206,10 +206,7 @@ Se utilizó este estandar para garantizar una facil comprension de nuestros regi
     <tr>
       <th>Team Member (Last Name, First Name)</th>
       <th>GitHub Username</th>
-      <th>Aspect Name 1 Leader (L) / Collaborator (C)</th>
-      <th>Aspect Name 2 Leader (L) / Collaborator (C)</th>
-      <th>...</th>
-      <th>Aspect Name n Leader (L) / Collaborator (C)</th>
+      <th>Aspect Landing Page Leader (L) / Collaborator (C)</th>
     </tr>
   </thead>
   <tbody>
@@ -217,17 +214,11 @@ Se utilizó este estandar para garantizar una facil comprension de nuestros regi
       <td>Jiménez Rosas, Arturo Eduardo</td>
       <td>ajimenezrosas</td>
       <td>L</td>
-      <td>C</td>
-      <td>...</td>
-      <td></td>
     </tr>
     <tr>
       <td>Rodríguez Peña, Jorge Andrés</td>
       <td>Japr91</td>
       <td>C</td>
-      <td>C</td>
-      <td>...</td>
-      <td>L</td>
     </tr>
   </tbody>
 </table>
