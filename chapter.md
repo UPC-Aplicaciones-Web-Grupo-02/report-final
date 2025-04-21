@@ -305,7 +305,11 @@ Portada de nuestra landing page
 Sección Sobre Nosotros
 
 ![Image](https://github.com/user-attachments/assets/c7f61a52-2064-43d0-af4d-90e6f474c6b9)
-Sección Nuestros servicios
+Sección nuestros servicios
+
+![Image](https://github.com/user-attachments/assets/c7f61a52-2064-43d0-af4d-90e6f474c6b9)
+Sección nuestras suscripciones
+
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
