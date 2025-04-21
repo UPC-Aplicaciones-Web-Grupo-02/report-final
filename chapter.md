@@ -293,6 +293,11 @@ En esta seccion se evidenciaran los commits realizados para la implementacion de
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
+En el primer Sprint se realizó la implementación de la landing page con las secciones funcionales, el footer y el diseño responsivo. A continucacion se muestra la landing page implementada en la version web y la version mobile:
+
+Link de nuestra landing page: [Visita nuestro sitio](https://upc-aplicaciones-web-grupo-02.github.io/landing-page/)
+
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
