@@ -283,6 +283,12 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a76
 
 #### 5.2.1.4. Development Evidence for Sprint Review.
 
+En esta seccion se evidenciaran los commits realizados para la implementacion de la Landing Page.
+
+![commit1](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/issues/7#issue-3007322766)
+
+
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
