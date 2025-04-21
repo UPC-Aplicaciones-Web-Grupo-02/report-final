@@ -5,28 +5,171 @@ Scooters eléctricos de alquiler estacionados en una calle de Lima (Miraflores).
 A continuación, se presentan los competidores actuales o recientes en el mercado peruano/latinoamericano, sus características y el análisis de sus fortalezas y debilidades, así como estrategias de Movix para diferenciarse.
 
 ### 2.1.1. Análisis competitivo.
-**Movo:** Startup de micromovilidad fundada en España en 2017, lanzada en Lima en 2019 en alianza con Cabify​. Operó inicialmente en los distritos de Miraflores, San Isidro y Barranco, con scooters eléctricos de hasta 25 km/h​. Su aplicación permitía localizar scooters vía GPS y desbloquearlos escaneando un código QR​. En cuanto a precios, cobraba S/ 1.00 por desbloqueo y S/ 0.50 por minuto de uso​, ofreciendo una tarifa ligeramente más económica por minuto que su competencia directa (Grin). Movo realizó campañas promocionales, como un piloto con viajes gratuitos para residentes de distritos como Miraflores y Barranco en sus inicios​.
 
-Fortalezas: respaldo de Cabify (lo que le dio acceso a una base de usuarios existente), menor costo por minuto y fuerte enfoque en seguridad (contaba con póliza de seguro para accidentes, similar a su competidor)​. Además, Movo implementó un equipo operativo para recoger y recargar los scooters diariamente, asegurando mantenimiento constante​. 
-
-Debilidades: cobertura geográfica más limitada (solo 3 distritos) y menor cuota de mercado que Grin (45% vs 55% antes de la pandemia)​. La empresa enfrentó dificultades ante la pandemia de COVID-19, lo que la llevó a cesar operaciones en Perú indefinidamente en 2020​. Su retiro dejó una parte del mercado desatendida, evidenciando la vulnerabilidad del modelo ante caídas drásticas de la demanda.
-
-
-**Grin:** Empresa de micromovilidad originada en México (parte de la fusionada Grow Mobility), operando en Lima desde inicios de 2019. Grin logró una rápida expansión en la ciudad, superando el millón de viajes en sus primeros 9 meses​. Antes de la pandemia contaba con más de 6,000 scooters en Lima y realizaba entre 4,000 y 4,500 viajes diarios​, alcanzando aproximadamente el 55% de la cuota de mercado local, por encima de Movo​. Su cobertura incluía más distritos que Movo; hacia 2020 operaba en Miraflores, San Isidro, Barranco, Jesús María, Lince, Pueblo Libre, Surquillo, San Borja, Surco, La Molina, entre otros​, cubriendo aproximadamente 21 km² con miras a expandirse a 35 km²​. Grin también dispone de app móvil para localizar y alquilar scooters con QR. Su tarifa típica ha sido de S/ 1 por desbloqueo y S/ 0.60 por minuto​ (posteriormente ajustada a S/ 0.60 tanto el desbloqueo como cada minuto durante la reactivación tras cuarentena​).
-
-Fortalezas: mayor presencia y alcance en Lima, alto reconocimiento de marca y solidez financiera al operar en varios países de Latinoamérica (tiene sede regional en Brasil y operaciones en Colombia, Chile, Argentina, además de Perú​). Cuenta con una base de datos de ~500,000 usuarios registrados (unos 50,000 usuarios activos mensuales)​, lo que refleja una comunidad de clientes significativa. La empresa ha demostrado adaptabilidad: durante la pandemia implementó el programa “Grin 4U” de alquiler mensual de scooters para sostener ingresos​. Grin enfatiza la seguridad, ofreciendo casco (opcional) y seguro de responsabilidad civil para sus usuarios​, y ha colaborado con municipalidades en la regulación de estos vehículos. 
-
-Debilidades: a pesar de su liderazgo, enfrenta retos de regulación y percepción pública; por ejemplo, algunas municipalidades de Lima han debatido restricciones de velocidad (20 km/h en Miraflores) y normas de circulación por incidentes viales. La necesidad de smartphone y pago con tarjeta puede excluir a usuarios sin acceso a estos medios. Asimismo, el modelo sin estaciones fijas conlleva problemas de scooters mal estacionados en la vía pública, lo que requiere constante monitoreo. La pandemia afectó gravemente sus operaciones de corto plazo (reducción a ~500 scooters alquilados mensualmente en 2020)​, obligando a pausar y reiniciar actividades según las disposiciones sanitarias.
-
-
-**Lime:** Compañía estadounidense de scooters eléctricos, que ingresó a Lima a modo de prueba en septiembre de 2019. Lime empezó con 500 scooters desplegados en zonas focalizadas (Miraflores y San Isidro principalmente)​, con intenciones de expandirse a Barranco y otros distritos. Su arribo generó expectativa dada su experiencia global en micromovilidad. 
-
-Fortalezas: tecnología y estándares internacionales (scooters robustos con baterías intercambiables, experiencia operativa en decenas de ciudades del mundo), además de amplio financiamiento.
-
-Debilidades: no logró consolidarse en el mercado peruano; tras un piloto de apenas dos meses, Lime se retiró de Latinoamérica a fines de 2019​, probablemente debido a reajustes estratégicos y posteriormente la crisis sanitaria. Por ende, su presencia en Lima fue muy breve y actualmente no opera en la ciudad.
-
-
-**Otros competidores/locales:** Además de los anteriores, el mercado limeño no ha contado con otros operadores de gran escala en alquiler de e-scooters. Hubo intentos menores o servicios asociados a plataformas (por ejemplo, Uber integró búsqueda de scooters en algunas ciudades, y empresas locales como Bee Perú ofrecieron alquiler de scooters/bicicletas eléctricas en 2021 de forma limitada). Sin embargo, ninguno ha alcanzado en Lima la presencia de Movo o Grin. En la actualidad, Grin permanece como el principal actor activo en scooters compartidos en Lima​, tras la salida de Movo, lo que deja espacio para que Movix ingrese con una oferta diferenciada.
+<table border="1px">
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+    <td valign="top">Movix</td>
+    <td valign="top">City Bike</td>
+    <td valign="top">Grin</td>
+    <td valign="top">Emove</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="#" alt="Logo of Movix" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/07c82e66-c3bf-487d-93c0-620223ae596b" alt="Logo of City Bike" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/4665f90c-104d-429c-b1ec-815983387cd0" alt="Logo of Grin" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/641fe160-0905-41af-9e4b-58304d63ae0c" alt="Logo of Emove" height="70px"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">Servicio de alquiler de scooters para la ciudad de Lima metropolitana.</td>
+    <td valign="top">Servicio de alquiler de bicicletas en Miraflores, Lima.</td>
+    <td valign="top">Servicio de alquiler de scooters para Lima metropolitana.</td>
+    <td valign="top">Servicio de alquiler de vehículos, servicios de reparaciones, venta de equipos y accesorios.</td>
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">Una plataforma que permite poner en alquiler scooters, ganar dinero con ello. Asimismo, se puede rentar mediante suscripcion</td>
+    <td valign="top">La forma de alquiler es mediante registros por plataforma web o móvil, la suscripción está disponible desde pase diario, mensual y anual.</td>
+    <td valign="top">Permite a los usuarios alquilar mediante suscripción sus scooters. Además, ofrece mantenimiento gratuito.</td>
+    <td valign="top">Permite a los usuarios el alquiler de vehículos, la compra y venta de accesorios nuevos como de segunda mano, a través de su sitio web.</td>
+  </tr>   
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">Personas de entre 18 y 65 años que requieren movilizarse por la ciudad de Lima y personas de entre 18 y 65 para el alquiler.</td>
+    <td valign="top">Personas mayores a 18 años, para habitantes de Lima, visitantes y turistas.</td>
+    <td valign="top">Personas mayores de 15 años que se deben movilizar por Lima Metropolitana diariamente.</td>
+    <td valign="top">Personas mayores de 18 años que busquen promover los vehículos de micromovilidad.</td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">Publicidad por redes sociales y vallas publicitarias en calles de mayor afluencia.</td>
+    <td valign="top">Publicidad en redes sociales.</td>
+    <td valign="top">Publicidad en redes sociales y afiches.</td>
+    <td valign="top">Publicidad en redes sociales.</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">Alquilerde scooters.</td>
+    <td valign="top">Alquiler de bicicletas.</td>
+    <td valign="top">Alquiler de scooters y mantenimiento.</td>
+    <td valign="top">Alquiler de vehículos y servicio de reparaciones.</td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">
+      Planes de suscripción:<br/>
+      - Plan mensual: s/. 39<br/>
+      - Plan trimestral: s/. 99<br/>
+      - Plan anual: s/. 199<br/>
+    </td>
+    <td valign="top">
+      Planes de suscripción:<br/> 
+      - Diario: s/4.33<br/>   
+      - Mensual: s/19.50<br/> 
+      - Anual: s/151.73<br/>
+    </td>
+    <td valign="top">
+      Planes de suscripción:<br/>
+      - Mensual: S/. 139<br/>
+      - Bimestral: S/. 239<br/>
+      - Trimestral: S/. 329<br/>
+    </td>
+    <td valign="top">
+      Costo de alquiler:<br/>
+      - 2 horas: s/. 60<br/>
+      - 4 horas: s/. 80<br/>
+      - 1 día: s/. 120<br/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+    <td valign="top">Principalmente a través de su sitio web, con posibilidad de acceso móvil.</td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">
+      Modelo de negocio innovador que combina alquiler por suscripción y oportunidad para propietarios de generar ingresos adicionales.
+    </td>
+    <td valign="top">
+      Posibilidad para personas que optan por un transporte eficiente y sano.
+    </td>
+    <td valign="top">
+      Base de clientes establecida, está presente en lugares con mayor afluencia de tráfico.
+    </td>
+    <td valign="top">
+      - Variedad de servicios<br/>
+      - Movilidad sostenible<br/>
+      - Flexibilidad de precios<br/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">
+      Dependencia de la disponibilidad de los vehículos por parte de los propietarios.<br/>
+      No contamos con un sistema de rastreo sofisticado.
+    </td>
+    <td valign="top">
+      No cuenta con servicio de mantenimiento.
+    </td>
+    <td valign="top">
+      No cuenta con aplicación móvil, costos elevados. Poca publicidad.
+    </td>
+    <td valign="top">
+      - Dependencia tecnológica<br/>
+      - Competencia<br/>
+      - Costos de mantenimiento<br/>
+      - Dependencia climática<br/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">
+      Es innovador y no afecta al medio ambiente. Asimismo, tiene un impacto positivo en la economía y salud de los usuarios.
+    </td>
+    <td valign="top">
+      La ciudad de Miraflores cuenta con vías exclusivas para bicicletas y posibilidad para expandir a más distritos Limeños.
+    </td>
+    <td valign="top">
+      Expandir su base de usuarios ya sea con mayor publicidad o más alcance a zonas de cobertura del servicio.
+    </td>
+    <td valign="top">
+      - Expansión de mercado<br/>
+      - Alianzas estratégicas<br/>
+      - Diversificación de servicios<br/>
+      - Tendencia de movilidad urbana<br/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">
+      Creciente aumento de competidores en el mercado de alquiler de scooters.
+    </td>
+    <td valign="top">
+      Las invasiones de motorizados a ciclovías y los robos de equipos (bicicletas) en lugares con poca seguridad.
+    </td>
+    <td valign="top">
+      Cambios en la regulación del transporte.
+    </td>
+    <td valign="top">
+      Cambios en la regulación, críticas negativas y avances tecnológicos representan amenazas potenciales para la operación y la reputación de Samma en el mercado.
+    </td>
+  </tr>
+</table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 Ante el panorama competitivo descrito, Movix debe implementar estrategias diferenciadoras para ganar participación en el mercado limeño de scooters eléctricos. A continuación, se plantean tácticas clave de Movix en comparación con los competidores, enfatizando valor agregado, experiencia de usuario, cobertura, seguridad y sostenibilidad:
