@@ -297,6 +297,7 @@ En el primer Sprint se realizó la implementación de la landing page con las se
 
 Link de nuestra landing page: [Visita nuestro sitio](https://upc-aplicaciones-web-grupo-02.github.io/landing-page/)
 
+**Versión Web**
 
 ![Image](https://github.com/user-attachments/assets/eb356fe5-8ab8-42b0-bc55-02bdc874ac0c)
 Portada de nuestra landing page
@@ -315,6 +316,18 @@ Sección que muestra a los integrantes del equipo de desarrollo
 
 ![Image](https://github.com/user-attachments/assets/ab519cd6-b614-4d7c-bfd0-1caa3fe327b2)
 Imagen que muestra el contenido de nuestro footer
+
+**Versión Mobile**
+
+![Image](https://github.com/user-attachments/assets/33865f12-ba7a-4b18-9168-610329eac969)
+
+![Image](https://github.com/user-attachments/assets/39d40e6a-117c-432a-a399-abe2bed43445)
+
+![Image](https://github.com/user-attachments/assets/c6f6b73f-b15c-4e3a-ae2a-62668daaf66a)
+
+![Image](https://github.com/user-attachments/assets/0973415c-1ed8-40b3-91ee-8afe32898116)
+
+![Image](https://github.com/user-attachments/assets/5f361e4f-9680-42d6-b50a-28f57474efd1)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
