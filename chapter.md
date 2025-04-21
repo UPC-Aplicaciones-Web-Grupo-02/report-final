@@ -245,6 +245,26 @@ Pia Barandiarán, una joven de 23 años que reside en el distrito de San Isidro,
 
 **Entrevistas segmento 2: Personas**
 
+#### Entrevista 2:
+
+Datos del entrevistador:
+* Nombres: Sebastian Enrique
+* Apellidos: Flores Manrique
+
+Datos del entrevistado:
+* Nombres: Erick
+* Apellidos: Alfaro Meneses
+* Edad: 38
+* Distrito de residencia: Miraflores
+* Enlace a la entrevista: [Ver Video]()
+* Duración de la entrevista: 
+
+![entrevista]()
+
+*Informe del resumen de la entrevista:*
+
+En la entrevista con Erick, un Ingeniero Petroquímico de 38 años que vive en Miraflores, se abordaron aspectos relacionados con su transporte diario y su disposición hacia un servicio de alquiler de scooters eléctricos. Andrés utiliza principalmente su auto y el Metropolitano, pero enfrenta desafíos como el tráfico y la dificultad para encontrar estacionamiento. Gasta aproximadamente 300 soles al mes en transporte convencional y no está completamente satisfecho con el servicio actual. En cuanto a la adopción de un scooter eléctrico, considera que sería una opción práctica para distancias cortas, y estaría dispuesto a usar una aplicación web para rentar uno, especialmente si el servicio es eficiente. También se mostró abierto a recomendarlo a familiares o compañeros, y estaría dispuesto a pagar una suscripción mensual si el servicio mejora su eficiencia en los desplazamientos, usándolo varias veces a la semana.
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
