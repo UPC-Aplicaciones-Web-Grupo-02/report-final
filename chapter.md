@@ -323,8 +323,8 @@ Para el despliegue de la landing page usamos la herramienta github pages, a cont
 [LandingPage](https://upc-aplicaciones-web-grupo-02.github.io/landing-page/)
 
 **Pasos**
-
-
+- Ingresamos a nuestro repositorio
+![Image](https://github.com/user-attachments/assets/304dc4e0-86c4-4954-a908-664c573b18aa)
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
