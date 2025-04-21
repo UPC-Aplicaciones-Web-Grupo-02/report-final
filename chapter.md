@@ -332,6 +332,8 @@ Para el despliegue de la landing page usamos la herramienta github pages, a cont
 - Una vez dentro del repositorio de la landing page, nos vamos a la seccion settings.
 ![Image](https://github.com/user-attachments/assets/0cce6e8d-07ec-4821-a7a1-606bd2f9b401)
 
+- Ingresamos a la seccion pages
+![Image](https://github.com/user-attachments/assets/0e1a11dc-c352-44c0-845b-622fb1fa2f54)
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
