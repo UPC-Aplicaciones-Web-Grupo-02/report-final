@@ -376,3 +376,32 @@ Colaboración por alumno en la Landing Page:
   </tr>
   </table>
 
+Tabla para poder identificarnos:
+
+<table border="1px" align="center">
+  <tr>
+    <th>Username (Github)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft</td>
+    <td>Velarde Gonzales, Nestor</td>
+  </tr>
+  <tr>
+    <td>alomsoo </td>
+    <td> Muñiz Huayanca, Percy Alonso </td>
+  </tr>
+  <tr>
+    <td>Arnold24x24 </td>
+    <td> Morales Sosa, Arnold Gabriel </td>
+  </tr>
+  <tr>
+    <td>RafaelCuya </td>
+    <td>Cuya Villegas, Rafael Alberto</td>
+  </tr>
+  <tr>
+    <td>Sebas2999 </td>
+    <td> Flores Manrique, Sebastian Enrique </td>
+  </tr>
+</table>
+
