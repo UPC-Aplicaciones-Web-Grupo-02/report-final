@@ -211,13 +211,28 @@ Se utilizó este estandar para garantizar una facil comprension de nuestros regi
   </thead>
   <tbody>
     <tr>
-      <td>Jiménez Rosas, Arturo Eduardo</td>
-      <td>ajimenezrosas</td>
+      <td>Velarde Gonzales, Nestor</td>
+      <td>VelardeSoft</td>
       <td>L</td>
     </tr>
     <tr>
-      <td>Rodríguez Peña, Jorge Andrés</td>
-      <td>Japr91</td>
+      <td>Muñiz Huayanca, Percy Alonso</td>
+      <td>alomsoo</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Morales Sosa, Arnold Gabriel</td>
+      <td>Arnold24x24</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Cuya Villegas, Rafael Alberto</td>
+      <td>RafaelCuya</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Flores Manrique, Sebastian Enrique</td>
+      <td>Sebas2999</td>
       <td>C</td>
     </tr>
   </tbody>
