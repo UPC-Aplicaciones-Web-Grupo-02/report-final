@@ -285,7 +285,7 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a76
 
 En esta seccion se evidenciaran los commits realizados para la implementacion de la Landing Page.
 
-![commit1](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/issues/7#issue-3007322766)
+![Image](https://github.com/user-attachments/assets/076476c2-3c1d-4be8-ba1f-565ae2490c04)
 
 ![commit2](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/issues/8#issue-3007323755)
 
