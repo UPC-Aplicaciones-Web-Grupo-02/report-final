@@ -302,7 +302,10 @@ Link de nuestra landing page: [Visita nuestro sitio](https://upc-aplicaciones-we
 Portada de nuestra landing page
 
 ![Image](https://github.com/user-attachments/assets/9da44016-6bf8-4e00-bc3e-12a3f0f5286a)
-Seccion Sobre Nosotros
+Sección Sobre Nosotros
+
+![Image](https://github.com/user-attachments/assets/c7f61a52-2064-43d0-af4d-90e6f474c6b9)
+Sección Nuestros servicios
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
