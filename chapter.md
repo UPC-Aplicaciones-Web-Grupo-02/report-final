@@ -289,6 +289,8 @@ En esta seccion se evidenciaran los commits realizados para la implementacion de
 
 ![Image](https://github.com/user-attachments/assets/e5313656-61fe-46da-826c-483978f13d9d)
 
+![Image](https://github.com/user-attachments/assets/ac6f41be-64c7-4102-b2c6-871c67149b80)
+
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
