@@ -287,8 +287,7 @@ En esta seccion se evidenciaran los commits realizados para la implementacion de
 
 ![Image](https://github.com/user-attachments/assets/076476c2-3c1d-4be8-ba1f-565ae2490c04)
 
-![commit2](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/issues/8#issue-3007323755)
-
+![Image](https://github.com/user-attachments/assets/e5313656-61fe-46da-826c-483978f13d9d)
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
