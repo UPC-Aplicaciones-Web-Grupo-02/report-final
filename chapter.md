@@ -310,6 +310,8 @@ Sección nuestros servicios
 ![Image](https://github.com/user-attachments/assets/c7f61a52-2064-43d0-af4d-90e6f474c6b9)
 Sección nuestras suscripciones
 
+![Image](https://github.com/user-attachments/assets/a82de65d-536f-464c-87c0-c6c043ab55ca)
+Sección que muestra a los integrantes del equipo de desarrollo
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
