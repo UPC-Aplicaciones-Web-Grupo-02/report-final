@@ -298,6 +298,9 @@ En el primer Sprint se realizó la implementación de la landing page con las se
 Link de nuestra landing page: [Visita nuestro sitio](https://upc-aplicaciones-web-grupo-02.github.io/landing-page/)
 
 
+![Image](https://github.com/user-attachments/assets/eb356fe5-8ab8-42b0-bc55-02bdc874ac0c)
+Portada de nuestra landing page
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
