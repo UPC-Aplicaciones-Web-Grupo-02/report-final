@@ -313,6 +313,9 @@ Sección nuestras suscripciones
 ![Image](https://github.com/user-attachments/assets/4efecc22-9ddc-40b8-a6c0-769c32f391cf)
 Sección que muestra a los integrantes del equipo de desarrollo
 
+![Image](https://github.com/user-attachments/assets/ab519cd6-b614-4d7c-bfd0-1caa3fe327b2)
+Imagen que muestra el contenido de nuestro footer
+
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
