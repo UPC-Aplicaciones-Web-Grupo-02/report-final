@@ -347,3 +347,32 @@ Para el despliegue de la landing page usamos la herramienta github pages, a cont
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
+Colaboración por alumno en la Landing Page:
+
+<table border="1px" align="center">
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+    <tr>
+    <td>Cuya Villegas, Rafael Alberto</td>
+    <td>Implementación de la navbar e inicio de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Flores Manrique, Sebastian Enrique</td>
+    <td>Implementación de la sección "About Us " de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Muñiz Huayanca, Percy Alonso</td>
+    <td>Implementación de la sección "Contacto" de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Morales Sosa, Arnold Gabriel</td>
+    <td>Implementación de la sección "Suscripciones" de la Landing Page.</td>
+  </tr>
+  <tr>
+    <td>Velarde Gonzales, Nestor Hernan </td>
+    <td>Implementación inicial de la landing page y código para Landing Page responsiva</td>
+  </tr>
+  </table>
+
