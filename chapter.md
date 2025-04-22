@@ -390,6 +390,8 @@ Imagen que muestra el contenido de nuestro footer
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
+**No aplica para esta entrega**
+
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 Para el despliegue de la landing page usamos la herramienta github pages, a continuación mostaremos el link de la landing page desplegada junto con los pasos realizados para publicarla:
 [LandingPage](https://upc-aplicaciones-web-grupo-02.github.io/landing-page/)
