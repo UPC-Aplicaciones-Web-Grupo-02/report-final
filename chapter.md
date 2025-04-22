@@ -343,6 +343,10 @@ A continuación se identifican las tareas principales que los usuarios realizar�
 | Ver costo estimado antes de iniciar    | A veces                          | Alta                        | Frecuentemente                    | Alta                        |
 | Reportar fallas o dejar reseña         | Raramente                        | Alta                        | Frecuentemente                    | Media                       |
 
+### Observaciones
+
+Aunque los estudiantes universitarios como Juan y los adultos jóvenes de Miraflores como María utilizan la aplicación Movix de forma muy similar, existen diferencias sutiles en su comportamiento. Los estudiantes suelen priorizar el ahorro de tiempo y dinero, valorando más las promociones y los viajes eficientes hacia centros educativos. En cambio, los adultos profesionales muestran una mayor preocupación por la flexibilidad y la comodidad, utilizando funciones como pausar viajes o consultar costos con mayor frecuencia.
+
 ### 2.3.3. User Journey Mapping.
 
 ### 2.3.4. Empathy Mapping.
