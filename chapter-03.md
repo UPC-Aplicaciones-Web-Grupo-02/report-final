@@ -707,6 +707,10 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
 
 
 ## 3.3. Impact Mapping.
+En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
+**Segmento 1: Owner**
+
+![IMPACT DESARROLADOR](https://github.com/user-attachments/assets/ceb3b060-007e-4b60-9a95-e7101e92da44)
 
 ## 3.4. Product Backlog.
 
