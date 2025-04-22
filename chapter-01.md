@@ -45,7 +45,7 @@ Somos InnovaTech, una startup fundada por 5 estudiantes de la Universidad Peruan
   </tr>
   <tr>
    <td>
-       <img src="https://github.com/user-attachments/assets/491727aa-e1da-4166-947a-7134462466b5" alt="img profile"/></td> <br/>
+       <img src="https://github.com/user-attachments/assets/491727aa-e1da-4166-947a-7134462466b5" alt="img profile"/> <br/>
        Percy Alonso Muñiz Huayanca - U202319563 
     </td>
     <td>Estudiante de Ingeniería de Software con enfoque en backend, diseño y documentación. Responsable, proactivo y con gran capacidad de adaptación.</td>
