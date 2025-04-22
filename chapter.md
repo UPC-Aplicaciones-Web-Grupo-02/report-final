@@ -142,6 +142,12 @@ Para el despliegue de la solucion realizamos los siguientes pasos:
 
 ![Image](https://github.com/user-attachments/assets/d1bdef89-5ebe-46e4-8bc5-584acc88f950)
 
+- A continuación clonamos el repositorio en Webstorm usando la URL.
+  
+![Image](https://github.com/user-attachments/assets/5f9975f9-b892-4019-aad9-d3123290ee67)
+
+![Image](https://github.com/user-attachments/assets/8a609cdb-57bf-411c-8482-14d90d0e59f7)
+
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
