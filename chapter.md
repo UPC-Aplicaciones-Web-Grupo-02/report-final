@@ -265,6 +265,29 @@ Datos del entrevistado:
 
 En la entrevista con Erick, un Ingeniero Petroquímico de 38 años que vive en Miraflores, se abordaron aspectos relacionados con su transporte diario y su disposición hacia un servicio de alquiler de scooters eléctricos. Andrés utiliza principalmente su auto y el Metropolitano, pero enfrenta desafíos como el tráfico y la dificultad para encontrar estacionamiento. Gasta aproximadamente 300 soles al mes en transporte convencional y no está completamente satisfecho con el servicio actual. En cuanto a la adopción de un scooter eléctrico, considera que sería una opción práctica para distancias cortas, y estaría dispuesto a usar una aplicación web para rentar uno, especialmente si el servicio es eficiente. También se mostró abierto a recomendarlo a familiares o compañeros, y estaría dispuesto a pagar una suscripción mensual si el servicio mejora su eficiencia en los desplazamientos, usándolo varias veces a la semana.
 
+#### Entrevista 3:
+
+Datos del entrevistador:
+* Nombres: Percy Alonso  
+* Apellidos: Muñiz Huayanca
+
+Datos del entrevistado:
+* Nombres: Jarol Michael
+* Apellidos: Saquiray Vargas
+* Edad: 19
+* Distrito de residencia: Miraflores
+* Enlace a la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EZJl0nBLpFdBryzPGIqXZF4B6NMXHrYjdvlIaAfuHpU6ag?e=CbFrKR
+* Duración de la entrevista: 4 minutos y 31 segundos
+
+![Entrevista 3](https://github.com/user-attachments/assets/baf76115-1977-43ce-8731-6d1f370fa293)
+
+*Informe del resumen de la entrevista:*
+
+En la entrevista con Jarol, un estudiante de Ingeniería de Sistemas de 19 años que reside en Miraflores y estudia en la Universidad de Lima, se abordaron aspectos relacionados con su transporte diario y su interés en un servicio de alquiler de scooters eléctricos.
+Jarol utiliza principalmente su auto particular y el Metropolitano para movilizarse, pero enfrenta varios desafíos, como el tráfico intenso y la falta de estacionamiento, lo que afecta su experiencia de transporte. Actualmente, gasta alrededor de 500 soles mensuales en transporte convencional, y menciona que no está completamente satisfecho con el servicio que utiliza.
+Respecto a la posibilidad de usar scooters eléctricos, considera que sería una alternativa práctica y eficiente para distancias cortas, especialmente dentro de zonas urbanas. Además, estaría dispuesto a utilizar una aplicación web para rentar uno, siempre y cuando el servicio sea ágil, seguro y confiable. También se mostró abierto a recomendar la experiencia a sus familiares o compañeros de universidad.
+Finalmente, Jarol mencionó que, si el servicio logra optimizar su tiempo de desplazamiento, estaría dispuesto a pagar una suscripción mensual, ya que prevé usarlo varias veces por semana como parte de su rutina diaria.
+
 ### 2.2.3. Análisis de entrevistas.
 
 ## 2.3. Needfinding.
