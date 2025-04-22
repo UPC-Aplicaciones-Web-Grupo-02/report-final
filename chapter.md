@@ -148,6 +148,12 @@ Para el despliegue de la solucion realizamos los siguientes pasos:
 
 ![Image](https://github.com/user-attachments/assets/8a609cdb-57bf-411c-8482-14d90d0e59f7)
 
+- Procedemos a ejecutar el archivo index.html para finalmente poder visualizar la landing page en el navegador.
+  
+![Image](https://github.com/user-attachments/assets/58c39941-02be-4e91-9abe-58ae64bf1c22)
+
+![Image](https://github.com/user-attachments/assets/3425a6a3-91ab-43a5-bdff-4bb9603d490f)
+
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
