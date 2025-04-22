@@ -38,8 +38,6 @@ Rider: Este es un entorno de desarrollo, el cual nos permite trabajar con el len
 
 **Software Deployment**
 
-Netlify (https://www.netlify.com/): Plataforma para desplegar sitios web estáticos y JAMstack, que ofrece integración continua y CDN. Se usó para hospedar la landing page del proyecto.
-<br>
 GitHub Page (https://pages.github.com/): GitHub Pages es un servicio que ofrece GitHub para publicar un sitio web a partir de un repositorio, cabe mencionar que solo permite alojar sitios web estáticos y dinamicos. Se utilizó para desplegar la landing page del proyecto.
 <br>
 
@@ -209,7 +207,7 @@ Para el despliegue de la solucion realizamos los siguientes pasos:
     <tr>
         <td style="font-weight: bold;">Sprint 1 Goal</td>
         <td>
-            En este sprint se espera la implementación y despliegue de la landing page con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar HTML y CSS para hacer la landing page. Al finalizar este sprint, la landing page se desplegó en Netlify para que sea accesible por cualquier usuario desde su navegador de preferencia.
+            En este sprint se espera la implementación y despliegue de la landing page con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar HTML y CSS para hacer la landing page. Al finalizar este sprint, la landing page se desplegó con l ayuda de la herramienta GitHub Pages.
         </td>
     </tr>
     <tr>
@@ -309,7 +307,7 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a76
    </tr>
    <tr>
       <td> EP01-US03 </td>
-      <td colspan="3">Implementación de la sección "Servicios" de la Landing Page</td>
+      <td colspan="3">Implementación  inicial de la landing page y código para Landing Page responsiva</td>
       <td> W03  </td>
       <td> Sección "Services" </td>
       <td>Implementar la sección "Servicios" de la landing page. </td>
