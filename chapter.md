@@ -138,7 +138,9 @@ Para el despliegue de la solucion realizamos los siguientes pasos:
 
 ![Image](https://github.com/user-attachments/assets/8a49b125-b2ca-4588-8219-89f7626ad5c6)
 
+- Seleccionar el repositorio de la landing page del proyecto
 
+![Image](https://github.com/user-attachments/assets/d1bdef89-5ebe-46e4-8bc5-584acc88f950)
 
 
 
