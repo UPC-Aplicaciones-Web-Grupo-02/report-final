@@ -354,6 +354,9 @@ Aunque los estudiantes universitarios como Juan y los adultos jóvenes de Mirafl
 #### Alonso García (Estudiante Universitario)
 ![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/Empathy%20map%20-%20Alonso.png)
 
+### María López (Adulto mayor residente de Miraflores)
+![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/Empathy%20map%20-%20Maria.png)
+
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Ubiquitous Language.
