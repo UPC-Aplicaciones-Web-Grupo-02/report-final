@@ -366,8 +366,6 @@ Aunque los estudiantes universitarios como Juan y los adultos jóvenes de Mirafl
 ### 2.3.5. As-is Scenario Mapping.
 
 ## 2.4. Ubiquitous Language.
-
-## 2.4. Ubiquitous Language (Lenguaje Ubicuo)
 En un proyecto como Movix es fundamental establecer un glosario común de términos para asegurar que todo el equipo (y los usuarios) compartan el mismo entendimiento de conceptos clave. A continuación se definen los términos más relevantes del dominio de la aplicación de alquiler de scooters eléctricos en Lima:
 
 | **Término**         | **Definición (en el contexto de Movix)** |
