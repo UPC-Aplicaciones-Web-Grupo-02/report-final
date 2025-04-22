@@ -61,12 +61,10 @@ Somos InnovaTech, una startup fundada por 5 estudiantes de la Universidad Peruan
     <td>Dato 4</td>
     <td>Dato 5</td>
     <td>Dato 6</td>
-    <td>Dato 6</td>
   </tr>
   <tr>
     <td>Dato 4</td>
     <td>Dato 5</td>
-    <td>Dato 6</td>
     <td>Dato 6</td>
   </tr>
 </table>
