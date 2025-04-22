@@ -367,3 +367,23 @@ Aunque los estudiantes universitarios como Juan y los adultos jóvenes de Mirafl
 
 ## 2.4. Ubiquitous Language.
 
+## 2.4. Ubiquitous Language (Lenguaje Ubicuo)
+En un proyecto como Movix es fundamental establecer un glosario común de términos para asegurar que todo el equipo (y los usuarios) compartan el mismo entendimiento de conceptos clave. A continuación se definen los términos más relevantes del dominio de la aplicación de alquiler de scooters eléctricos en Lima:
+
+| **Término**         | **Definición (en el contexto de Movix)** |
+|---------------------|-------------------------------------------|
+| **Alquiler (viaje)** | Período de uso de un scooter por parte de un usuario, desde su desbloqueo hasta su finalización. Equivale a un “viaje” o “recorrido” realizado en el scooter. Durante un alquiler, se contabiliza el tiempo (y eventualmente la distancia) para calcular la tarifa. |
+| **Scooter (patinete eléctrico)** | Vehículo de dos ruedas pequeño y eléctrico, diseñado para el transporte individual de pie. En Movix, los scooters son el activo principal que los usuarios alquilan mediante la app. Están equipados con motor eléctrico, batería, frenos y suelen alcanzar ~25 km/h de velocidad máxima. |
+| **Estación** | Punto designado para estacionar o recoger scooters. En un modelo *dockless* (sin estaciones fijas) como Movix, no hay estaciones físicas obligatorias, pero el término puede referirse a zonas de estacionamiento recomendadas por la app o el municipio. También puede usarse “estación de carga” para referirse a la base donde se recargan los scooters. |
+| **Desbloquear** | Acción de iniciar un alquiler liberando el candado electrónico del scooter. Implica escanear el código QR o enviar la señal desde la app. Conlleva el inicio de la tarifa por uso. Antónimo: *finalizar*. |
+| **Recorrido (trayecto)** | Desplazamiento físico realizado en el scooter durante un alquiler. Puede medirse en distancia y visualizarse en la app. Abarca desde el punto de partida hasta donde se deja el scooter. |
+| **Tarifa (precio)** | Esquema de cobro por el uso del scooter. Usualmente consiste en una tarifa de desbloqueo + tarifa por minuto. Por ejemplo, S/1 + S/0.50/min. Puede variar con promociones o pases mensuales. |
+| **Área de servicio** | Zona geográfica donde Movix opera y es permitido iniciar o finalizar un alquiler. Fuera de esta área, la app no permite usar el servicio. Ejemplo: Miraflores, San Isidro, Barranco. |
+| **Usuario (cliente)** | Persona que utiliza la app Movix para alquilar scooters. También llamado *rider*. Se diferencia del personal de la empresa. |
+| **Operador** | Miembro del equipo Movix encargado de la logística, recarga y redistribución de scooters. También llamado *fleet manager* o *cargador*. |
+| **SOAT** | Seguro Obligatorio de Accidentes de Tránsito. Aunque no se exige directamente para scooters en Perú, Movix aplica una póliza privada similar para cubrir accidentes. Es clave al hablar de seguridad legal. |
+| **Micromovilidad** | Concepto que engloba transportes ligeros para distancias cortas, como scooters, bicicletas o monociclos. Movix promueve la micromovilidad urbana sostenible para reducir tráfico y contaminación. |
+
+Este lenguaje unificado facilita la comunicación entre equipos y mejora la experiencia del usuario al usar términos consistentes como “Desbloquea”, “Tu viaje” o “Estación segura”. A medida que Movix crezca, este glosario podrá ampliarse, pero estos son los conceptos fundamentales del proyecto.
+
+
