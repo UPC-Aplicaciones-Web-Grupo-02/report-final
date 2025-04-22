@@ -349,6 +349,9 @@ Aunque los estudiantes universitarios como Juan y los adultos jóvenes de Mirafl
 
 ### 2.3.3. User Journey Mapping.
 
+### Alonso García (Estudiante Universitario)
+![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/User%20Journey%20Mapping%20-%20Alonso.png)
+
 ### María López (Adulto mayor residente de Miraflores)
 ![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/User%20Journey%20Mapping%20-%20María.png)
 
