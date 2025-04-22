@@ -1,6 +1,8 @@
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
+*Segmento 1:Owner
+![MAPPING OWNER](https://github.com/user-attachments/assets/dbbce90d-d08c-4f56-baa5-a19c9c843267)
 
 ## 3.2. User Stories.
 
