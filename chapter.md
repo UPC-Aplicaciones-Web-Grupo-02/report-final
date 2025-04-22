@@ -326,6 +326,22 @@ En este apartado se presentan dos user personas que representan a los usuarios f
 ![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/María%20López.png)
 
 ### 2.3.2. User Task Matrix.
+A continuación se identifican las tareas principales que los usuarios realizarán con la app Movix. Estas tareas han sido definidas considerando las necesidades de Alonso, María y usuarios similares al interactuar con el servicio de alquiler de scooters:
+
+
+| **User Task Matrix**                    | **Alonso (Estudiante)**             |                             | **María (Miraflores)**            |                             |
+|----------------------------------------|----------------------------------|-----------------------------|-----------------------------------|-----------------------------|
+|                                        | **Frecuencia**                   | **Importancia**             | **Frecuencia**                    | **Importancia**             |
+| Buscar scooter cercano                 | Siempre                          | Alta                        | Siempre                           | Alta                        |
+| Ver nivel de batería                   | Siempre                          | Alta                        | Siempre                           | Alta                        |
+| Desbloquear scooter con QR            | Siempre                          | Alta                        | Siempre                           | Alta                        |
+| Usar rutas sugeridas (ciclovías)       | A veces                          | Media                       | A veces                           | Media                       |
+| Finalizar viaje correctamente          | Siempre                          | Alta                        | Siempre                           | Alta                        |
+| Consultar historial de viajes          | A veces                          | Media                       | A veces                           | Media                       |
+| Revisar promociones o referidos        | Frecuentemente                   | Alta                        | A veces                           | Media                       |
+| Usar opción “pausar viaje”             | Raramente                        | Baja                        | A veces                           | Media                       |
+| Ver costo estimado antes de iniciar    | A veces                          | Alta                        | Frecuentemente                    | Alta                        |
+| Reportar fallas o dejar reseña         | Raramente                        | Alta                        | Frecuentemente                    | Media                       |
 
 ### 2.3.3. User Journey Mapping.
 
