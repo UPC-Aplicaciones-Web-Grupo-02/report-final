@@ -58,8 +58,11 @@ Somos InnovaTech, una startup fundada por 5 estudiantes de la Universidad Peruan
     <td>Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.</td>
   </tr>
     <tr>
-    <td>Dato 4</td>
-    <td>Dato 5</td>
+    <td>
+        <img src="public/assets/student/ArnoldProfile.png" alt="img profile"/> <br/> Arnold Gabriel Morales Sosa - U201822516
+    </td>
+    <td>Estudiante de la carrera de Ingeniería de Software en la UPC, con estudios intermedios en Ensamblaje, Mantenimiento, Conectividad de equipos, desarrollo de software, programación y diseño. Innovador con deseos de aprender y apoyar en este proyecto donde pueda desarrollar mis conocimientos, apoyar a la mejora y logros de los objetivos estratégicos. Soy una persona con facilidad para trabajar en equipo, bajo presión, responsable, honesto, proactivo, creativo, ordenado, y dinámico.</td>
+    <td>Tengo conocimientos en C++, Python, Javascript, agile scrum, SQL, NOSQL, vue.js, jerkins</td>
     <td>Dato 6</td>
   </tr>
   <tr>
