@@ -712,6 +712,10 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 
 ![IMPACT DESARROLADOR](https://github.com/user-attachments/assets/ceb3b060-007e-4b60-9a95-e7101e92da44)
 
+**Segmento 2: User**
+
+![IMPACT USER](https://github.com/user-attachments/assets/cd80cae6-5a3f-4ce9-99cb-12905c5107a7)
+
 ## 3.4. Product Backlog.
 
 <table border="1px">
