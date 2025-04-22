@@ -65,9 +65,11 @@ Somos InnovaTech, una startup fundada por 5 estudiantes de la Universidad Peruan
     <td>Tengo conocimientos en C++, Python, Javascript, agile scrum, SQL, NOSQL, vue.js, jerkins</td>
   </tr>
   <tr>
-    <td>Dato 4</td>
-    <td>Dato 5</td>
-    <td>Dato 6</td>
+    <td>
+        <img src="https://github.com/user-attachments/assets/c0e6f405-1229-4e89-bfdc-da2d3036430d" alt="img profile"/> <br/> Rafael Alberto Cuya Villegas - U201913495
+    </td>
+    <td>Soy estudiante de la carrera de ingeniería de software. Me considero una persona responsable y que le gusta trabajar en equipo.</td>
+    <td>Conocimientos HTML, CSS, SQL, Mongodb y JS.</td>
   </tr>
 </table>
 
