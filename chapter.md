@@ -274,7 +274,7 @@ Datos del entrevistador:
 Datos del entrevistado:
 * Nombres: Jarol Michael
 * Apellidos: Saquiray Vargas
-* Edad: 19
+* Edad: 18
 * Distrito de residencia: Miraflores
 * Enlace a la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EZJl0nBLpFdBryzPGIqXZF4B6NMXHrYjdvlIaAfuHpU6ag?e=CbFrKR
 * Duración de la entrevista: 4 minutos y 31 segundos
@@ -283,10 +283,33 @@ Datos del entrevistado:
 
 *Informe del resumen de la entrevista:*
 
-En la entrevista con Jarol, un estudiante de Ingeniería de Sistemas de 19 años que reside en Miraflores y estudia en la Universidad de Lima, se abordaron aspectos relacionados con su transporte diario y su interés en un servicio de alquiler de scooters eléctricos.
+En la entrevista con Jarol, un estudiante de Ingeniería de Sistemas de 18 años que reside en Miraflores y estudia en la Universidad de Lima, se abordaron aspectos relacionados con su transporte diario y su interés en un servicio de alquiler de scooters eléctricos.
 Jarol utiliza principalmente su auto particular y el Metropolitano para movilizarse, pero enfrenta varios desafíos, como el tráfico intenso y la falta de estacionamiento, lo que afecta su experiencia de transporte. Actualmente, gasta alrededor de 500 soles mensuales en transporte convencional, y menciona que no está completamente satisfecho con el servicio que utiliza.
 Respecto a la posibilidad de usar scooters eléctricos, considera que sería una alternativa práctica y eficiente para distancias cortas, especialmente dentro de zonas urbanas. Además, estaría dispuesto a utilizar una aplicación web para rentar uno, siempre y cuando el servicio sea ágil, seguro y confiable. También se mostró abierto a recomendar la experiencia a sus familiares o compañeros de universidad.
 Finalmente, Jarol mencionó que, si el servicio logra optimizar su tiempo de desplazamiento, estaría dispuesto a pagar una suscripción mensual, ya que prevé usarlo varias veces por semana como parte de su rutina diaria.
+
+#### Entrevista 3:
+
+Datos del entrevistador:
+* Nombres: Percy Alonso  
+* Apellidos: Muñiz Huayanca
+
+Datos del entrevistado:
+* Nombres: Juan Pablo
+* Apellidos: Yataco Juarez
+* Edad: 18
+* Distrito de residencia: Miraflores
+* Enlace a la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/ERFcU9rYptdMoureNmbk_LcBmvk4QTmspNmI_lQOBzxdDg?e=zJS4Za
+* Duración de la entrevista: 4 minutos y 42 segundos
+
+![Entrevista 4](https://github.com/user-attachments/assets/e29567bb-d589-466b-9004-4db4c510bd70)
+
+*Informe del resumen de la entrevista:*
+
+Durante la entrevista con Juan Pablo, un joven de 18 años que estudia Ingeniería de Sistemas en la Universidad de Piura, se exploraron sus hábitos de movilidad y su disposición hacia nuevas alternativas de transporte urbano.
+Juan Pablo se moviliza principalmente en auto y en el Metropolitano, pero comenta que suele lidiar con tráfico pesado y dificultades para encontrar estacionamiento, lo que le genera pérdida de tiempo y estrés en sus trayectos diarios. Su gasto mensual en transporte ronda los 500 soles, y reconoce que no está del todo conforme con las opciones actuales.
+Frente a esto, mostró un interés positivo por el uso de scooters eléctricos, señalando que le parecen una solución cómoda, rápida y moderna para moverse en distancias cortas dentro de la ciudad. Le resulta especialmente atractiva la posibilidad de acceder al servicio mediante una aplicación web intuitiva, que le permita alquilar un scooter de forma fácil y rápida.
+Juan Pablo expresó que se sentiría a gusto probando el servicio, y que si realmente le ayuda a ahorrar tiempo y evitar el estrés del tráfico, estaría dispuesto a suscribirse mensualmente. Además, no dudaría en recomendarlo a sus amigos y compañeros, destacando la utilidad del servicio en su día a día universitario.
 
 ### 2.2.3. Análisis de entrevistas.
 
