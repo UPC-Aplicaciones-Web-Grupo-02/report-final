@@ -116,8 +116,8 @@ Para desarrollar nuestro proyecto hemos requerido de algunas nomenclaturas, refe
     - Separar los nombres de las clases y ID con un guión
 
 - **Gherkin:** Es un lenguaje de dominio específico diseñado para escribir especificaciones legibles por humanos que describen el comportamiento del software en un formato estructurado y comprensible. En busca de una buena práctica, se utilizarán saltos de línea para mejorar el orden de los escenarios y poder diferenciarlos de forma más óptima. Además, se escribirán los escenarios bajo el formato “Given”, “When”, “Then”, “And” para definir claramente el contexto, la acción y el resultado esperado.
--
-**Herramientas:** Nos apoyamos de las tecnologias mas utilziadas y recomendadeas para el desarrollo web, como los son Webstorm, Git, GitHub, LudcidChart, Figma y Miro.
+  
+-**Herramientas:** Nos apoyamos de las tecnologias mas utilziadas y recomendadeas para el desarrollo web, como los son Webstorm, Git, GitHub, LudcidChart, Figma y Miro.
 
 **Convenciones de idioma:** Uso del idioma ingles para elaborar nuestro codigo, incluyendo la parte de la landing page.
 
@@ -310,7 +310,7 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a76
       <td colspan="3">Implementación  inicial de la landing page y código para Landing Page responsiva</td>
       <td> W03  </td>
       <td> Sección "Services" </td>
-      <td>Implementar la sección "Servicios" de la landing page. </td>
+      <td>Implementación  inicial de la landing page y código para Landing Page responsiva. </td>
       <td> 3  </td>
       <td> Nestor Velarde </td> 
       <td> Done </td>
