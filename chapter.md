@@ -317,6 +317,13 @@ Juan Pablo expresó que se sentiría a gusto probando el servicio, y que si real
 En esta sección se exploran las necesidades de los usuarios y el contexto de uso de Movix, enfocándose en dos segmentos clave definidos para la investigación: (1) Estudiantes universitarios y (2) Público general en Miraflores. Se emplean técnicas de design research para comprender a fondo a estos usuarios: se crean user personas representativas de cada segmento, se identifican sus tareas con la aplicación (user task matrix), se traza su recorrido de uso (user journey), se elaboran mapas de empatía basados en supuestas entrevistas, y se describe el escenario actual (as-is) de cómo satisfacen su necesidad de transporte sin Movix. Esta información orientará el diseño centrado en el usuario de la aplicación.
 
 ### 2.3.1. User Personas.
+En este apartado se presentan dos user personas que representan a los usuarios finales de la plataforma de Movix. Estas representaciones ficticias están basadas en los datos recopilados durante el proceso de needfinding y reflejan las características, necesidades y comportamientos de los usuarios reales.
+
+**User Persona 1 - Segmento objetivo 1: Usuarios Universitarios** <br>
+![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/Alonso%20García.png)
+
+**User Persona 2 - Segmento objetivo 2: Público Mayor de 18 Años que Reside en Miraflores, Lima** <br>
+![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/María%20López.png)
 
 ### 2.3.2. User Task Matrix.
 
