@@ -207,7 +207,7 @@ Para el despliegue de la solucion realizamos los siguientes pasos:
     <tr>
         <td style="font-weight: bold;">Sprint 1 Goal</td>
         <td>
-            En este sprint se espera la implementación y despliegue de la landing page con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar HTML y CSS para hacer la landing page. Al finalizar este sprint, la landing page se desplegó con l ayuda de la herramienta GitHub Pages.
+            En este sprint se espera la implementación y despliegue de la landing page con las secciones funcionales, el footer y el diseño responsivo. En el grupo acordamos usar HTML y CSS para hacer la landing page. Al finalizar este sprint, la landing page se desplegó con ayuda de la herramienta GitHub Pages.
         </td>
     </tr>
     <tr>
@@ -307,7 +307,7 @@ Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a76
    </tr>
    <tr>
       <td> EP01-US03 </td>
-      <td colspan="3">Implementación  inicial de la landing page y código para Landing Page responsiva</td>
+      <td colspan="3">Implementación inicial de la landing page y código para Landing Page responsiva</td>
       <td> W03  </td>
       <td> Sección "Services" </td>
       <td>Implementación  inicial de la landing page y código para Landing Page responsiva. </td>
