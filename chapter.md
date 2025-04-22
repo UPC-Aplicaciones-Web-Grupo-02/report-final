@@ -132,6 +132,16 @@ Se utilizó este estandar para garantizar una facil comprension de nuestros regi
 
 ### 5.1.4. Software Deployment Configuration.
 
+Para el despliegue de la solucion realizamos los siguientes pasos:
+
+- Ingresar a la organizacion de GitHub a través del URL: [github.com/UPC-Aplicaciones-Web-Grupo-02](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final)
+
+![Image](https://github.com/user-attachments/assets/8a49b125-b2ca-4588-8219-89f7626ad5c6)
+
+
+
+
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ### 5.2.1. Sprint 01
