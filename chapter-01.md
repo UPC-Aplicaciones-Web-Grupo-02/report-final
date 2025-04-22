@@ -36,19 +36,19 @@ Somos InnovaTech, una startup fundada por 5 estudiantes de la Universidad Peruan
     <th>Conocimiento</th>
   </tr>
   <tr>
-    ![Image](https://github.com/user-attachments/assets/43c01537-b929-40da-981f-669662ecb0de)
+    <td><img src="https://github.com/user-attachments/assets/a93d3997-ae00-4c2f-b98e-98c7b2ad8662" alt="Foto de Néstor Velarde Gonzales"/></td>
     <td>Velarde Gonzales, Néstor H - u20211c221</td>
     <td>Estudiante de la carrera de Ing. De Software en la UPC, actualmente cuento con conocimientos básicos de desarrollo de software desde el análisis, especificación  y el desarrollo proyectos tanto Frontend y Backend aplicando las buenas prácticas en todo el proceso de desarrollo.</td>
     <td>Herramientas: Git, GitHub, GitFlow  Frontend develop: html, css, js, angular, vue, Boostrap-5  Backend develop: C#, Python, sprint boot.</td>
   </tr>
   <tr>
-    ![Foto Alonso](https://github.com/user-attachments/assets/491727aa-e1da-4166-947a-7134462466b5)
+   <td><img src="https://github.com/user-attachments/assets/491727aa-e1da-4166-947a-7134462466b5" alt="img profile"/></td>
     <td>Percy Alonso Muñiz Huayanca - U202319563</td>
     <td>Estudiante de Ingeniería de Software con enfoque en backend, diseño y documentación. Responsable, proactivo y con gran capacidad de adaptación.</td>
     <td>Backend (Node.js, Express, MongoDB), diseño UI/UX (Figma), documentación técnica, metodologías ágiles, manejo básico de inteligencia artificial y desarrollo móvil.</td>
   </tr>
   <tr>
-    ![Foto Sebastian](https://github.com/user-attachments/assets/2d0337fc-4f16-4049-b0ee-1021c1d3d81b)
+    <td><img src="https://github.com/user-attachments/assets/2d0337fc-4f16-4049-b0ee-1021c1d3d81b" alt="img profile"/></td>
     <td>Sebastian Enrique Flores Manrique - U201611430</td>
     <td>Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta.</td>
     <td>Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.</td>
