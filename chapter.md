@@ -408,7 +408,7 @@ Para el despliegue de la landing page usamos la herramienta github pages, a cont
 ![Image](https://github.com/user-attachments/assets/0e1a11dc-c352-44c0-845b-622fb1fa2f54)
 
 - Nos dirigimos a "Build and Deployment", seleccionamos la rama main para ejecutar el deploy y guardamos.
-![Image](https://github.com/user-attachments/assets/0e1a11dc-c352-44c0-845b-622fb1fa2f54)
+![Image](https://github.com/user-attachments/assets/1d8133f2-5c56-42b0-b8d0-395988ff27eb)
 
 - Se generará un enlace al cual accederemos.
 ![Image](https://github.com/user-attachments/assets/2d1b8f09-1a53-4daa-a54f-57ffa17a16ab)
