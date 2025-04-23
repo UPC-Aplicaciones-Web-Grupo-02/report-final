@@ -262,9 +262,6 @@ Para el despliegue de la solucion realizamos los siguientes pasos:
 
 
 #### 5.2.1.3. Sprint Backlog 1.
-![TrelloSprint1](https://github.com/user-attachments/assets/2e3b9c35-a927-4003-985a-572ba6fbec90)
-
-Link de Trello: [Ver trello](https://trello.com/invite/b/66ccf1855ff6c24fe148a766/ATTI34b50c784e97d0a7ba15dd3b49b56ca5D82CFA4B/sprint-1)
 
 <table border="1px" align="center"> 
    <tr>
