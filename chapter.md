@@ -482,7 +482,7 @@ Para este Sprint los integrantes trabajamos de manera colaborativa a través de 
 ![Image](https://github.com/user-attachments/assets/9434c4fb-b94c-43e7-8fdf-d647ad11e761)
 
 
-Utilizando Github se creó una organizacion para el desarrollo del proyecto, esta esta dividida en dos repositorios, uno para el informe y el otro para la landing page.
+Utilizando Github se creó una organizacion para el desarrollo del proyecto, esta fue dividida en dos repositorios, uno para el informe y el otro para la landing page.
 
 Hemos desarrollado un total de 27 commits para la implementacion de nuestra landing page. 
 ![Image](https://github.com/user-attachments/assets/942c5e49-31f0-401a-a69e-967141e64e65)
