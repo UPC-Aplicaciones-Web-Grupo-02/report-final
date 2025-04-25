@@ -288,7 +288,7 @@ Jarol utiliza principalmente su auto particular y el Metropolitano para moviliza
 Respecto a la posibilidad de usar scooters eléctricos, considera que sería una alternativa práctica y eficiente para distancias cortas, especialmente dentro de zonas urbanas. Además, estaría dispuesto a utilizar una aplicación web para rentar uno, siempre y cuando el servicio sea ágil, seguro y confiable. También se mostró abierto a recomendar la experiencia a sus familiares o compañeros de universidad.
 Finalmente, Jarol mencionó que, si el servicio logra optimizar su tiempo de desplazamiento, estaría dispuesto a pagar una suscripción mensual, ya que prevé usarlo varias veces por semana como parte de su rutina diaria.
 
-#### Entrevista 3:
+#### Entrevista 4:
 
 Datos del entrevistador:
 * Nombres: Percy Alonso  
@@ -310,6 +310,27 @@ Durante la entrevista con Juan Pablo, un joven de 18 años que estudia Ingenier�
 Juan Pablo se moviliza principalmente en auto y en el Metropolitano, pero comenta que suele lidiar con tráfico pesado y dificultades para encontrar estacionamiento, lo que le genera pérdida de tiempo y estrés en sus trayectos diarios. Su gasto mensual en transporte ronda los 500 soles, y reconoce que no está del todo conforme con las opciones actuales.
 Frente a esto, mostró un interés positivo por el uso de scooters eléctricos, señalando que le parecen una solución cómoda, rápida y moderna para moverse en distancias cortas dentro de la ciudad. Le resulta especialmente atractiva la posibilidad de acceder al servicio mediante una aplicación web intuitiva, que le permita alquilar un scooter de forma fácil y rápida.
 Juan Pablo expresó que se sentiría a gusto probando el servicio, y que si realmente le ayuda a ahorrar tiempo y evitar el estrés del tráfico, estaría dispuesto a suscribirse mensualmente. Además, no dudaría en recomendarlo a sus amigos y compañeros, destacando la utilidad del servicio en su día a día universitario.
+
+#### Entrevista 5:
+
+Datos del entrevistador: 
+* Nombres: Arnold Gabriel
+* Apellidos: Morales Sosa
+
+Datos del entrevitado:
+* Nombres: Kevin Michael
+* Apellidos: Morales
+* Edad: 28
+* Distrito de residencia: Ventanilla
+* Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822516_upc_edu_pe/EW_Jxo3H_8ZNlWo0rfBpXkUBLzhYEAXgsvHj1CIBfEN7bg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NSsrtp
+* Duración de la entrevista: 14 minutos y 23 segundos
+
+![Entrevista Persona](https://github.com/user-attachments/assets/d27c10e8-a362-4da6-a787-2201185a71bd)
+
+*Informe del resumen de la entrevista:*
+
+En la entrevista con el usuario Kevin Morales, un joven de 28 años que trabaja en Centro de Lima como asistente de admisión en un hospital, se abordaron temas como la precariedad, informalidad e inseguridad de los transportes públicos sobretodo por los buses y combis. No tuvo problemas con el tráfico, pero es más que nada porque sale a trabajar muy temprano (4:00 am aprox) así que a esa hora la vía está libre. También habla acerca de lo caro que son los alquileres de otros scooters / bicicletas que están en Lima y, que si nuestra app de alquiler es más barata, sin duda usaría dicho servicio, ya que le parece una buena idea que la subscripción sea mensual en vez de que te cobren por uso o por hora (debido a que siempre estarás en constante movimiento si estás trabajando e irás siempre al mismo destino). Gasta como 200 soles aprox mensual en transporte y si le haría ilusión transportarse con el scooter. Dice que solo en los lugares más centricos de Lima podría ser viable, debido a que hay muchas ciudades que no tienen ciclovías y otras son muy inseguras para ir. Aún así, si su trabajo estuviese en el mismo distrito o en uno cercano, sin duda lo alquilaría para transportarse más facilmente. Finalmente, mencionó que sería una buena alternativa para transportarse y él si lo usaría diario porque ahorraría dinero y tiempo en viajar de un lado a otro. 
+
 
 ### 2.2.3. Análisis de entrevistas.
 
