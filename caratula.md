@@ -65,10 +65,10 @@
     <th>Descripción de modificación</th>
   </tr>
   <tr>
-    <td>Dato 1</td>
-    <td>Dato 2</td>
-    <td>Dato 3</td>
-    <td>Dato 3</td>
+    <td>1.0</td>
+    <td>21/04/25</td>
+    <td>Rafael Cuya</td>
+    <td>Desarrollo capitulo 5</td>
   </tr>
   <tr>
     <td>Dato 4</td>
