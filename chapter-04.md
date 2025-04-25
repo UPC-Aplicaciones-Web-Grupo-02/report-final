@@ -223,6 +223,14 @@ Para el sistema de navegación en pantallas desktop, optamos por emplear una **b
 ![Image](https://github.com/user-attachments/assets/3e7f365f-04c8-4880-9579-93f44e97c734)
 ![Image](https://github.com/user-attachments/assets/3a36a16d-5c83-4ea0-aecf-8f7291e8b83b)
 
+**Wireframes movil**
+
+![Image](https://github.com/user-attachments/assets/5d87cd40-a8da-44d6-b079-2e618053a42a)
+![Image](https://github.com/user-attachments/assets/c2c8fb3b-e81b-4131-a0ba-6211996e40d2)
+![Image](https://github.com/user-attachments/assets/7209fad5-eda7-42d4-b3f0-adacdb69b542)
+![Image](https://github.com/user-attachments/assets/17508d2a-b40c-461f-9a69-02b10481e30b)
+![Image](https://github.com/user-attachments/assets/8da8fb7c-9138-4031-834b-fcd107584c4e)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 ### 4.4.2. Web Applications Mock-ups.
