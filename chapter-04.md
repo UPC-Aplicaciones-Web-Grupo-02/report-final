@@ -15,32 +15,32 @@ El nombre del producto es Movix, el cual cuenta con un logo representado por el 
 
 <table align="center">
  <tr>
-    <td valign="top"><img src="https://github.com/user-attachments/assets/4745d38e-09ae-4ef3-baf1-3f4ccb742221" alt="Logo of Movix" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/4745d38e-09ae-4ef3-baf1-3f4ccb742221" alt="Logo of Movix" width="100%"></td>
   </tr>
 </table>
 
-3. **Colores:**
+1. **Colores:**
 Hemos elegido una paleta de colores que incluye verde claro, lila y azul, creando una combinación ligera y agradable a la vista para usuarios de diversas edades.
 
 <table align="center">
  <tr>
-    <td valign="top"><img src="https://github.com/user-attachments/assets/b197cfce-08dc-444a-bb43-f66beb59c177" alt="Paleta de colores" width="100%"></td>
+    <td><img src="https://github.com/user-attachments/assets/b197cfce-08dc-444a-bb43-f66beb59c177" alt="Paleta de colores" width="100%"></td>
   </tr>
 </table>
 
-4. **Tipografía:**
+1. **Tipografía:**
 Elegimos la fuente Open Sans porque es legible y popular en el diseño de aplicaciones web. Esto asegura que nuestros clientes, con toda clase de necesidades visuales, logren leer fácilmente el contenido de nuestra web.
 
 <table align="center">
  <tr>
-    <td valign="top"><img src="https://github.com/user-attachments/assets/e7bc4f79-ac6d-403d-b45d-86f43b279910" alt="Paleta de colores" width="100%">
+    <td><img src="https://github.com/user-attachments/assets/e7bc4f79-ac6d-403d-b45d-86f43b279910" alt="Paleta de colores" width="100%">
     </td>
-    <td valign="top"><img src="https://github.com/user-attachments/assets/d123d170-5742-472b-a4f4-f48864e34ebb" alt="Paleta de colores" width="100%">
+    <td><img src="https://github.com/user-attachments/assets/d123d170-5742-472b-a4f4-f48864e34ebb" alt="Paleta de colores" width="100%">
     </td>
   </tr>
 </table>
 
-5. **Espaciado**
+1. **Espaciado**
 Para nuestra aplicación, usaremos un espaciado de 1.5, que es un poco más amplio que el habitual. Esto evitará que el texto se sienta pesado o genere complicaciones de legibilidad.
 Tamaño de letra: 42px - 20px
 Interlineado: 1.5px
@@ -82,19 +82,7 @@ Los métodos de almacenamiento de registros que utiliza el usuario final siguen 
 
 - **Esquemas de Categorización de Contenido:**
 Utilizaremos un sistema jerárquico para resaltar los componentes a los que deseamos que el usuario preste mayor atención, dirigiendo su enfoque hacia elementos clave.
-
-Para el proceso de reservas de scooters utilizaremos organización secuencial:
-
-- Solicitud de reserva (clientes y estudiantes)
-
-        Búsqueda de scooter
-        Elección del scooter
-        Solicitud de reserva
-        Entrega del scooter
-        Devolución del scooter
-
-Organización por orden cronológico para el historial de reservas.
-Organización por orden alfabético para la sección “Mis scooters” del propietario.
+Para el proceso de reservas de scooters utilizaremos organización secuencial
 
 ### 4.2.2. Labeling Systems.
 
@@ -162,43 +150,77 @@ Para el sistema de navegación en pantallas desktop, optamos por emplear una **b
 
 ### 4.3.1. Landing Page Wireframe.
 
-![Image](https://github.com/user-attachments/assets/2467e589-9f34-4907-88d3-59adc332838f)
+A Continuación, el prototipo de wireframes para el landing page se usó la herramienta de Figma, donode se mostrará Wireframes para equipos PC y como equipos Mobile.
 
-![Image](https://github.com/user-attachments/assets/4797537a-b9bc-40e9-8e3c-693ffcdf763a)
+- Para equipos Desktops
 
-![Image](https://github.com/user-attachments/assets/a7ed06d9-df0e-423d-93b5-6cf6acf1f311)
+<table align="center">
+   <tr>
+    <td><img src="https://github.com/user-attachments/assets/2467e589-9f34-4907-88d3-59adc332838f" alt="Wireframes" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4797537a-b9bc-40e9-8e3c-693ffcdf763a" alt="Wireframes" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a7ed06d9-df0e-423d-93b5-6cf6acf1f311" alt="Wireframes" width="100%"></td>
+  </tr>
+</table>
 
-![Image](https://github.com/user-attachments/assets/8e0e0c5c-a74a-497a-b1fc-0da8d48e4ef3)
+- Para equipos Mobile - Wireframes
 
-![Image](https://github.com/user-attachments/assets/3b24873b-5922-47b5-9c7c-08b9e89afd43)
-
-![Image](https://github.com/user-attachments/assets/ce3e2508-49c5-47be-9eca-8e3ea70286e9)
-
-![Image](https://github.com/user-attachments/assets/bb7b6500-e6aa-4245-928e-d95a2f6eb443)
-
-![Image](https://github.com/user-attachments/assets/5e1621c8-7106-43d3-ac7c-04cd03a6bcc0)
+<table align="center">
+   <tr>
+    <td><img src="https://github.com/user-attachments/assets/2467e589-9f34-4907-88d3-59adc332838f" alt="Wireframes" width="70%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4797537a-b9bc-40e9-8e3c-693ffcdf763a" alt="Wireframes" width="70%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a7ed06d9-df0e-423d-93b5-6cf6acf1f311" alt="Wireframes" width="70%"></td>
+  </tr>
+</table>
 
 ### 4.3.2. Landing Page Mock-up.
 
-![Image](https://github.com/user-attachments/assets/1706af10-aca3-4a72-8097-69fcf05631a0)
+- mock-Ups para equipos Desktop.
 
-![Image](https://github.com/user-attachments/assets/49481775-26a3-45cb-854a-98237b17778f)
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1706af10-aca3-4a72-8097-69fcf05631a0" alt="Image 1" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/49481775-26a3-45cb-854a-98237b17778f" alt="Image 2" width="100%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/a8f79be8-fd5f-4344-8edf-d3562b341621" alt="Image 3" width="100%"></td>
+  </tr>
+</table>
 
-![Image](https://github.com/user-attachments/assets/a8f79be8-fd5f-4344-8edf-d3562b341621)
-
-![Image](https://github.com/user-attachments/assets/5f04e166-43f6-47a7-85d8-f722ad2400e6)
-
-![Image](https://github.com/user-attachments/assets/2321a30f-0aaa-4698-a7ce-c18d0476a992)
-
-![Image](https://github.com/user-attachments/assets/7f038692-9dc3-4096-acb2-b367ffe4a67a)
-
-![Image](https://github.com/user-attachments/assets/2c46df33-3c67-4537-a732-0f81f5d7efdf)
-
-![Image](https://github.com/user-attachments/assets/f8030968-f526-46d8-9ad4-bce3a828f13d)
+- Mock-ups para equipos Mobile 
+  
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/5f04e166-43f6-47a7-85d8-f722ad2400e6" alt="Image 4" width="70%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2321a30f-0aaa-4698-a7ce-c18d0476a992" alt="Image 5" width="70%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7f038692-9dc3-4096-acb2-b367ffe4a67a" alt="Image 6" width="70%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2c46df33-3c67-4537-a732-0f81f5d7efdf" alt="Image 7" width="70%"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/f8030968-f526-46d8-9ad4-bce3a828f13d" alt="Image 8" width="70%"></td>
+  </tr>
+</table>
 
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
+
+A continuación se mostrará los Wirefarmes para Desktop y Mobile
 
 ![Image](https://github.com/user-attachments/assets/4f199259-7d38-45af-bd25-b3cee7c17dbe)
 ![Image](https://github.com/user-attachments/assets/a8579ee5-5cbf-4737-9942-a75037f0ed61)
@@ -330,14 +352,10 @@ Para el sistema de navegación en pantallas desktop, optamos por emplear una **b
 Nuestro prototipo está diseñado con una estructura muy organizada; en los siguientes enlaces podrá ver los wireframes y mockups de nuestra aplicación web y landing page.
 
 - **Prototipo Landing Page:**
-  [Diseño en Figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=v7TUuZ1SCVdOPNmo-1)
+  [Diseño en Figma](https://www.figma.com/design/PoxfiWg5e4cmRctWD4Zf6d/Movix---Develop?node-id=1-3&t=Do6CiLKLoJixdw9I-1)
 
 - **Prototipo Aplicación Web:**
-  [Diseño en Figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=0-1&t=v7TUuZ1SCVdOPNmo-1)
-
-Para nuestro proyecto se incluyen videos de cada uno de los prototipos realizados (Aplicación Web y Landing Page).
-
-Acontinuación videos!!
+  [Diseño en Figma](https://www.figma.com/design/PoxfiWg5e4cmRctWD4Zf6d/Movix---Develop?node-id=0-1&t=Do6CiLKLoJixdw9I-1)
 
 ## 4.6. Domain-Driven Software Architecture.
 
@@ -359,50 +377,132 @@ Acontinuación videos!!
 
 ### 4.7.2. Class Dictionary.
 
-
-| **Clase**                          | **Descripción**                                                       | **Tipo de dato** |
-| ---------------------------------- | --------------------------------------------------------------------- | ---------------- |
-| **Profile**                        | -                                                                     | -                |
-|                                    | id: Identificación personal del profile para cada usuario             | Int              |
-|                                    | email: Correo electrónico del usuario                                 | String           |
-|                                    | nombre: Nombre que contendrá el profile de los usuarios               | String           |
-| **AuditableAbstractAggregateRoot** | -                                                                     | -                |
-|                                    | id: Identificación para el AuditableAbstractAggregateRoot             | Int              |
-|                                    | updateAt: Fecha de actualización en la página web                     | Date             |
-|                                    | getID(): Obtiene el Id de los usuarios de la plataforma               | Int              |
-| **scooterDetails**                 | -                                                                     | -                |
-|                                    | marca: Marca del Scooter que desean alquilar                          | String           |
-|                                    | kilometraje: Kilometraje de uso de cada Scooter en el sistema         | Double           |
-|                                    | estadoBateria: Estado de la batería del Scooter                       | String           |
-| **Reseña**                         | -                                                                     | -                |
-|                                    | id: Identificador de las reseñas puestas por los usuarios             | Int              |
-|                                    | puntuacion: Puntuación de cada Scooter utilizado por algún usuario    | int              |
-|                                    | comentario: Comentario sobre la experiencia de uso con cada Scooter   | String           |
-|                                    | fechaReseña: Fecha en la que fue realizada cada reseña                | Date             |
-| **Alquiler**                       | -                                                                     | -                |
-|                                    | id: Identificador de cada alquiler realizado por el usuario           | Int              |
-|                                    | scooterId: Identificador de cada scooter en el sistema                | Int              |
-|                                    | precio: Precio del alquiler de cada scooter                           | Double           |
-|                                    | descripcion: Descripción previa de los scooters que le interesen      | String           |
-| **Reservation**                    | -                                                                     | -                |
-|                                    | id: Identificador de cada reserva realizada en la plataforma          | int              |
-|                                    | reservationDate: Fechas de inicio y fin de los alquileres de Scooters | Date             |
-|                                    | paymentDetails: Detalles de pago de los alquileres                    | Double           |
-|                                    | status: Estado de disponibilidad de un Scooter                        | Void             |
-| **User**                           | -                                                                     | -                |
-|                                    | id: Identificador único del usuario                                   | Int              |
-|                                    | email: Dirección de correo electrónico del usuario                    | String           |
-|                                    | password: Contraseña del usuario para acceder al sistema              | String           |
-|                                    | roles: Roles que puede adquirir un usuario en la plataforma           | set              |
-|                                    | createdAt: Fecha de creación de la cuenta                             | Date             |
-| **Scooter**                        | -                                                                     | -                |
-|                                    | id: Identificador para cada Scooter añadido al sistema                | Int              |
-|                                    | scooterDetails: Detalles técnicos de los Scooters en el sistema       | Void             |
-|                                    | Location: Ubicación de cada Scooter mediante coordenadas              | Double           |
-|                                    | maintenanceRecords: Mantenimientos que tuvo cada Scooter              | Lista            |
-|                                    | status: Estado de disponibilidad de cada Scooter                      | String           |
-|                                    | estado: Estado general del vehículo                                   | String           |
-
+<table align="center" border="1px">
+  <tr>
+    <th>Clase</th>
+    <th>Descripción</th>
+    <th>Tipo de dato</th>
+  </tr>
+  <tr>
+    <td><strong>Profile</strong></td>
+    <td>
+      id: Identificación personal del profile para cada usuario<br>
+      email: Correo electrónico del usuario<br>
+      nombre: Nombre que contendrá el profile de los usuarios
+    </td>
+    <td>
+      Int<br>
+      String<br>
+      String
+    </td>
+  </tr>
+  <tr>
+    <td><strong>AuditableAbstractAggregateRoot</strong></td>
+    <td>
+      id: Identificación para el AuditableAbstractAggregateRoot<br>
+      updateAt: Fecha de actualización en la página web<br>
+      getID(): Obtiene el Id de los usuarios de la plataforma
+    </td>
+    <td>
+      Date<br>
+      Int
+    </td>
+  </tr>
+  <tr>
+    <td><strong>scooterDetails</strong></td>
+    <td>
+      marca: Marca del Scooter que desean alquilar<br>
+      kilometraje: Kilometraje de uso de cada Scooter en el sistema<br>
+      estadoBateria: Estado de la batería del Scooter
+    </td>
+    <td>
+      String<br>
+      Double<br>
+      String
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Reseña</strong></td>
+    <td>
+      id: Identificador de las reseñas puestas por los usuarios<br>
+      puntuacion: Puntuación de cada Scooter utilizado por algún usuario<br>
+      comentario: Comentario sobre la experiencia de uso con cada Scooter<br>
+      fechaReseña: Fecha en la que fue realizada cada reseña
+    </td>
+    <td>
+      Int<br>
+      int<br>
+      String<br>
+      Date
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Alquiler</strong></td>
+    <td>
+      id: Identificador de cada alquiler realizado por el usuario<br>
+      scooterId: Identificador de cada scooter en el sistema<br>
+      precio: Precio del alquiler de cada scooter<br>
+      descripcion: Descripción previa de los scooters que le interesen
+    </td>
+    <td>
+      Int<br>
+      Int<br>
+      Double<br>
+      String
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Reservation</strong></td>
+    <td>
+      id: Identificador de cada reserva realizada en la plataforma<br>
+      reservationDate: Fechas de inicio y fin de los alquileres de Scooters<br>
+      paymentDetails: Detalles de pago de los alquileres<br>
+      status: Estado de disponibilidad de un Scooter
+    </td>
+    <td>
+      int<br>
+      Date<br>
+      Double<br>
+      Void
+    </td>
+  </tr>
+  <tr>
+    <td><strong>User</strong></td>
+    <td>
+      id: Identificador único del usuario<br>
+      email: Dirección de correo electrónico del usuario<br>
+      password: Contraseña del usuario para acceder al sistema<br>
+      roles: Roles que puede adquirir un usuario en la plataforma<br>
+      createdAt: Fecha de creación de la cuenta
+    </td>
+    <td>
+      Int<br>
+      String<br>
+      String<br>
+      set<br>
+      Date
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Scooter</strong></td>
+    <td>
+      id: Identificador para cada Scooter añadido al sistema<br>
+      scooterDetails: Detalles técnicos de los Scooters en el sistema<br>
+      Location: Ubicación de cada Scooter mediante coordenadas<br>
+      maintenanceRecords: Mantenimientos que tuvo cada Scooter<br>
+      status: Estado de disponibilidad de cada Scooter<br>
+      estado: Estado general del vehículo
+    </td>
+    <td>
+      Int<br>
+      Void<br>
+      Double<br>
+      Lista<br>
+      String<br>
+      String
+    </td>
+  </tr>
+</table>
 
 ## 4.8. Database Design.
 
