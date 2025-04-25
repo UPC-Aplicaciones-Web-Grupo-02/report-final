@@ -4,42 +4,44 @@
 
 ### 4.1.1. General Style Guidelines.
 
-**Misión**
-
+1. **Misión:**
 Proporcionar a nuestros clientes una plataforma donde puedan alquilar de manera rápida, sencilla y segura scooters eléctricos que se adecúen a sus necesidades.
 
-**Visión**
-
+2. **Visión:**
 Ser la aplicación web líder en el alquiler de scooters eléctricos, promoviendo el transporte ecoamigable y siendo reconocidos por grupos y asociaciones de emprendimiento y medio ambiente.
 
-**Brand Name**
-
-El nombre del producto es MoviRent, el cual cuenta con un logo representado por el ícono de un scooter y un rayo que simboliza que el vehículo funciona eléctricamente. El color verde es el más predominante, simbolizando el medio ambiente.
+3. **Brand Name:**
+El nombre del producto es Movix, el cual cuenta con un logo representado por el ícono de un scooter y un rayo que simboliza que el vehículo funciona eléctricamente. El color verde es el más predominante, simbolizando el medio ambiente ó el gtransporte ecológico.
 
 <table align="center">
  <tr>
-    <td valign="top"><img src="https://github.com/user-attachments/assets/4745d38e-09ae-4ef3-baf1-3f4ccb742221" alt="Logo of Movix" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/4745d38e-09ae-4ef3-baf1-3f4ccb742221" alt="Logo of Movix" width="100%"></td>
   </tr>
 </table>
 
-**Colores**
-
+3. **Colores:**
 Hemos elegido una paleta de colores que incluye verde claro, lila y azul, creando una combinación ligera y agradable a la vista para usuarios de diversas edades.
 
-![Image](https://github.com/user-attachments/assets/b197cfce-08dc-444a-bb43-f66beb59c177)
+<table align="center">
+ <tr>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/b197cfce-08dc-444a-bb43-f66beb59c177" alt="Paleta de colores" width="100%"></td>
+  </tr>
+</table>
 
-**Tipografía**
-
+4. **Tipografía:**
 Elegimos la fuente Open Sans porque es legible y popular en el diseño de aplicaciones web. Esto asegura que nuestros clientes, con toda clase de necesidades visuales, logren leer fácilmente el contenido de nuestra web.
 
-![Image](https://github.com/user-attachments/assets/e7bc4f79-ac6d-403d-b45d-86f43b279910)
+<table align="center">
+ <tr>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/e7bc4f79-ac6d-403d-b45d-86f43b279910" alt="Paleta de colores" width="100%">
+    </td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/d123d170-5742-472b-a4f4-f48864e34ebb" alt="Paleta de colores" width="100%">
+    </td>
+  </tr>
+</table>
 
-![Image](https://github.com/user-attachments/assets/d123d170-5742-472b-a4f4-f48864e34ebb)
-
-**Espaciado**
-
+5. **Espaciado**
 Para nuestra aplicación, usaremos un espaciado de 1.5, que es un poco más amplio que el habitual. Esto evitará que el texto se sienta pesado o genere complicaciones de legibilidad.
-
 Tamaño de letra: 42px - 20px
 Interlineado: 1.5px
 Tono de comunicación y lenguaje aplicado
@@ -47,44 +49,38 @@ Usaremos un tono de comunicación entusiasta y amigable en toda la web, ya que c
 
 ### 4.1.2. Web Style Guidelines.
 
-- **Paleta de colores**: Asignamos los colores verde y lila como los más representativos de la web, además del color blanco, para reducir la saturación cromática y dirigir la atención de los usuarios hacia los servicios.
+1. **Paleta de colores**: Asignamos los colores verde y lila como los más representativos de la web, además del color blanco, para reducir la saturación cromática y dirigir la atención de los usuarios hacia los servicios.
 
-- **Diseño Responsivo**: La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para asegurar una experiencia de usuario consistente.
+2. **Diseño Responsivo**: La aplicación debe ser compatible con diferentes dispositivos y tamaños de pantalla para asegurar una experiencia de usuario consistente.
 
-- **Navegación Intuitiva**: Se establecerá una estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente la información que buscan, priorizando la simplicidad.
+3. **Navegación Intuitiva**: Se establecerá una estructura de navegación clara y fácil de usar que permita a los usuarios encontrar rápidamente la información que buscan, priorizando la simplicidad.
 
-- **Carga Rápida**: Se optimizará el rendimiento de la aplicación para tiempos de carga rápidos, incluyendo la optimización de imágenes y el uso de técnicas de almacenamiento en caché.
+4. **Carga Rápida**: Se optimizará el rendimiento de la aplicación para tiempos de carga rápidos, incluyendo la optimización de imágenes y el uso de técnicas de almacenamiento en caché.
 
-- **Diseño de Tarjetas**: Usaremos diseños de tarjetas para presentar información de manera visualmente atractiva y organizada, especialmente para destinos y detalles de viajes.
+5. **Diseño de Tarjetas**: Usaremos diseños de tarjetas para presentar información de manera visualmente atractiva y organizada, especialmente para destinos y detalles de viajes.
 
-- **Botones de la web**: Los botones serán rectangulares con esquinas redondeadas, además de incluir botones en forma de texto en la barra de navegación para mejorar la usabilidad.
+6. **Botones de la web**: Los botones serán rectangulares con esquinas redondeadas, además de incluir botones en forma de texto en la barra de navegación para mejorar la usabilidad.
 
 ## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
 
-- **Jerarquía Visual**
-
+- **Jerarquía Visual:**
 Para mantener la estética de nuestra plataforma interactiva y a la vanguardia de la competencia, hemos decidido priorizar la interfaz según importancia, facilitando así la interacción con el usuario.
 
-- **Jerarquía de Tipografía**
-
+- **Jerarquía de Tipografía:**
 La información en nuestra plataforma se presenta en un orden específico según la demanda. Es fundamental considerar las características que definen nuestros títulos, subtítulos y párrafos.
 
-- **Alineación**
-
+- **Alineación:**
 Las imágenes y botones en nuestra plataforma están siempre alineados vertical y horizontalmente, permitiendo agrupar objetos de diversos tipos con información similar.
 
-- **Color y Contraste**
-
+- **Color y Contraste:**
 El color juega un rol crucial en nuestra aplicación, promoviendo composiciones adecuadas para dirigir emociones y utilizando el contraste para enfatizar elementos importantes.
 
-- **Organización Secuencial**
-
+- **Organización Secuencial:**
 Los métodos de almacenamiento de registros que utiliza el usuario final siguen una organización secuencial, mejorando la simplicidad y rapidez en el acceso a los mismos. En nuestro proyecto, se visualizará una lista de scooters.
 
-- **Esquemas de Categorización de Contenido**
-
+- **Esquemas de Categorización de Contenido:**
 Utilizaremos un sistema jerárquico para resaltar los componentes a los que deseamos que el usuario preste mayor atención, dirigiendo su enfoque hacia elementos clave.
 
 Para el proceso de reservas de scooters utilizaremos organización secuencial:
@@ -106,14 +102,14 @@ Para las etiquetas en nuestra landing page, hemos elegido un lenguaje sencillo q
 
 En la Landing Page se visualizarán los siguientes botones de navegación:
 
-| **Etiqueta**      | **Descripción**                                                                 |
-|-------------------|---------------------------------------------------------------------------------|
-| **Inicio**        | Apartado donde se muestra la información de la aplicación explicando sus características. |
-| **Sobre Nosotros**| Apartado donde se informa al usuario sobre el equipo y el propósito.           |
-| **Servicios**     | Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.     |
-| **Planes**        | Apartado donde se muestran todos los planes de suscripción.                    |
-| **Team**          | Apartado donde el usuario puede comunicarse con nosotros.                       |
-| **Empieza Ya!**   | Apartado para redirigir a la aplicación web.                                   |
+| **Etiqueta**       | **Descripción**                                                                           |
+| ------------------ | ----------------------------------------------------------------------------------------- |
+| **Inicio**         | Apartado donde se muestra la información de la aplicación explicando sus características. |
+| **Sobre Nosotros** | Apartado donde se informa al usuario sobre el equipo y el propósito.                      |
+| **Servicios**      | Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.                |
+| **Planes**         | Apartado donde se muestran todos los planes de suscripción.                               |
+| **Team**           | Apartado donde el usuario puede comunicarse con nosotros.                                 |
+| **Empieza Ya!**    | Apartado para redirigir a la aplicación web.                                              |
 
 Para la página es importante, un sistema de etiquetado efectivo para permitir que los usuarios encuentren fácilmente la información y los servicios que necesitan. Nuestro sistema de etiquetado considera cuidadosamente cómo presentar la información en el sitio web. Después de establecer la organización visual y los esquemas de categorización del contenido, se elegirá etiquetas claras y concisas que reflejan el lenguaje común y la comprensión del usuario con palabras comunes no pasan de tres palabras. Nos aseguraremos de utilizar etiquetas intuitivas y fáciles de recordar para representar los diferentes conjuntos de información y asociaciones entre ellos. También se utilizarán diferentes colores y diseños para resaltar y diferenciar las etiquetas y conjuntos de información en mi sitio web. Para evitar confusiones y asegurar la coherencia visual en todo el sitio web, se mantendrá un sistema de etiquetado consistente y se evitará el uso de términos técnicos o jerga que podría ser confuso para los usuarios.
 
@@ -364,48 +360,48 @@ Acontinuación videos!!
 ### 4.7.2. Class Dictionary.
 
 
-| **Clase**                       | **Descripción**                                                                 | **Tipo de dato** |
-|---------------------------------|---------------------------------------------------------------------------------|-----------------|
-| **Profile**                     | -                                                                               | -               |
-|                                 | id: Identificación personal del profile para cada usuario                       | Int             |
-|                                 | email: Correo electrónico del usuario                                           | String          |
-|                                 | nombre: Nombre que contendrá el profile de los usuarios                         | String          |
-| **AuditableAbstractAggregateRoot** | -                                                                               | -               |
-|                                 | id: Identificación para el AuditableAbstractAggregateRoot                       | Int             |
-|                                 | updateAt: Fecha de actualización en la página web                               | Date            |
-|                                 | getID(): Obtiene el Id de los usuarios de la plataforma                         | Int             |
-| **scooterDetails**              | -                                                                               | -               |
-|                                 | marca: Marca del Scooter que desean alquilar                                     | String          |
-|                                 | kilometraje: Kilometraje de uso de cada Scooter en el sistema                   | Double          |
-|                                 | estadoBateria: Estado de la batería del Scooter                                 | String          |
-| **Reseña**                      | -                                                                               | -               |
-|                                 | id: Identificador de las reseñas puestas por los usuarios                       | Int             |
-|                                 | puntuacion: Puntuación de cada Scooter utilizado por algún usuario              | int             |
-|                                 | comentario: Comentario sobre la experiencia de uso con cada Scooter             | String          |
-|                                 | fechaReseña: Fecha en la que fue realizada cada reseña                          | Date            |
-| **Alquiler**                    | -                                                                               | -               |
-|                                 | id: Identificador de cada alquiler realizado por el usuario                     | Int             |
-|                                 | scooterId: Identificador de cada scooter en el sistema                          | Int             |
-|                                 | precio: Precio del alquiler de cada scooter                                     | Double          |
-|                                 | descripcion: Descripción previa de los scooters que le interesen                | String          |
-| **Reservation**                 | -                                                                               | -               |
-|                                 | id: Identificador de cada reserva realizada en la plataforma                    | int             |
-|                                 | reservationDate: Fechas de inicio y fin de los alquileres de Scooters           | Date            |
-|                                 | paymentDetails: Detalles de pago de los alquileres                              | Double          |
-|                                 | status: Estado de disponibilidad de un Scooter                                  | Void            |
-| **User**                        | -                                                                               | -               |
-|                                 | id: Identificador único del usuario                                             | Int             |
-|                                 | email: Dirección de correo electrónico del usuario                              | String          |
-|                                 | password: Contraseña del usuario para acceder al sistema                        | String          |
-|                                 | roles: Roles que puede adquirir un usuario en la plataforma                     | set             |
-|                                 | createdAt: Fecha de creación de la cuenta                                       | Date            |
-| **Scooter**                     | -                                                                               | -               |
-|                                 | id: Identificador para cada Scooter añadido al sistema                          | Int             |
-|                                 | scooterDetails: Detalles técnicos de los Scooters en el sistema                 | Void            |
-|                                 | Location: Ubicación de cada Scooter mediante coordenadas                        | Double          |
-|                                 | maintenanceRecords: Mantenimientos que tuvo cada Scooter                        | Lista           |
-|                                 | status: Estado de disponibilidad de cada Scooter                                | String          |
-|                                 | estado: Estado general del vehículo                                             | String          |
+| **Clase**                          | **Descripción**                                                       | **Tipo de dato** |
+| ---------------------------------- | --------------------------------------------------------------------- | ---------------- |
+| **Profile**                        | -                                                                     | -                |
+|                                    | id: Identificación personal del profile para cada usuario             | Int              |
+|                                    | email: Correo electrónico del usuario                                 | String           |
+|                                    | nombre: Nombre que contendrá el profile de los usuarios               | String           |
+| **AuditableAbstractAggregateRoot** | -                                                                     | -                |
+|                                    | id: Identificación para el AuditableAbstractAggregateRoot             | Int              |
+|                                    | updateAt: Fecha de actualización en la página web                     | Date             |
+|                                    | getID(): Obtiene el Id de los usuarios de la plataforma               | Int              |
+| **scooterDetails**                 | -                                                                     | -                |
+|                                    | marca: Marca del Scooter que desean alquilar                          | String           |
+|                                    | kilometraje: Kilometraje de uso de cada Scooter en el sistema         | Double           |
+|                                    | estadoBateria: Estado de la batería del Scooter                       | String           |
+| **Reseña**                         | -                                                                     | -                |
+|                                    | id: Identificador de las reseñas puestas por los usuarios             | Int              |
+|                                    | puntuacion: Puntuación de cada Scooter utilizado por algún usuario    | int              |
+|                                    | comentario: Comentario sobre la experiencia de uso con cada Scooter   | String           |
+|                                    | fechaReseña: Fecha en la que fue realizada cada reseña                | Date             |
+| **Alquiler**                       | -                                                                     | -                |
+|                                    | id: Identificador de cada alquiler realizado por el usuario           | Int              |
+|                                    | scooterId: Identificador de cada scooter en el sistema                | Int              |
+|                                    | precio: Precio del alquiler de cada scooter                           | Double           |
+|                                    | descripcion: Descripción previa de los scooters que le interesen      | String           |
+| **Reservation**                    | -                                                                     | -                |
+|                                    | id: Identificador de cada reserva realizada en la plataforma          | int              |
+|                                    | reservationDate: Fechas de inicio y fin de los alquileres de Scooters | Date             |
+|                                    | paymentDetails: Detalles de pago de los alquileres                    | Double           |
+|                                    | status: Estado de disponibilidad de un Scooter                        | Void             |
+| **User**                           | -                                                                     | -                |
+|                                    | id: Identificador único del usuario                                   | Int              |
+|                                    | email: Dirección de correo electrónico del usuario                    | String           |
+|                                    | password: Contraseña del usuario para acceder al sistema              | String           |
+|                                    | roles: Roles que puede adquirir un usuario en la plataforma           | set              |
+|                                    | createdAt: Fecha de creación de la cuenta                             | Date             |
+| **Scooter**                        | -                                                                     | -                |
+|                                    | id: Identificador para cada Scooter añadido al sistema                | Int              |
+|                                    | scooterDetails: Detalles técnicos de los Scooters en el sistema       | Void             |
+|                                    | Location: Ubicación de cada Scooter mediante coordenadas              | Double           |
+|                                    | maintenanceRecords: Mantenimientos que tuvo cada Scooter              | Lista            |
+|                                    | status: Estado de disponibilidad de cada Scooter                      | String           |
+|                                    | estado: Estado general del vehículo                                   | String           |
 
 
 ## 4.8. Database Design.
