@@ -343,9 +343,15 @@ Acontinuación videos!!
 
 ### 4.6.1. Software Architecture Context Diagram.
 
+![Image](https://github.com/user-attachments/assets/d3485cd9-a3fb-47b3-a68a-cb6975e2dcac)
+
 ### 4.6.2. Software Architecture Container Diagrams.
 
+![Image](https://github.com/user-attachments/assets/fbf4fff3-673f-418d-b4de-b4cb7545f00c)
+
 ### 4.6.3. Software Architecture Components Diagrams.
+
+![Image](https://github.com/user-attachments/assets/204df946-8342-4f33-a871-9c46a1047560)
 
 ## 4.7. Software Object-Oriented Design.
 
