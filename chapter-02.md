@@ -390,6 +390,12 @@ Aunque los estudiantes universitarios como Juan y los adultos jóvenes de Mirafl
 
 ### 2.3.5. As-is Scenario Mapping.
 
+#### AS-IS Scenario Personas Adultas:
+![AS-IS scenario personas adultas](https://github.com/user-attachments/assets/7e0e617e-2b14-4f99-8fda-914496788844)
+
+##### AS-IS Scenario Estudiantes Universitarios:
+![AS-IS scenario universitarios](https://github.com/user-attachments/assets/f42e451b-952a-46d5-938a-470f6b8ea99d)
+
 ## 2.4. Ubiquitous Language.
 En un proyecto como Movix es fundamental establecer un glosario común de términos para asegurar que todo el equipo (y los usuarios) compartan el mismo entendimiento de conceptos clave. A continuación se definen los términos más relevantes del dominio de la aplicación de alquiler de scooters eléctricos en Lima:
 
