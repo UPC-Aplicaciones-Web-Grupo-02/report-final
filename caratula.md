@@ -5,16 +5,18 @@
   **Universidad Peruana de Ciencias Aplicadas**
   
   Ingeniería de Software
+
+  **CÓDIGO DEL CURSO: 1ASI0730** 
+
+  **CURSO: Aplicaciones Web** 
   
-  **CURSO:** 
+  **SECCIÓN: 4366** 
   
-  **SECCIÓN:** 
-  
-  **Profesor:** 
+  **Profesor: Alex Humberto Sánchez Ponce** 
   
   **Informe de Trabajo Final**
   
-  **Nombre del startup:** CiberMach
+  **Nombre del startup:** Innovatech
   
   **Nombre del producto:** Movix
   
@@ -26,8 +28,8 @@
     <th>Código</th>
   </tr>
   <tr>
-    <td>Dato 1</td>
-    <td>Dato 2</td>
+    <td>Muñiz Huayanca, Percy Alonso</td>
+    <td>u202319563</td>
   </tr>
   <tr>
     <td>Cuya Villegas, Rafael A</td>
@@ -38,12 +40,12 @@
     <td>u20211c221</td>
   </tr>
   <tr>
-    <td>Dato 1</td>
-    <td>Dato 2</td>
+    <td>Flores Manrique, Sebastian Enrique</td>
+    <td>u201611430</td>
   </tr>
   <tr>
-    <td>Dato 1</td>
-    <td>Dato 2</td>
+    <td>Morales Sosa, Arnold Gabriel</td>
+    <td>u201913495</td>
   </tr>
 </table>
 
@@ -64,17 +66,35 @@
     <th>Autor</th>
     <th>Descripción de modificación</th>
   </tr>
-  <tr>
+<tr>
+    <td>1.0</td>
+    <td>21/04/25</td>
+    <td>Flores Manrique, Sebastian</td>
+    <td>Desarrollo capitulo 1</td>
+  </tr>
+<tr>
+    <td>1.0</td>
+    <td>21/04/25</td>
+    <td>Morales Sosa, Arnold</td>
+    <td>Desarrollo capitulo 2</td>
+  </tr>
+<tr>
+    <td>1.0</td>
+    <td>21/04/25</td>
+    <td>Munñiz Huaynca, Percy</td>
+    <td>Desarrollo capitulo 3</td>
+  </tr>
+<tr>
+    <td>1.0</td>
+    <td>21/04/25</td>
+    <td>Velarde Gonzales, Néstor</td>
+    <td>Desarrollo capitulo 4</td>
+  </tr>
+<tr>
     <td>1.0</td>
     <td>21/04/25</td>
     <td>Rafael Cuya</td>
     <td>Desarrollo capitulo 5</td>
-  </tr>
-  <tr>
-    <td>Dato 4</td>
-    <td>Dato 5</td>
-    <td>Dato 6</td>
-    <td>Dato 3</td>
   </tr>
 </table>
 
@@ -91,14 +111,46 @@
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
     <td>Rafael Cuya: TB1: Para el desarrollo de la TB1 tuvimos diversas reuniones donde pudimos coordinar la realizacion del informe 
-      y de la landing page. </td>
-    <td>Dato 3</td>
+      y de la landing page.
+
+Flores Manrique, Sebastian:<br/>
+TB1
+Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo
+</td>
+    <td>Durante el trabajo en
+equipo y multidisciplinario
+nos ha proporcionado
+una mejor comprensión
+sólida de cómo
+trabajar en equipo
+para desarrollar
+software de alta
+calidad que satisfaga
+las necesidades
+de los usuarios
+y del negocio.</td>
   </tr>
   <tr>
-    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.
+
+</td>
     <td>Rafael Cuya: Para el desarrollo de la TB1 nos repartimos las diversas tareas, poniendonos 
-      algunos plazos, para poder realizar el proyecto con éxito</td>
-    <td>Dato 6</td>
+      algunos plazos, para poder realizar el proyecto con éxito
+
+Flores Manrique, Sebastian:
+<br>TB1
+Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
+</td>
+    <td>La experiencia en
+la investigación
+del negocio demostró
+nuestra capacidad
+para comprender y
+aplicar conocimientos
+específicos del sector
+en la creación
+de soluciones
+tecnológicas efectivas.</td>
   </tr>
 </table>
 
