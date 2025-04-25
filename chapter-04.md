@@ -235,6 +235,39 @@ Para el sistema de navegación en pantallas desktop, optamos por emplear una **b
 
 ### 4.4.2. Web Applications Mock-ups.
 
+![Image](https://github.com/user-attachments/assets/c1d7003a-8b42-43c6-9a44-2b0585bd0647)
+![Image](https://github.com/user-attachments/assets/14c57632-2723-430b-ad6c-69ee891ebe56)
+![Image](https://github.com/user-attachments/assets/06749059-767c-4a5d-9a26-ebbc9510bbe2)
+![Image](https://github.com/user-attachments/assets/3785ab35-3039-45a2-b191-68c19b8d43b2)
+![Image](https://github.com/user-attachments/assets/2f819039-53ea-426d-a9e9-fdfddeeab0ab)
+![Image](https://github.com/user-attachments/assets/2b14075a-d0ac-440c-ac3e-c7f9d545197c)
+![Image](https://github.com/user-attachments/assets/4b683213-b194-4547-b8cf-7cea232cd921)
+![Image](https://github.com/user-attachments/assets/21524782-9b57-4c1f-9a52-4c05b4848c0f)
+![Image](https://github.com/user-attachments/assets/aedf8385-b9f5-4458-93e6-1d2c3ad284ba)
+![Image](https://github.com/user-attachments/assets/045bfb00-907a-4dbe-8dc8-4c76a21a5059)
+![Image](https://github.com/user-attachments/assets/677bed5c-ec26-48e2-85f0-e94303ef7d5f)
+![Image](https://github.com/user-attachments/assets/56d72619-ce14-47eb-bf56-9b2ad07db803)
+![Image](https://github.com/user-attachments/assets/20feb533-6e6c-4a2c-9a5e-d7bb1d2058d3)
+![Image](https://github.com/user-attachments/assets/045e5b51-a0b8-49d9-93c4-41614a414cad)
+![Image](https://github.com/user-attachments/assets/f6849a1c-32b8-4507-9514-3869e94b66a2)
+![Image](https://github.com/user-attachments/assets/ae8aeb97-4f72-4fe8-934c-f4c008b24f52)
+![Image](https://github.com/user-attachments/assets/b3b90dd3-4dcb-4660-88e2-2ac1597d0e4b)
+![Image](https://github.com/user-attachments/assets/e9e20163-2553-4be6-883e-ea539ead5f69)
+![Image](https://github.com/user-attachments/assets/7c30728e-bad9-450b-aa6b-f84726d247e5)
+![Image](https://github.com/user-attachments/assets/b651d2b7-99d5-4dcf-8515-0cf318e0c56e)
+![Image](https://github.com/user-attachments/assets/c7c46715-0eac-4c99-97e7-a3e93633913e)
+![Image](https://github.com/user-attachments/assets/67806970-e36e-4066-9801-06a4f8ef42a5)
+![Image](https://github.com/user-attachments/assets/fa4adb28-2930-49f5-b5b9-5208f5ee5f23)
+
+**Mock-ups movile responsive**
+
+![Image](https://github.com/user-attachments/assets/74340f2a-3771-464c-a338-9e83f3aca50c)
+![Image](https://github.com/user-attachments/assets/4e8ca6fc-8aac-4e18-8408-ef332dd1fe04)
+![Image](https://github.com/user-attachments/assets/be4a4ea3-3e57-4042-86ae-e16e628f4177)
+![Image](https://github.com/user-attachments/assets/c19d12f7-32a3-43fc-894e-61d091c911e1)
+![Image](https://github.com/user-attachments/assets/c2b6d31e-251e-4403-ae4a-7d8a720f8304)
+![Image](https://github.com/user-attachments/assets/e6f9d8c9-f83d-4ae4-8dab-3e083ab01ebd)
+
 ### 4.4.3. Web Applications User Flow Diagrams.
 
 ## 4.5. Web Applications Prototyping.
