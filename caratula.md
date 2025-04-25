@@ -30,8 +30,8 @@
     <td>Dato 2</td>
   </tr>
   <tr>
-    <td>Dato 1</td>
-    <td>Dato 2</td>
+    <td>Cuya Villegas, Rafael A</td>
+    <td>u20193495</td>
   </tr>
   <tr>
     <td>Velarde Gonzales, Néstor H</td>
