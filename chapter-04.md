@@ -200,6 +200,29 @@ Para el sistema de navegación en pantallas desktop, optamos por emplear una **b
 
 ### 4.4.1. Web Applications Wireframes.
 
+![Image](https://github.com/user-attachments/assets/4f199259-7d38-45af-bd25-b3cee7c17dbe)
+![Image](https://github.com/user-attachments/assets/a8579ee5-5cbf-4737-9942-a75037f0ed61)
+![Image](https://github.com/user-attachments/assets/b3c87192-15f0-4b8a-bb91-9b0c5f6eff2b)
+![Image](https://github.com/user-attachments/assets/0f2bac84-268c-444a-9727-ec88d26350d3)
+![Image](https://github.com/user-attachments/assets/a712b945-6bd9-4f95-86cb-c0c2483d72b8)
+![Image](https://github.com/user-attachments/assets/a39cad8c-2c15-4153-8bce-cb05812f0094)
+![Image](https://github.com/user-attachments/assets/17683f13-b135-4de4-bd98-888d70da2695)
+![Image](https://github.com/user-attachments/assets/11b9ba6c-bd17-49b8-b56f-32e72e145a48)
+![Image](https://github.com/user-attachments/assets/e7fb4f31-17a5-49fb-bafa-1cf083d33c74)
+![Image](https://github.com/user-attachments/assets/fc96feab-ce01-4905-ba86-13c17883ebad)
+![Image](https://github.com/user-attachments/assets/325b8452-eb10-4dcd-9c52-f7b481d14964)
+![Image](https://github.com/user-attachments/assets/d8da9714-3563-4949-aeb3-7f3e634422db)
+![Image](https://github.com/user-attachments/assets/603d9fc5-f7d2-423b-b568-f1abf05e6513)
+![Image](https://github.com/user-attachments/assets/72250eba-293a-493c-9f1f-2aaf239d718c)
+![Image](https://github.com/user-attachments/assets/2d09a8e9-30d8-4367-b714-f4cb8edd90ce)
+![Image](https://github.com/user-attachments/assets/82996316-78f5-411e-899b-481be287f354)
+![Image](https://github.com/user-attachments/assets/f72147ab-9802-42d4-805f-76b66c5a4110)
+![Image](https://github.com/user-attachments/assets/3293c0f4-b09f-48cf-92cb-0bcd3f908874)
+![Image](https://github.com/user-attachments/assets/8c86a550-c5bf-4536-a3a1-74a0a5438280)
+![Image](https://github.com/user-attachments/assets/74c5da48-55d1-41d7-9fa4-1127c0506c7a)
+![Image](https://github.com/user-attachments/assets/3e7f365f-04c8-4880-9579-93f44e97c734)
+![Image](https://github.com/user-attachments/assets/3a36a16d-5c83-4ea0-aecf-8f7291e8b83b)
+
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
 ### 4.4.2. Web Applications Mock-ups.
