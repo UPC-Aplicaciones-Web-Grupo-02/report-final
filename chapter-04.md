@@ -16,7 +16,11 @@ Ser la aplicación web líder en el alquiler de scooters eléctricos, promoviend
 
 El nombre del producto es MoviRent, el cual cuenta con un logo representado por el ícono de un scooter y un rayo que simboliza que el vehículo funciona eléctricamente. El color verde es el más predominante, simbolizando el medio ambiente.
 
-![Image](https://github.com/user-attachments/assets/4745d38e-09ae-4ef3-baf1-3f4ccb742221)
+<table align="center">
+ <tr>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/4745d38e-09ae-4ef3-baf1-3f4ccb742221" alt="Logo of Movix" height="70px"></td>
+  </tr>
+</table>
 
 **Colores**
 
