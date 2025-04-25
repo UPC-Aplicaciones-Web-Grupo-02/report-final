@@ -251,6 +251,10 @@ Utilizando los bussines outcomes, user outcomes y solutions se formularon las si
 
 #### 1.2.2.4. Lean UX Canvas.
 
+![LeanUxCanvas](https://github.com/user-attachments/assets/4f30c6fc-09f5-4c82-9e56-d72e5c9f7946)
+
+
+
 ## 1.3. Segmentos objetivo.
 
 Según Huamanraime y Echevarría (2022), se ha observado que los adultos y adultos mayores hacen uso de los e-scooters, principalmente en distritos con un alto índice de desarrollo humano, como Miraflores o San Isidro. Con base en ello, nuestros segmentos objetivo del proyecto propuesto son dos, los cuales presentamos a continuación:
