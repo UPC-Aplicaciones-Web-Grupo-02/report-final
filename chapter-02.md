@@ -320,10 +320,10 @@ En esta sección se exploran las necesidades de los usuarios y el contexto de us
 En este apartado se presentan dos user personas que representan a los usuarios finales de la plataforma de Movix. Estas representaciones ficticias están basadas en los datos recopilados durante el proceso de needfinding y reflejan las características, necesidades y comportamientos de los usuarios reales.
 
 **User Persona 1 - Segmento objetivo 1: Usuarios Universitarios** <br>
-![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/Alonso%20García.png)
+![Alonso Garcia](https://github.com/user-attachments/assets/cc892e5d-b294-47c6-852b-c45b4aa24148)
 
 **User Persona 2 - Segmento objetivo 2: Público Mayor de 18 Años que Reside en Miraflores, Lima** <br>
-![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/María%20López.png)
+![Maria Lopez](https://github.com/user-attachments/assets/43e5c752-bc87-4df5-b9fe-6bae4a44be18)
 
 ### 2.3.2. User Task Matrix.
 A continuación se identifican las tareas principales que los usuarios realizarán con la app Movix. Estas tareas han sido definidas considerando las necesidades de Alonso, María y usuarios similares al interactuar con el servicio de alquiler de scooters:
@@ -351,21 +351,21 @@ Aunque los estudiantes universitarios como Juan y los adultos jóvenes de Mirafl
 
 ### Alonso García (Estudiante Universitario)
 
-![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/User%20Journey%20Mapping%20-%20Alonso.png)
+![User Journey Mapping Alonso](https://github.com/user-attachments/assets/4f1fba1a-1ece-4dd9-b2f6-da49d3f5a8a4)
 
 ### María López (Adulto mayor residente de Miraflores)
 
-![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/User%20Journey%20Mapping%20-%20María.png)
+![User Journey Mapping Maria](https://github.com/user-attachments/assets/0a933fa3-df33-4648-bdec-dcb082752f6f)
 
 ### 2.3.4. Empathy Mapping.
 
 #### Alonso García (Estudiante Universitario)
 
-![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/Empathy%20map%20-%20Alonso.png)
+![Empathy Map Alonso](https://github.com/user-attachments/assets/8a71a94f-3848-473d-91eb-db39e51ce825)
 
 ### María López (Adulto mayor residente de Miraflores)
 
-![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/Empathy%20map%20-%20Maria.png)
+![Empathy Map Maria](https://github.com/user-attachments/assets/86035962-c03e-4523-a104-bb2263b1e502)
 
 ### 2.3.5. As-is Scenario Mapping.
 
