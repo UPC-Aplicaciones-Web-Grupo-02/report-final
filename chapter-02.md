@@ -334,6 +334,48 @@ En la entrevista con el usuario Kevin Morales, un joven de 28 años que trabaja 
 
 ### 2.2.3. Análisis de entrevistas.
 
+### Motivaciones y necesidades del usuario:
+
+| Hallazgos de las entrevistas | Implicancia para Movix |
+|-----------------------------|-------------------------|
+| Quieren evitar el tráfico y llegar más rápido a sus destinos (especialmente universidades y centros de trabajo). | Valoran medios alternativos de transporte que sean ágiles y eviten congestiones. Movix propone una solución directa con scooters eléctricos. |
+| Prefieren evitar transporte público lleno, demoras de taxis o precios altos. | Necesitan una solución práctica, económica y disponible. Movix plantea acceso por demanda y con precios competitivos. |
+| Están dispuestos a probar nuevas formas de movilidad si hay confianza en la plataforma. | Se requiere una interfaz confiable, sencilla y con soporte visible. La propuesta de valor debe incluir **seguridad digital y física**. |
+
+### Frustraciones actuales:
+
+| Dolor o queja expresada | Cómo lo aborda Movix |
+|------------------------|-----------------------|
+| “Pierdo mucho tiempo esperando transporte o atrapado en tráfico.” | Movix ofrece scooters distribuidos en puntos clave, disponibles para reservar en minutos. |
+| “No me siento seguro alquilando algo si no sé cómo lo van a cuidar.” | La app puede incluir seguros, monitoreo GPS y contratos simples para generar confianza. |
+| “No siempre puedo confiar en apps nuevas, a veces fallan o no tienen soporte.” | Una plataforma con atención al cliente, tutoriales y pruebas gratuitas puede reducir la barrera de entrada. |
+
+### Actitudes frente a la idea de alquilar o prestar scooters:
+
+| Opiniones sobre ofrecer su scooter | Opiniones sobre alquilar un scooter |
+|--------------------------|---------------------------|
+| Algunos estarían dispuestos a alquilar su scooter si ganan dinero extra y se sienten seguros. | Los usuarios están abiertos a alquilar scooters si es sencillo, rápido y no hay riesgos. |
+| Les preocupa el daño, pérdida o mal uso de su scooter. | Necesitan garantías claras de uso, condiciones justas y soporte en caso de problemas. |
+| Prefieren tener control sobre cuándo y a quién lo alquilan. | Valoran poder reservar fácilmente y conocer el estado del vehículo. |
+
+### Perfil recurrente identificado:
+
+- **Edad:** Entre 18 y 30 años (universitarios y jóvenes trabajadores).
+- **Zona de interés:** Lima Moderna (Miraflores, San Isidro, Surco).
+- **Hábitos:** Salen todos los días, combinan estudio y trabajo, valoran el tiempo y la flexibilidad.
+- **Tecnología:** Usan apps móviles a diario, pero desconfían de plataformas nuevas sin reputación.
+
+### Insights Clave:
+
+1. **El tiempo perdido en tráfico** y la **ineficiencia del transporte tradicional** es un punto de dolor crítico → *Movix ofrece velocidad y libertad.*
+
+2. **El deseo de obtener ingresos pasivos con recursos propios** está presente → *Movix lo convierte en una oportunidad concreta con el modelo P2P.*
+
+3. **Hay un fuerte deseo de seguridad y claridad en el uso** → *Necesitas integrar protocolos de confianza, seguros y transparencia en la app.*
+
+4. **La fricción tecnológica es una barrera** → *Movix debe tener una experiencia de usuario fluida, intuitiva y con soporte humano.*
+
+
 ## 2.3. Needfinding.
 En esta sección se exploran las necesidades de los usuarios y el contexto de uso de Movix, enfocándose en dos segmentos clave definidos para la investigación: (1) Estudiantes universitarios y (2) Público general en Miraflores. Se emplean técnicas de design research para comprender a fondo a estos usuarios: se crean user personas representativas de cada segmento, se identifican sus tareas con la aplicación (user task matrix), se traza su recorrido de uso (user journey), se elaboran mapas de empatía basados en supuestas entrevistas, y se describe el escenario actual (as-is) de cómo satisfacen su necesidad de transporte sin Movix. Esta información orientará el diseño centrado en el usuario de la aplicación.
 
