@@ -98,17 +98,103 @@ Organización por orden alfabético para la sección “Mis scooters” del prop
 
 ### 4.2.2. Labeling Systems.
 
+Para las etiquetas en nuestra landing page, hemos elegido un lenguaje sencillo que permite a los usuarios familiarizarse fácilmente con las opciones proporcionadas, logrando una navegación intuitiva.
+
+En la Landing Page se visualizarán los siguientes botones de navegación:
+
+| **Etiqueta**      | **Descripción**                                                                 |
+|-------------------|---------------------------------------------------------------------------------|
+| **Inicio**        | Apartado donde se muestra la información de la aplicación explicando sus características. |
+| **Sobre Nosotros**| Apartado donde se informa al usuario sobre el equipo y el propósito.           |
+| **Servicios**     | Apartado donde se muestra el tipo de usuario que puede ser y sus ventajas.     |
+| **Planes**        | Apartado donde se muestran todos los planes de suscripción.                    |
+| **Team**          | Apartado donde el usuario puede comunicarse con nosotros.                       |
+| **Empieza Ya!**   | Apartado para redirigir a la aplicación web.                                   |
+
+Para la página es importante, un sistema de etiquetado efectivo para permitir que los usuarios encuentren fácilmente la información y los servicios que necesitan. Nuestro sistema de etiquetado considera cuidadosamente cómo presentar la información en el sitio web. Después de establecer la organización visual y los esquemas de categorización del contenido, se elegirá etiquetas claras y concisas que reflejan el lenguaje común y la comprensión del usuario con palabras comunes no pasan de tres palabras. Nos aseguraremos de utilizar etiquetas intuitivas y fáciles de recordar para representar los diferentes conjuntos de información y asociaciones entre ellos. También se utilizarán diferentes colores y diseños para resaltar y diferenciar las etiquetas y conjuntos de información en mi sitio web. Para evitar confusiones y asegurar la coherencia visual en todo el sitio web, se mantendrá un sistema de etiquetado consistente y se evitará el uso de términos técnicos o jerga que podría ser confuso para los usuarios.
+
+## Botones en la Parte Superior Derecha del Home Page
+
+En la parte superior derecha de la aplicación web, se encuentran tres botones que permiten a los usuarios acceder a diferentes secciones de su perfil y servicios. Estos son:
+
+- **Mi Perfil:**  
+  Este botón permite al usuario acceder a su perfil personal, donde puede ver y editar su información, así como gestionar sus preferencias.
+
+- **Suscripción:**  
+  Al hacer clic en este botón, el usuario puede ver las suscripciones disponibles y consultar los detalles de la suscripción que ha adquirido.
+
+- **Scooters:**  
+  Este botón muestra tanto los scooters disponibles para alquiler como aquellos que el usuario ha puesto en alquiler, facilitando la gestión de ambos tipos de scooters.
+
 ### 4.2.3. SEO Tags and Meta Tags
+
+A continuación se mostrarán las etiquetas que representarán el contenido de la Landing Page y de la aplicación web para que los usuarios las encuentren con mayor facilidad.
+
+#### **Landing Page**
+
+![Tags Landing Page](https://github.com/user-attachments/assets/6c9d47ee-831f-4756-a281-bdcd1e59b4de)
+
+#### **Aplicación Web**
+
+![Tags App Web](https://github.com/user-attachments/assets/3be44467-aa38-4a40-9b37-9cb7a952d2ac)
 
 ### 4.2.4. Searching Systems.
 
+Implementaremos dos métodos para mejorar la experiencia de búsqueda de nuestros usuarios, utilizando un sistema de búsqueda por filtros para refinar las búsquedas de la siguiente manera:
+
+**Filtros Disponibles:**
+
+- **Disponibilidad de Ubicación:** Este filtro permitirá a los usuarios buscar vehículos disponibles en ubicaciones específicas, lo que será útil para aquellos que deseen encontrar opciones cercanas.
+
+Con la implementación de estos sistemas de búsqueda y filtros, esperamos mejorar significativamente la experiencia de nuestros usuarios al encontrar el vehículo perfecto para sus necesidades.
+
+![Filtro](https://github.com/user-attachments/assets/3b1cbc6a-b1ec-435a-b59d-c7eb5d019cab)
+
 ### 4.2.5. Navigation Systems.
+
+Para el sistema de navegación en pantallas desktop, optamos por emplear una **barra de menú horizontal** que guiará al usuario por las diferentes secciones con títulos clave y estáticos, facilitando así el acceso a todas las herramientas necesarias para una mejor navegación. En dispositivos móviles, se utilizará una **barra de navegación desplegable**.
+
+![Navbar web](https://github.com/user-attachments/assets/fda3de2b-4cc6-47a6-a8d1-b18697d6ea73)
+
+![Navbar movil](https://github.com/user-attachments/assets/ad1b8a37-5013-4e80-8c20-b695133028ae)
 
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
 
+![Image](https://github.com/user-attachments/assets/2467e589-9f34-4907-88d3-59adc332838f)
+
+![Image](https://github.com/user-attachments/assets/4797537a-b9bc-40e9-8e3c-693ffcdf763a)
+
+![Image](https://github.com/user-attachments/assets/a7ed06d9-df0e-423d-93b5-6cf6acf1f311)
+
+![Image](https://github.com/user-attachments/assets/8e0e0c5c-a74a-497a-b1fc-0da8d48e4ef3)
+
+![Image](https://github.com/user-attachments/assets/3b24873b-5922-47b5-9c7c-08b9e89afd43)
+
+![Image](https://github.com/user-attachments/assets/ce3e2508-49c5-47be-9eca-8e3ea70286e9)
+
+![Image](https://github.com/user-attachments/assets/bb7b6500-e6aa-4245-928e-d95a2f6eb443)
+
+![Image](https://github.com/user-attachments/assets/5e1621c8-7106-43d3-ac7c-04cd03a6bcc0)
+
 ### 4.3.2. Landing Page Mock-up.
+
+![Image](https://github.com/user-attachments/assets/1706af10-aca3-4a72-8097-69fcf05631a0)
+
+![Image](https://github.com/user-attachments/assets/49481775-26a3-45cb-854a-98237b17778f)
+
+![Image](https://github.com/user-attachments/assets/a8f79be8-fd5f-4344-8edf-d3562b341621)
+
+![Image](https://github.com/user-attachments/assets/5f04e166-43f6-47a7-85d8-f722ad2400e6)
+
+![Image](https://github.com/user-attachments/assets/2321a30f-0aaa-4698-a7ce-c18d0476a992)
+
+![Image](https://github.com/user-attachments/assets/7f038692-9dc3-4096-acb2-b367ffe4a67a)
+
+![Image](https://github.com/user-attachments/assets/2c46df33-3c67-4537-a732-0f81f5d7efdf)
+
+![Image](https://github.com/user-attachments/assets/f8030968-f526-46d8-9ad4-bce3a828f13d)
 
 ## 4.4. Web Applications UX/UI Design.
 
