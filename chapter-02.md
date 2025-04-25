@@ -22,7 +22,7 @@ A continuación, se presentan los competidores actuales o recientes en el mercad
     <td valign="top">Emove</td>
   </tr>
   <tr>
-    <td valign="top"><img src="#" alt="Logo of Movix" height="70px"></td>
+    <td valign="top"><img src="https://github.com/user-attachments/assets/a3a59b16-2e55-49a2-a57a-90b4bdcbba51" alt="Logo of Movix" height="70px"></td>
     <td valign="top"><img src="https://github.com/user-attachments/assets/07c82e66-c3bf-487d-93c0-620223ae596b" alt="Logo of City Bike" height="70px"></td>
     <td valign="top"><img src="https://github.com/user-attachments/assets/4665f90c-104d-429c-b1ec-815983387cd0" alt="Logo of Grin" height="70px"></td>
     <td valign="top"><img src="https://github.com/user-attachments/assets/641fe160-0905-41af-9e4b-58304d63ae0c" alt="Logo of Emove" height="70px"></td>
@@ -350,17 +350,21 @@ Aunque los estudiantes universitarios como Juan y los adultos jóvenes de Mirafl
 ### 2.3.3. User Journey Mapping.
 
 ### Alonso García (Estudiante Universitario)
+
 ![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/User%20Journey%20Mapping%20-%20Alonso.png)
 
 ### María López (Adulto mayor residente de Miraflores)
+
 ![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/User%20Journey%20Mapping%20-%20María.png)
 
 ### 2.3.4. Empathy Mapping.
 
 #### Alonso García (Estudiante Universitario)
+
 ![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/Empathy%20map%20-%20Alonso.png)
 
 ### María López (Adulto mayor residente de Miraflores)
+
 ![Image](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final/blob/feature/chapter-02/images/Empathy%20map%20-%20Maria.png)
 
 ### 2.3.5. As-is Scenario Mapping.
