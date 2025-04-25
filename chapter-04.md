@@ -233,6 +233,34 @@ Para el sistema de navegación en pantallas desktop, optamos por emplear una **b
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
+**User Goal 01:** El usuario quiere registrarse, iniciar sesión, ver, editar y eliminar su cuenta
+
+![WF_UserGoal1](https://github.com/user-attachments/assets/b33c90dc-bce2-4c2f-80d5-80fd10b455b8)
+
+**User Goal 02:** El usuario quiere ver, crear, editar y eliminar sus scooters
+
+![WF_UserGoal2](https://github.com/user-attachments/assets/632e6147-82d9-4bf7-a53f-bdd31e9e659a)
+
+**User Goal 03:** El usuario quiere buscar y alquilar un scooter
+
+![WF_UserGoal3](https://github.com/user-attachments/assets/e4324249-8197-403b-aebf-07c7aefb6a36)
+
+**User Goal 04:** El usuario quiere ver reseñas y dejar una reseña
+
+![WF_UserGoal4](https://github.com/user-attachments/assets/7d33036d-9b78-469d-8d56-bc4be96ebccc)
+
+**User Goal 05:** El usuario quiere ver su historial y volver a alquilar un scooter
+
+![WF_UserGoal5](https://github.com/user-attachments/assets/e444ce03-d704-4366-b7cb-505f9e2dd8c1)
+
+**User Goal 06:** El usuario quiere eliminar su historial
+
+![WF_UserGoal6](https://github.com/user-attachments/assets/ea3181fd-bd68-4268-baa5-ef2e4de78866)
+
+**User Goal 07:** El usuario quiere comparar, ver, cambiar y cancelar su suscripción
+
+![WF_UserGoal7](https://github.com/user-attachments/assets/5b6346c1-d349-49bf-bd8a-599be88fbbb6)
+
 ### 4.4.2. Web Applications Mock-ups.
 
 ![Image](https://github.com/user-attachments/assets/c1d7003a-8b42-43c6-9a44-2b0585bd0647)
@@ -270,7 +298,46 @@ Para el sistema de navegación en pantallas desktop, optamos por emplear una **b
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+**User Goal 01:** El usuario quiere registrarse, iniciar sesión, ver, editar y eliminar su cuenta. Cuando el usuario quiera registrarse, ingresa sus datos y se registra; cuando quiera iniciar sesión, ingresa su correo y contraseña, y se lo redirigirá a su perfil, el cual tendrá las opciones de editar sus datos y eliminar su cuenta con previa confirmación. Cuenta con la opción de cancelar las operaciones.
+
+![UF_UserGoal1](https://github.com/user-attachments/assets/7065a576-560c-4ee5-b2a7-f7fbc3d923b9)
+
+**User Goal 02:** El Owner quiere ver, crear, editar y eliminar sus scooters. Cuando el Owner se encuentre en la sección de sus scooters, podrá verlos, publicar uno nuevo, editarlos y eliminarlos. Cuenta con la opción de cancelar las operaciones.
+
+![UF_UserGoal2](https://github.com/user-attachments/assets/fe80df66-b6a5-4dda-99c7-08cc2c5a69b7)
+
+**User Goal 03:** El Cliente quiere buscar y alquilar un scooter. Cuando el Cliente quiera alquilar un scooter, puede buscarlo con el filtro por distrito, ver una lista de todos los scooters disponibles, seleccionar el de su preferencia, alquilarlo y pagarlo. Cuenta con la opción de cancelar las operaciones.
+
+![UF_UserGoal3](https://github.com/user-attachments/assets/57b44f93-04dd-4a4f-825f-78cff41bb273)
+
+**User Goal 04:** El Cliente quiere ver reseñas y dejar una reseña. Cuando el Cliente quiera ver reseñas de un scooter, puede ingresara ellas entrando a detalles del scooter; también puede dejar su reseña luego de alquilar un scooter. Cuenta con la opción de cancelarla.
+
+![UF_UserGoal4](https://github.com/user-attachments/assets/f194398a-95ce-4e75-ba52-4bc1cc90868c)
+
+**User Goal 05:** El Cliente quiere ver su historial y volver a alquilar un scooter. Cuando el Cliente quiera ver su historial, puede acceder a esta opción desde su perfil y ver la lista de todos los scooters que fueron alquilados por él mismo; también puede volver a alquilar un scooter. Cuenta con la opción de cancelar las operaciones.
+![UF_UserGoal5](https://github.com/user-attachments/assets/4c0efcd2-a931-446f-bae8-bb882ef445db)
+
+**User Goal 06:** El Cliente quiere eliminar su historial. Cuando el Cliente quiera eliminar su historial, puede hacerlo dando clic en eliminar historial. Cuenta con la opción de cancelar la operación.
+
+![UF_UserGoal6](https://github.com/user-attachments/assets/dcc7533c-ab7a-4883-9534-7d5ca947be7e)
+
+**User Goal 07:** El usuario quiere comparar, ver, cambiar y cancelar su suscripción. Cuando el usuario quiere ver su suscripción, se dirigirá a "Mi Suscripción" y podrá verla, cambiarla y cancelarla. Cuenta con la opción de cancelar las operaciones.
+
+![UF_UserGoal7](https://github.com/user-attachments/assets/35282287-cdcb-4d62-a3b3-ee9abf45e71e)
+
 ## 4.5. Web Applications Prototyping.
+
+Nuestro prototipo está diseñado con una estructura muy organizada; en los siguientes enlaces podrá ver los wireframes y mockups de nuestra aplicación web y landing page.
+
+- **Prototipo Landing Page:**
+  [Diseño en Figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=5-658&t=v7TUuZ1SCVdOPNmo-1)
+
+- **Prototipo Aplicación Web:**
+  [Diseño en Figma](https://www.figma.com/design/cQuS3bFffjnBjo9RGwcl2D/Web-Application---MoviRent?node-id=0-1&t=v7TUuZ1SCVdOPNmo-1)
+
+Para nuestro proyecto se incluyen videos de cada uno de los prototipos realizados (Aplicación Web y Landing Page).
+
+Acontinuación videos!!
 
 ## 4.6. Domain-Driven Software Architecture.
 
@@ -285,6 +352,51 @@ Para el sistema de navegación en pantallas desktop, optamos por emplear una **b
 ### 4.7.1. Class Diagrams.
 
 ### 4.7.2. Class Dictionary.
+
+
+| **Clase**                       | **Descripción**                                                                 | **Tipo de dato** |
+|---------------------------------|---------------------------------------------------------------------------------|-----------------|
+| **Profile**                     | -                                                                               | -               |
+|                                 | id: Identificación personal del profile para cada usuario                       | Int             |
+|                                 | email: Correo electrónico del usuario                                           | String          |
+|                                 | nombre: Nombre que contendrá el profile de los usuarios                         | String          |
+| **AuditableAbstractAggregateRoot** | -                                                                               | -               |
+|                                 | id: Identificación para el AuditableAbstractAggregateRoot                       | Int             |
+|                                 | updateAt: Fecha de actualización en la página web                               | Date            |
+|                                 | getID(): Obtiene el Id de los usuarios de la plataforma                         | Int             |
+| **scooterDetails**              | -                                                                               | -               |
+|                                 | marca: Marca del Scooter que desean alquilar                                     | String          |
+|                                 | kilometraje: Kilometraje de uso de cada Scooter en el sistema                   | Double          |
+|                                 | estadoBateria: Estado de la batería del Scooter                                 | String          |
+| **Reseña**                      | -                                                                               | -               |
+|                                 | id: Identificador de las reseñas puestas por los usuarios                       | Int             |
+|                                 | puntuacion: Puntuación de cada Scooter utilizado por algún usuario              | int             |
+|                                 | comentario: Comentario sobre la experiencia de uso con cada Scooter             | String          |
+|                                 | fechaReseña: Fecha en la que fue realizada cada reseña                          | Date            |
+| **Alquiler**                    | -                                                                               | -               |
+|                                 | id: Identificador de cada alquiler realizado por el usuario                     | Int             |
+|                                 | scooterId: Identificador de cada scooter en el sistema                          | Int             |
+|                                 | precio: Precio del alquiler de cada scooter                                     | Double          |
+|                                 | descripcion: Descripción previa de los scooters que le interesen                | String          |
+| **Reservation**                 | -                                                                               | -               |
+|                                 | id: Identificador de cada reserva realizada en la plataforma                    | int             |
+|                                 | reservationDate: Fechas de inicio y fin de los alquileres de Scooters           | Date            |
+|                                 | paymentDetails: Detalles de pago de los alquileres                              | Double          |
+|                                 | status: Estado de disponibilidad de un Scooter                                  | Void            |
+| **User**                        | -                                                                               | -               |
+|                                 | id: Identificador único del usuario                                             | Int             |
+|                                 | email: Dirección de correo electrónico del usuario                              | String          |
+|                                 | password: Contraseña del usuario para acceder al sistema                        | String          |
+|                                 | roles: Roles que puede adquirir un usuario en la plataforma                     | set             |
+|                                 | createdAt: Fecha de creación de la cuenta                                       | Date            |
+| **Scooter**                     | -                                                                               | -               |
+|                                 | id: Identificador para cada Scooter añadido al sistema                          | Int             |
+|                                 | scooterDetails: Detalles técnicos de los Scooters en el sistema                 | Void            |
+|                                 | Location: Ubicación de cada Scooter mediante coordenadas                        | Double          |
+|                                 | maintenanceRecords: Mantenimientos que tuvo cada Scooter                        | Lista           |
+|                                 | status: Estado de disponibilidad de cada Scooter                                | String          |
+|                                 | estado: Estado general del vehículo                                             | String          |
+
 
 ## 4.8. Database Design.
 
