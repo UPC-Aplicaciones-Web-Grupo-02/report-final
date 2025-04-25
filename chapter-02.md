@@ -256,10 +256,10 @@ Datos del entrevistado:
 * Apellidos: Alfaro Meneses
 * Edad: 38
 * Distrito de residencia: Miraflores
-* Enlace a la entrevista: [Ver Video]()
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EU-XUOOM9sBGpykDMq62UTYBUt5VFnXoDIYSqLHigcapkA?e=laifA3&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifSwicGxheWJhY2tPcHRpb25zIjp7fX0%3D)
 * Duración de la entrevista: 
 
-![entrevista]()
+![EntrevistaErick](https://github.com/user-attachments/assets/d39a7e7b-b907-4b49-95c6-c684b06f2062)
 
 *Informe del resumen de la entrevista:*
 
