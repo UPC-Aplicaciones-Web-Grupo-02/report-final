@@ -90,12 +90,14 @@
   </tr>
   <tr>
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-    <td>Dato 2</td>
+    <td>Rafael Cuya: TB1: Para el desarrollo de la TB1 tuvimos diversas reuniones donde pudimos coordinar la realizacion del informe 
+      y de la landing page. </td>
     <td>Dato 3</td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td>Dato 5</td>
+    <td>Rafael Cuya: Para el desarrollo de la TB1 nos repartimos las diversas tareas, poniendonos 
+      algunos plazos, para poder realizar el proyecto con éxito</td>
     <td>Dato 6</td>
   </tr>
 </table>
