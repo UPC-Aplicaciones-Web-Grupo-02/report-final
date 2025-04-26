@@ -309,11 +309,11 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
     <tr>
         <td>US13</td>
         <td>Publicar scooter en alquiler</td>
-        <td><b>Como</b> Owner de un scooter eléctrico  
+        <td><b>Como</b> dueño de scooters  
         <b>Quiero</b> crear publicaciones con la información y especificaciones de mi scooter
         <b>Para</b> que pueda ser alquilado por un cliente</td>
         <td>
-            <b>Scenario 1: Owner publica su scooter en Movix </b> <br/>
+            <b>Scenario 1: Publicación de scooter </b> <br/>
             <b>Dado que</b> el Owner cuente con una cuenta en nuestra aplicación <br><b>Y</b> se encuentre el la opción de “Publicar scooter” <br/>
             <b>Cuando</b> llene todas las casillas obligatorias para publicar su scooter <br><b>Y</b> le de al botón “Publicar”<br/>
             <b>Entonces</b> el sistema le muestra un aviso de que su scooter ha sido publicado. <br/>
