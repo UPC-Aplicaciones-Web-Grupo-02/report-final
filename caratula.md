@@ -103,54 +103,38 @@
 ## Student Outcome
 
 <table border="1px">
-  <tr>
-    <th>Criterio específico</th>
-    <th>Acciones realizadas</th>
-    <th>Conclusiones</th>
-  </tr>
-  <tr>
-    <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-    <td>Rafael Cuya: TB1: Para el desarrollo de la TB1 tuvimos diversas reuniones donde pudimos coordinar la realizacion del informe 
-      y de la landing page.
-    <br/>Arnold Morales Sosa TB1: Dentro de la culminación de este primer entregable tuvimos reuniones donde pudimos coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además de verificar si algo estaba mal o no. Nos apoyamos mutuamente y enseñamos a los integrantes que no sabían usar dichos programas.
-    <br/>Flores Manrique, Sebastian: TB1 Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo</td>
-    <br/>Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico.</td>
-<td>Durante el trabajo en
-equipo y multidisciplinario
-nos ha proporcionado
-una mejor comprensión
-sólida de cómo
-trabajar en equipo
-para desarrollar
-software de alta
-calidad que satisfaga
-las necesidades
-de los usuarios
-y del negocio.
-<br/>La comunicación oral es muy importante y se reflejó con la terminación del trabajo. Hubiera sido más difícil si no hubiese dicha comunicación frecuente entre todos.</td>
-</td>
-  </tr>
-  <tr>
-    <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-    <td>Rafael Cuya: Para el desarrollo de la TB1 nos repartimos las diversas tareas, poniendonos 
-      algunos plazos, para poder realizar el proyecto con éxito
-    <br/>Arnold Morales Sosa TB1: Investigué acerca de los posibles competidores y el impacto que generaría en nuestra marca, y qué hay que hacer para poder incentivar a los usuarios a que usen nuestra app viendo sus necesidades y quejas frecuentes usando transporte público y otros servicios similares. 
-    <br/>Flores Manrique, Sebastian: TB1 Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
-</td>
-    <br/>Percy Alonso Muñiz Huyanca: Fui responsable del desarrollo del capítulo 3 del informe, elaborando dos To-Be Scenario Maps para los segmentos persona adulta y estudiante universitario, así como dos Impact Mapping para ambos perfiles. Estas herramientas permitieron al equipo tener una visión clara de los usuarios objetivos. Además, apoyé en la redacción de fragmentos de código y colaboré en la revisión general del documento. Me mantuve comprometido en la planificación de tareas y en el cumplimiento de plazos, siempre buscando mantener la calidad del entregable.</td>
-<td>La experiencia en
-la investigación
-del negocio demostró
-nuestra capacidad
-para comprender y
-aplicar conocimientos
-específicos del sector
-en la creación
-de soluciones
-tecnológicas efectivas.
-<br/>Se tiene que saber el contexto real de lo que uno quiere hacer a la hora de emprender y hacer un proyecto innovador para ayudar a usuarios con problemas reales que no sabían que requerían, pero que sería de gran ayuda si existiese algo así de eficaz y seguro.</td>
-  </tr>
-</table>
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+    <tr>
+      <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+      <td>
+        Rafael Cuya: TB1: Para el desarrollo de la TB1 tuvimos diversas reuniones donde pudimos coordinar la realización del informe y de la landing page.
+        <br/>Arnold Morales Sosa TB1: Dentro de la culminación de este primer entregable tuvimos reuniones donde pudimos coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además de verificar si algo estaba mal o no. Nos apoyamos mutuamente y enseñamos a los integrantes que no sabían usar dichos programas.
+        <br/>Flores Manrique, Sebastian: TB1 Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo
+        <br/><strong>Percy Alonso Muñiz Huyanca:</strong> A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico.
+      </td>
+      <td>
+        Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
+        <br/>La comunicación oral es muy importante y se reflejó con la terminación del trabajo. Hubiera sido más difícil si no hubiese dicha comunicación frecuente entre todos.
+      </td>
+    </tr>
+    <tr>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+      <td>
+        Rafael Cuya: Para el desarrollo de la TB1 nos repartimos las diversas tareas, poniéndonos algunos plazos, para poder realizar el proyecto con éxito.
+        <br/>Arnold Morales Sosa TB1: Investigué acerca de los posibles competidores y el impacto que generaría en nuestra marca, y qué hay que hacer para poder incentivar a los usuarios a que usen nuestra app viendo sus necesidades y quejas frecuentes usando transporte público y otros servicios similares.
+        <br/>Flores Manrique, Sebastian: TB1 Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
+        <br/><strong>Percy Alonso Muñiz Huyanca:</strong> Fui responsable del desarrollo del capítulo 3 del informe, elaborando dos To-Be Scenario Maps para los segmentos persona adulta y estudiante universitario, así como dos Impact Mapping para ambos perfiles. Estas herramientas permitieron al equipo tener una visión clara de los usuarios objetivos. Además, apoyé en la redacción de fragmentos de código y colaboré en la revisión general del documento. Me mantuve comprometido en la planificación de tareas y en el cumplimiento de plazos, siempre buscando mantener la calidad del entregable.
+      </td>
+      <td>
+        La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
+        <br/>Se tiene que saber el contexto real de lo que uno quiere hacer a la hora de emprender y hacer un proyecto innovador para ayudar a usuarios con problemas reales que no sabían que requerían, pero que sería de gran ayuda si existiese algo así de eficaz y seguro.
+      </td>
+    </tr>
+  </table>
 
 
 ## Contenido
