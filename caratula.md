@@ -112,8 +112,8 @@
     <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
     <td>Rafael Cuya: TB1: Para el desarrollo de la TB1 tuvimos diversas reuniones donde pudimos coordinar la realizacion del informe 
       y de la landing page.
-        Arnold Morales Sosa:<br/>TB1: Dentro de la culminación de este primer entregable tuvimos reuniones donde pudimos coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además de verificar si algo estaba mal o no. Nos apoyamos mutuamente y enseñamos a los integrantes que no sabían usar dichos programas.
-Flores Manrique, Sebastian:<br/>TB1 Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo</td>
+    <br/>Arnold Morales Sosa TB1: Dentro de la culminación de este primer entregable tuvimos reuniones donde pudimos coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además de verificar si algo estaba mal o no. Nos apoyamos mutuamente y enseñamos a los integrantes que no sabían usar dichos programas.
+    <br/>Flores Manrique, Sebastian: TB1 Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo</td>
 <td>Durante el trabajo en
 equipo y multidisciplinario
 nos ha proporcionado
@@ -126,17 +126,15 @@ calidad que satisfaga
 las necesidades
 de los usuarios
 y del negocio.
-La comunicación oral es muy importante y se reflejó con la terminación del trabajo. Hubiera sido más difícil si no hubiese dicha comunicación frecuente entre todos.</td>
+<br/>La comunicación oral es muy importante y se reflejó con la terminación del trabajo. Hubiera sido más difícil si no hubiese dicha comunicación frecuente entre todos.</td>
 </td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
     <td>Rafael Cuya: Para el desarrollo de la TB1 nos repartimos las diversas tareas, poniendonos 
       algunos plazos, para poder realizar el proyecto con éxito
-        Arnold Morales Sosa<br>TB1: Investigué acerca de los posibles competidores y el impacto que generaría en nuestra marca, y qué hay que hacer para poder incentivar a los usuarios a que usen nuestra app viendo sus necesidades y quejas frecuentes usando transporte público y otros servicios similares. 
-Flores Manrique, Sebastian:
-<br>TB1
-Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
+    <br/>Arnold Morales Sosa TB1: Investigué acerca de los posibles competidores y el impacto que generaría en nuestra marca, y qué hay que hacer para poder incentivar a los usuarios a que usen nuestra app viendo sus necesidades y quejas frecuentes usando transporte público y otros servicios similares. 
+    <br/>Flores Manrique, Sebastian: TB1 Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
 </td>
 <td>La experiencia en
 la investigación
@@ -148,7 +146,7 @@ específicos del sector
 en la creación
 de soluciones
 tecnológicas efectivas.
-Se tiene que saber el contexto real de lo que uno quiere hacer a la hora de emprender y hacer un proyecto innovador para ayudar a usuarios con problemas reales que no sabían que requerían, pero que sería de gran ayuda si existiese algo así de eficaz y seguro.</td>
+<br/>Se tiene que saber el contexto real de lo que uno quiere hacer a la hora de emprender y hacer un proyecto innovador para ayudar a usuarios con problemas reales que no sabían que requerían, pero que sería de gran ayuda si existiese algo así de eficaz y seguro.</td>
   </tr>
 </table>
 
