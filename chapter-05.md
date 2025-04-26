@@ -454,7 +454,7 @@ Tabla para poder identificarnos:
   </tr>
   <tr>
     <td>VelardeSoft</td>
-    <td>Velarde Gonzales, Nestor</td>
+    <td>Velarde Gonzales, Nestor Hernán</td>
   </tr>
   <tr>
     <td>alomsoo </td>
