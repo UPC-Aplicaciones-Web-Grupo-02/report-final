@@ -73,25 +73,25 @@
     <td>Desarrollo capitulo 1</td>
   </tr>
 <tr>
-    <td>1.0</td>
+    <td>1.1</td>
     <td>21/04/25</td>
     <td>Morales Sosa, Arnold</td>
     <td>Desarrollo capitulo 2</td>
   </tr>
 <tr>
-    <td>1.0</td>
+    <td>1.2</td>
     <td>21/04/25</td>
     <td>Muñiz Huayanca, Percy Alonso </td>
     <td>Desarrollo capitulo 3</td>
   </tr>
 <tr>
-    <td>1.0</td>
+    <td>1.3</td>
     <td>21/04/25</td>
     <td>Velarde Gonzales, Néstor</td>
     <td>Desarrollo capitulo 4</td>
   </tr>
 <tr>
-    <td>1.0</td>
+    <td>1.4</td>
     <td>21/04/25</td>
     <td>Rafael Cuya</td>
     <td>Desarrollo capitulo 5</td>
@@ -99,6 +99,8 @@
 </table>
 
 ## Project Report Collaboration Insights
+
+- Nuestro pro
 
 ## Student Outcome
 
@@ -111,10 +113,13 @@
     <tr>
       <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
       <td>
-        Rafael Cuya: TB1: Para el desarrollo de la TB1 tuvimos diversas reuniones donde pudimos coordinar la realización del informe y de la landing page.
-        <br/>Arnold Morales Sosa TB1: Dentro de la culminación de este primer entregable tuvimos reuniones donde pudimos coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además de verificar si algo estaba mal o no. Nos apoyamos mutuamente y enseñamos a los integrantes que no sabían usar dichos programas.
-        <br/>Flores Manrique, Sebastian: TB1 Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo
-        <br/><strong>Percy Alonso Muñiz Huyanca:</strong> A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico.
+        - TB1 <br/>
+        - Rafael Cuya: Para el desarrollo de la TB1 tuvimos diversas reuniones donde pudimos coordinar la realización del informe y de la landing page.
+        <br/><br/>
+        - Arnold Morales Sosa: Dentro de la culminación de este primer entregable tuvimos reuniones donde pudimos coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además de verificar si algo estaba mal o no. Nos apoyamos mutuamente y enseñamos a los integrantes que no sabían usar dichos programas.<br/>
+        <br/>Flores Manrique, Sebastian: Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo. <br/>
+        <br/>Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico. <br/><br/>
+        Néstor Velarde Gonzales: Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realizé el Cap. 04, los diseños wireframes y Mock-ups tanto para landind page y aplicación web, usando las buenas prácticas y un diseño responsivo. 
       </td>
       <td>
         Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
@@ -124,10 +129,15 @@
     <tr>
       <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
       <td>
-        Rafael Cuya: Para el desarrollo de la TB1 nos repartimos las diversas tareas, poniéndonos algunos plazos, para poder realizar el proyecto con éxito.
-        <br/>Arnold Morales Sosa TB1: Investigué acerca de los posibles competidores y el impacto que generaría en nuestra marca, y qué hay que hacer para poder incentivar a los usuarios a que usen nuestra app viendo sus necesidades y quejas frecuentes usando transporte público y otros servicios similares.
-        <br/>Flores Manrique, Sebastian: TB1 Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
-        <br/><strong>Percy Alonso Muñiz Huyanca:</strong> Fui responsable del desarrollo del capítulo 3 del informe, elaborando dos To-Be Scenario Maps para los segmentos persona adulta y estudiante universitario, así como dos Impact Mapping para ambos perfiles. Estas herramientas permitieron al equipo tener una visión clara de los usuarios objetivos. Además, apoyé en la redacción de fragmentos de código y colaboré en la revisión general del documento. Me mantuve comprometido en la planificación de tareas y en el cumplimiento de plazos, siempre buscando mantener la calidad del entregable.
+        - <strong>TB1</strong> <br/>
+        - Rafael Cuya: Para el desarrollo de la TB1 nos repartimos las diversas tareas, poniéndonos algunos plazos, para poder realizar el proyecto con éxito.
+        <br/><br/>
+        - Arnold Morales Sosa TB1: Investigué acerca de los posibles competidores y el impacto que generaría en nuestra marca, y qué hay que hacer para poder incentivar a los usuarios a que usen nuestra app viendo sus necesidades y quejas frecuentes usando transporte público y otros servicios similares.
+        <br/><br/>
+        - Flores Manrique, Sebastian: TB1 Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
+        <br/><br/>
+        - Percy Alonso Muñiz Huyanca: Fui responsable del desarrollo del capítulo 3 del informe, elaborando dos To-Be Scenario Maps para los segmentos persona adulta y estudiante universitario, así como dos Impact Mapping para ambos perfiles. Estas herramientas permitieron al equipo tener una visión clara de los usuarios objetivos. Además, apoyé en la redacción de fragmentos de código y colaboré en la revisión general del documento. Me mantuve comprometido en la planificación de tareas y en el cumplimiento de plazos, siempre buscando mantener la calidad del entregable. <br/><br/>
+        - Néstor Velarde Gonzales: Fue el encago de guiar cada estructura del proyecto, realizé los user histories basasos en las entrevistas y cada finalización de capitulo realizamos una breve corrección entre integrantes de equipo.  
       </td>
       <td>
         La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
