@@ -6,6 +6,12 @@
 
 Somos InnovaTech, una startup fundada por 5 estudiantes de la Universidad Peruana de Ciencias Aplicadas, que trabaja en el desarrollo de la aplicación llamada Movix, enfocada a facilitar el alquiler de scooters eléctricos en Lima, Perú.  Nuestro enfoque se centra en brindar soluciones para usuarios que buscan alquilar scooters para fines de transporte o recreativos. Nuestro objetivo es facilitar el acceso a scooters eléctricos de forma segura y conveniente para nuestros usuarios. Nuestra aplicación web ofrece una experiencia excepcional, garantizando la disponibilidad y seguridad de sus scooters.
 
+<table align="center">
+ <tr>
+    <td><img src="https://github.com/user-attachments/assets/4745d38e-09ae-4ef3-baf1-3f4ccb742221" alt="Logo of Movix" width="100%"></td>
+  </tr>
+</table>
+
 <table border="1px" align="center">
     <tbody>
         <tr>
@@ -59,7 +65,7 @@ Somos InnovaTech, una startup fundada por 5 estudiantes de la Universidad Peruan
   </tr>
     <tr>
     <td>
-        <img src="https://github.com/UPC-Aplicaciones-Web-Grupo-02/landing-page/blob/main/public/assets/student/ArnoldProfile.png" alt="img profile"/> <br/> Arnold Gabriel Morales Sosa - U201822516
+        <img src="https://github.com/user-attachments/assets/20e7f70a-36b2-46e3-8bd8-eb15f2c5c655" alt="img profile"/> <br/> Arnold Gabriel Morales Sosa - U201822516
     </td>
     <td>Estudiante de la carrera de Ingeniería de Software en la UPC, con estudios intermedios en Ensamblaje, Mantenimiento, Conectividad de equipos, desarrollo de software, programación y diseño. Innovador con deseos de aprender y apoyar en este proyecto donde pueda desarrollar mis conocimientos, apoyar a la mejora y logros de los objetivos estratégicos. Soy una persona con facilidad para trabajar en equipo, bajo presión, responsable, honesto, proactivo, creativo, ordenado, y dinámico.</td>
     <td>Tengo conocimientos en C++, Python, Javascript, agile scrum, SQL, NOSQL, vue.js, jerkins</td>
