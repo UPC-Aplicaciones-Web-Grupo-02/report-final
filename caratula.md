@@ -127,7 +127,7 @@ las necesidades
 de los usuarios
 y del negocio.
 La comunicación oral es muy importante y se reflejó con la terminación del trabajo. Hubiera sido más difícil si no hubiese dicha comunicación frecuente entre todos.</td>
-/td>
+</td>
   </tr>
   <tr>
     <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.
