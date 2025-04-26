@@ -2,13 +2,13 @@
 
 ## 3.1. To-Be Scenario Mapping.
 
-**Segmento 1: Owner**
+**Segmento 1: Personas**
 
-![MAPPING OWNER](https://github.com/user-attachments/assets/dbbce90d-d08c-4f56-baa5-a19c9c843267)
+![Persona Mapping](https://github.com/user-attachments/assets/324ba9e4-ad75-41d1-95b1-4afd1167cf57)
 
-**Segmento 2: User**
+**Segmento 2: Estudiante**
 
-![MAPPING USER](https://github.com/user-attachments/assets/8d3669b7-3ecf-4167-890c-ce2dbc0c7f79)
+![Estudiante Mapping](https://github.com/user-attachments/assets/043320e6-3a9c-414a-9ad6-b18988bd3d11)
 
 ## 3.2. User Stories.
 
@@ -708,13 +708,13 @@ Los user Stories (historias de ususario) son descripciones cortas que nos ayuda 
 
 ## 3.3. Impact Mapping.
 En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
-**Segmento 1: Owner**
+**Segmento 1: Persona**
 
-![IMPACT DESARROLADOR](https://github.com/user-attachments/assets/ceb3b060-007e-4b60-9a95-e7101e92da44)
+![IMPACT MAPPING PERSONA](https://github.com/user-attachments/assets/a8aa58c2-7fff-4933-9235-a4c34bf3f283)
 
-**Segmento 2: User**
+**Segmento 2: Estudiante**
 
-![IMPACT USER](https://github.com/user-attachments/assets/cd80cae6-5a3f-4ce9-99cb-12905c5107a7)
+![IMPACT MAPPING ESTUDIANTE](https://github.com/user-attachments/assets/ac1ebc41-369a-471d-9a67-c7945d3cbab8)
 
 ## 3.4. Product Backlog.
 
