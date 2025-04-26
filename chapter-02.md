@@ -457,4 +457,4 @@ En un proyecto como Movix es fundamental establecer un glosario común de térmi
 
 Este lenguaje unificado facilita la comunicación entre equipos y mejora la experiencia del usuario al usar términos consistentes como “Desbloquea”, “Tu viaje” o “Estación segura”. A medida que Movix crezca, este glosario podrá ampliarse, pero estos son los conceptos fundamentales del proyecto.
 
-
+<div style="page-break-before: always;"></div>

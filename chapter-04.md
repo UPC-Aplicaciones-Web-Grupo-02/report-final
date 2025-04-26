@@ -504,7 +504,4 @@ Nuestro prototipo está diseñado con una estructura muy organizada; en los sigu
   </tr>
 </table>
 
-## 4.8. Database Design.
-
-### 4.8.1. Database Diagram.
-
+<div style="page-break-before: always;"></div>

@@ -485,8 +485,4 @@ Hemos desarrollado un total de 27 commits para la implementacion de nuestra land
 ![Image](https://github.com/user-attachments/assets/942c5e49-31f0-401a-a69e-967141e64e65)
 ![Image](https://github.com/user-attachments/assets/9d569a09-1907-44ea-8c6d-7a13f6e3b471)
 
-
-
-
-
-
+<div style="page-break-before: always;"></div>

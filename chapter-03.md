@@ -925,4 +925,3 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
 </table>
 
 <div style="page-break-before: always;"></div>
-

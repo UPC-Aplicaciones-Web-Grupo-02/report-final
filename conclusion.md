@@ -1,4 +1,5 @@
 #### Conclusiones preliminares
+
 - TB1:
   Se logró realizar un trabajo exhaustiva cumpliendo con todos los segmentos del trabajo y una investigación de mercado que permitió identificar las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto desarrollado por el equipo CiberMach.
   Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo, lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
@@ -32,11 +33,7 @@ y promuevan el uso de vehículos ecológicos.
 
 - Soto Vargas, L. (2024). *Sistema de priorización de proyectos viales en Lima Metropolitana utilizando modelo de tráfico de Beckmann y teoría de grafos para mejorar la gestión de proyectos de transporte urbano*. Recuperado de [https://repositorio.unfv.edu.pe/handle/20.500.13084/8963](https://repositorio.unfv.edu.pe/handle/20.500.13084/8963) [Consulta: 24 de agosto, 2024].
 
-
-
 <div style="page-break-before: always;"></div>
-
-
 
 # [Anexos](#anexos)
 

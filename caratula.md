@@ -100,7 +100,14 @@
 
 ## Project Report Collaboration Insights
 
-- Nuestro pro
+[![My Skills](https://skillicons.dev/icons?i=github,git,markdown)](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final)
+
+- Nuestra reporte del trabajo final: [README.md](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final) en GitHub
+
+- Nuestro Landing page [www.movix.com](https://upc-aplicaciones-web-grupo-02.github.io/landing-page/)
+
+- Acontinuación se muestra nuestra participación durante el desarrollo del TB1
+
 
 ## Student Outcome
 

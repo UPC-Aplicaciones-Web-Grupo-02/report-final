@@ -273,6 +273,4 @@ Este segmento está compuesto por estudiantes universitarios que buscan alquilar
 
 Este segmento está compuesto por personas mayores de 18 años que residen en Miraflores, Lima, y buscan alquilar scooters eléctricos para su desplazamiento diario dentro del distrito. Este grupo prefiere alquilar scooters debido a la flexibilidad y rapidez que brindan, sobre todo en un entorno urbano con altos niveles de tráfico. Además, muchos optan por esta alternativa en lugar de comprar un vehículo propio debido a la falta de necesidad de un medio de transporte permanente.
 
-
-
-
+<div style="page-break-before: always;"></div>
