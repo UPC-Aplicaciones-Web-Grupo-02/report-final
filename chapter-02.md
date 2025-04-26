@@ -234,7 +234,7 @@ Datos del entrevistado:
 - Nombre: Pia Barandiaran
 - Edad: 23 años
 - Distrito de residencia: San isidro
-- Enlace: https://upcedupemy.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EeVlsT0DrS1BhWbC6BxlkNkB0WxsJhARf3qfYkCSQ4v7ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vviwa8
+- Enlace: [Ver Video](https://upcedupemy.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EeVlsT0DrS1BhWbC6BxlkNkB0WxsJhARf3qfYkCSQ4v7ug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=vviwa8)
 - Duracion de la entrevista: 3 minutos y 23 segundos
   
 ![Image](https://github.com/user-attachments/assets/51faf77b-b298-4dbe-b4b4-278f098add61)
@@ -276,7 +276,7 @@ Datos del entrevistado:
 * Apellidos: Saquiray Vargas
 * Edad: 18
 * Distrito de residencia: Miraflores
-* Enlace a la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EZJl0nBLpFdBryzPGIqXZF4B6NMXHrYjdvlIaAfuHpU6ag?e=CbFrKR
+* Enlace a la entrevista: [Ver video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EZJl0nBLpFdBryzPGIqXZF4B6NMXHrYjdvlIaAfuHpU6ag?e=CbFrKR)
 * Duración de la entrevista: 4 minutos y 31 segundos
 
 ![Entrevista 3](https://github.com/user-attachments/assets/baf76115-1977-43ce-8731-6d1f370fa293)
@@ -299,7 +299,7 @@ Datos del entrevistado:
 * Apellidos: Yataco Juarez
 * Edad: 18
 * Distrito de residencia: Miraflores
-* Enlace a la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/ERFcU9rYptdMoureNmbk_LcBmvk4QTmspNmI_lQOBzxdDg?e=zJS4Za
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/ERFcU9rYptdMoureNmbk_LcBmvk4QTmspNmI_lQOBzxdDg?e=zJS4Za)
 * Duración de la entrevista: 4 minutos y 42 segundos
 
 ![Entrevista 4](https://github.com/user-attachments/assets/e29567bb-d589-466b-9004-4db4c510bd70)
@@ -322,7 +322,7 @@ Datos del entrevitado:
 * Apellidos: Morales
 * Edad: 28
 * Distrito de residencia: Ventanilla
-* Enlace de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822516_upc_edu_pe/EW_Jxo3H_8ZNlWo0rfBpXkUBLzhYEAXgsvHj1CIBfEN7bg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NSsrtp
+* Enlace de la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822516_upc_edu_pe/EW_Jxo3H_8ZNlWo0rfBpXkUBLzhYEAXgsvHj1CIBfEN7bg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=NSsrtp)
 * Duración de la entrevista: 14 minutos y 23 segundos
 
 ![Entrevista Persona](https://github.com/user-attachments/assets/d27c10e8-a362-4da6-a787-2201185a71bd)
