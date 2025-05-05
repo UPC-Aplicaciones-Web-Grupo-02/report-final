@@ -114,6 +114,8 @@
 
 - Acontinuación se muestra nuestra participación durante el desarrollo del TB1
 
+![Image](https://github.com/user-attachments/assets/f5300399-c66d-48a9-821a-a3f8aa68bec7)
+![Image](https://github.com/user-attachments/assets/66854d8e-c850-4fb3-8f8d-365a1f567bff)
 
 ## Student Outcome
 
