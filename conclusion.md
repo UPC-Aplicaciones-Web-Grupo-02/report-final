@@ -30,6 +30,9 @@ y promuevan el uso de vehículos ecológicos.
 - Huamanraime, M. E., Echevarría, E., Cabrera, F., & Vásquez, I. (2023). *Transitioning to sustainable mobility in Lima, Peru: Are e-scooter sharing initiatives part of the problem or the solution?* Recuperado de [https://cris.pucp.edu.pe/en/publications/transitioning-to-sustainable-mobility-in-lima-peru-are-e-scooter-](https://cris.pucp.edu.pe/en/publications/transitioning-to-sustainable-mobility-in-lima-peru-are-e-scooter-) [Consulta: 20 de agosto, 2024].
 
 - Instituto Peruano de Economía. (2024). *Tráfico de Lima cuesta S/2 mil millones en pérdidas de productividad*. Recuperado de [https://www.ipe.org.pe/portal/wp-content/uploads/2024/02/Informe-IPE-EC-Transporte-urbano.pdf](https://www.ipe.org.pe/portal/wp-content/uploads/2024/02/Informe-IPE-EC-Transporte-urbano.pdf) [Consulta: 20 de agosto, 2024].
+- Instituto Nacional de Estadística e Informática. (2022). Perú: Estimaciones y proyecciones de población distrital al 2022. https://www.inei.gob.pe
+  
+- Instituto Nacional de Estadística e Informática. (2023). Estadísticas de Educación Superior Universitaria. https://www.inei.gob.pe
 
 - Soto Vargas, L. (2024). *Sistema de priorización de proyectos viales en Lima Metropolitana utilizando modelo de tráfico de Beckmann y teoría de grafos para mejorar la gestión de proyectos de transporte urbano*. Recuperado de [https://repositorio.unfv.edu.pe/handle/20.500.13084/8963](https://repositorio.unfv.edu.pe/handle/20.500.13084/8963) [Consulta: 24 de agosto, 2024].
 
