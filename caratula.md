@@ -121,7 +121,7 @@
       <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
       <td>
         - TB1 <br/>
-        - Rafael Cuya: Para el desarrollo de la TB1 tuvimos diversas reuniones donde pudimos coordinar la realización del informe y de la landing page.
+        - Rafael Cuya: Durante el desarrollo de la TB1, participé en diversas reuniones junto a mi equipo, en las que coordinamos la elaboración del informe y la creación de la landing page.
         <br/><br/>
         - Arnold Morales Sosa: Dentro de la culminación de este primer entregable tuvimos reuniones donde pudimos coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además de verificar si algo estaba mal o no. Nos apoyamos mutuamente y enseñamos a los integrantes que no sabían usar dichos programas.<br/>
         <br/>Flores Manrique, Sebastian: Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo. <br/>
@@ -137,7 +137,7 @@
       <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
       <td>
         - <strong>TB1</strong> <br/>
-        - Rafael Cuya: Para el desarrollo de la TB1 nos repartimos las diversas tareas, poniéndonos algunos plazos, para poder realizar el proyecto con éxito.
+        - Rafael Cuya: Durante el desarrollo de la TB1 nos distribuimos las tareas de forma equitativa y establecimos plazos internos que me permitieron avanzar de manera organizada y cumplir con los objetivos del proyecto.
         <br/><br/>
         - Arnold Morales Sosa TB1: Investigué acerca de los posibles competidores y el impacto que generaría en nuestra marca, y qué hay que hacer para poder incentivar a los usuarios a que usen nuestra app viendo sus necesidades y quejas frecuentes usando transporte público y otros servicios similares.
         <br/><br/>
