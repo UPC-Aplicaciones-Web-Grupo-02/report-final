@@ -486,3 +486,277 @@ Hemos desarrollado un total de 27 commits para la implementacion de nuestra land
 ![Image](https://github.com/user-attachments/assets/9d569a09-1907-44ea-8c6d-7a13f6e3b471)
 
 <div style="page-break-before: always;"></div>
+
+#### 5.2.2. Sprint 2
+#### 5.2.2.1.Sprint Planning 2.
+#### 5.2.2.2. Aspect Leaders and Collaborators.
+#### 5.2.2.3.Sprint Backlog 2.
+
+<p>El principal objetivo de este segundo sprint es lograr completar todos los requisitos que se piden para el Landing 
+Page.
+Además, se elabora una primera versión del FrontEnd y su despliegue.</p>
+
+<table>
+	<tbody>
+		<tr>
+			<td>User Story ID</td>
+			<td>User Story Title</td>
+			<td>Task ID</td>
+			<td>Task Title</td>
+			<td>Description</td>
+			<td>Estimation(hours)</td>
+			<td>Assigned to</td>
+			<td>Status</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US08</td>
+			<td rowspan="2">Registrar usuario</td>
+			<td>T01</td>
+			<td>Creación de la sección de registro de usuario</td>
+			<td>Crear la sección de registro la aplicación, que permite crear una cuenta personal para poder 
+acceder.</td>
+			<td>2</td>
+			<td>Velarde Gonzales,Nestor </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T02</td>
+			<td>Crear formulario de registro de usuario/td>
+			<td>Crear los campos obligatorios para que el usuario pueda validar sus credenciales al momento de 
+registrarse a la aplicación.</td>
+			<td>2</td>
+			<td>Velarde Gonzales, Nestor</td>
+			<td>Done</td>
+		</tr>
+        <tr>
+			<td>US09</td>
+			<td>Iniciar Sesión.</td>
+			<td>T03</td>
+			<td>Crear la sección de inicio de sesión</td>
+			<td>Crear un formulario con las credenciales obligatorias para la autorización del ingreso a la 
+aplicación web.</td>
+			<td>2</td>
+			<td>Velarde Gonzales, Nestor</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US10</td>
+			<td>Visualizar perfil de usuario</td>
+			<td>T04</td>
+			<td>Crear la sección para la visualización del perfil del usuario</td>
+			<td>Añadir un botón al sidebar para poder visualizar todos los datos del usuario ingresados en el 
+registro y posterior.</td>
+			<td>2</td>
+			<td>Velarde Gonzales, Nestor</td>
+			<td>Done</td>
+		</tr>
+        <tr>
+			<td>US11</td>
+			<td>Cambiar datos personales</td>
+			<td>T05</td>
+			<td>Añadir un botón de editar, para que el usuario pueda cambiar datos relevantes que pudo equivocarse 
+al ingresarlos en el registro o simplemente quiera cambiarlos.</td>
+			<td>2</td>
+			<td>Velarde Gonzales, Nestor</td>
+			<td>Done</td>
+		</tr>
+        <tr>
+			<td rowspan="2">US13</td>
+			<td rowspan="2">Publicar scooter en alquiler.</td>
+			<td>T06</td>
+			<td>Crear formulario de publicación de scooter</td>
+			<td>Crear un formulario en la interfaz de usuario que permita ingresar la información básica del scooter, como modelo, precio por alquiler, ubicación, especificaciones técnicas, fotos, y disponibilidad.</td>
+			<td>3</td>
+			<td>Flores Manrique, Sebastian </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T07</td>
+			<td>Implementar lógica de base de datos para guardar la publicación</td>
+			<td>Crear la lógica para guardar la información de las publicaciones de scooters en la fake api.</td>
+			<td>2</td>
+			<td>Flores Manrique, Sebastian</td>
+			<td>Done</td>
+		</tr>
+        <tr>
+			<td rowspan="2">US14</td>
+			<td rowspan="2">Visualizar un scooter en alquiler</td>
+			<td>T08</td>
+			<td>Crear interfaz para visualizar las publicaciones de scooters</td>
+			<td>Desarrollar una vista en la interfaz de usuario donde el cliente pueda ver la lista de los scooters, 
+mostrando la información detallada de cada scooter (modelo, precio, fotos, disponibilidad, especificaciones, etc.).</td>
+			<td>3</td>
+			<td>Flores Manrique, Sebastian </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T09</td>
+			<td>Implementar lógica para cargar las publicaciones desde el fake API</td>
+			<td>Desarrollar la lógica para recuperar la lista de scooters del fake api y mostrarlas en la interfaz.</td>
+			<td>2</td>
+			<td>Flores Manrique, Sebastian</td>
+			<td>Done</td>
+		</tr>
+         <tr>
+			<td rowspan="2">US15</td>
+			<td rowspan="2">Editar Scooter en alquiler.</td>
+			<td>T10</td>
+			<td>Crear funcionalidad de edición en la interfaz de usuario</td>
+			<td>Implementar una opción en la interfaz de usuario que permita editar los detalles de su publicación, 
+como modelo, precio, fotos, especificaciones y disponibilidad del scooter.</td>
+			<td>3</td>
+			<td>Flores Manrique, Sebastian </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T11</td>
+			<td>Implementar lógica para actualizar la publicación con el fake API</td>
+			<td>Desarrollar la lógica para recibir los datos editados y actualizarlos en el fake api, asegurando 
+que la información se actualice correctamente..</td>
+			<td>2</td>
+			<td>Flores Manrique, Sebastian</td>
+			<td>Done</td>
+		</tr>
+<tr>
+			<td rowspan="2">US17</td>
+			<td rowspan="2">Búsqueda de scooters cercano</td>
+			<td>T12</td>
+			<td>Crear interfaz de búsqueda de scooters cercanos</td>
+			<td>Desarrollar la interfaz de usuario que permita a los clientes buscar scooters disponibles dentro de su distrito, utilizando filtros como ubicación, precio y disponibilidad.</td>
+			<td>3</td>
+			<td>Cuya Villegas, Rafael</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T13</td>
+			<td>Implementar lógica de búsqueda con el fake API</td>
+			<td>Crear la lógica para procesar la búsqueda de scooters cercanos, utilizando la ubicación del cliente 
+y comparándola con la ubicación de los scooters disponibles en el fake api.</td>
+			<td>2</td>
+			<td>Cuya Villegas, Rafael</td>
+			<td>Done</td>
+		</tr>
+<tr>
+			<td rowspan="2">US18</td>
+			<td rowspan="2">Alquiler Scooter</td>
+			<td>T14</td>
+			<td>Crear flujo de alquiler de scooter en la interfaz de usuario</td>
+			<td>Implementar la opción para que el cliente pueda alquilar un scooter, incluyendo un formulario o 
+botón para iniciar el alquiler, con la selección de tiempo de alquiler y detalles del scooter.</td>
+			<td>3</td>
+			<td>Cuya Villegas, Rafael </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T15</td>
+			<td>Implementar lógica para procesar el alquiler con el fake API</td>
+			<td>Desarrollar la lógica para procesar el alquiler del scooter, realizar la reserva y actualizar el 
+estado del scooter en el fake API.</td>
+			<td>2</td>
+			<td>Cuya Villegas, Rafael</td>
+			<td>Done</td>
+		</tr>
+<tr>
+			<td rowspan="2">US19</td>
+			<td rowspan="2">Calificación y reseñas</td>
+			<td>T15</td>
+			<td>Crear interfaz para dejar calificación y reseña</td>
+			<td>Desarrollar una vista donde el cliente pueda calificar el scooter utilizado y dejar una reseña sobre su experiencia, incluyendo el scooter y la zona donde lo tomó..</td>
+			<td>3</td>
+			<td>Cuya Villegas, Rafael </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T16</td>
+			<td>Implementar lógica para guardar calificaciones y reseñas en el fake API</td>
+			<td>Desarrollar la lógica para almacenar las calificaciones y reseñas de los scooters en el fake API, 
+asociándolas al cliente, scooter y zona correspondiente.</td>
+			<td>2</td>
+			<td>Cuya Villegas, Rafael</td>
+			<td>Done</td>
+		</tr>
+<tr>
+			<td rowspan="2">US20</td>
+			<td rowspan="2">Visualizar historial de scooters alquilados</td>
+			<td>T17</td>
+			<td>Crear interfaz para mostrar el historial de alquileres</td>
+			<td>Desarrollar una vista donde el cliente pueda ver un historial de todos los scooters que ha alquilado, mostrando detalles como el modelo, fechas de alquiler, y estado del scooter.</td>
+			<td>3</td>
+			<td>Muñiz Huayanca, Percy </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T18</td>
+			<td>Implementar lógica para obtener el historial de alquileres en el fake API</td>
+			<td>Desarrollar la lógica para recuperar y mostrar el historial de alquileres del cliente desde el fake API.
+</td>
+			<td>2</td>
+			<td>Muñiz Huayanca, Percy </td>
+			<td>Done</td>
+		</tr>
+<tr>
+			<td rowspan="2">US21</td>
+			<td rowspan="2">Borrar historial de scooters alquilados</td>
+			<td>T19</td>
+			<td>Crear opción para borrar historial en la interfaz de usuario</td>
+			<td>Desarrollar una funcionalidad en la interfaz de usuario que permita al cliente borrar el historial de scooters alquilados de manera fácil y rápida.</td>
+			<td>3</td>
+			<td>Muñiz Huayanca, Percy </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T20</td>
+			<td>Implementar lógica para borrar el historial en el fake API</td>
+			<td>Desarrollar la lógica para eliminar el historial de scooters alquilados en el fake API del cliente.
+</td>
+			<td>2</td>
+			<td>Muñiz Huayanca, Percy </td>
+			<td>Done</td>
+		</tr>
+<tr>
+			<td rowspan="2">US22</td>
+			<td rowspan="2">Adquirir plan</td>
+			<td>T21</td>
+			<td>Crear interfaz de compra de plan</td>
+			<td>Desarrollar la interfaz de usuario donde el cliente pueda ver los diferentes planes disponibles y seleccionar el que desea comprar.</td>
+			<td>3</td>
+			<td>Morales Sosa, Arnold</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T22</td>
+			<td>Implementar lógica para procesar la compra de un plan en el fake API</td>
+			<td>Desarrollar la lógica para procesar la compra de un plan, actualizar la información del cliente y activar los beneficios del plan adquirido.
+</td>
+			<td>2</td>
+			<td>Morales Sosa, Arnold</td>
+			<td>Done</td>
+		</tr>
+<tr>
+			<td rowspan="2">US23</td>
+			<td rowspan="2">Cancelación de suscripción</td>
+			<td>T23</td>
+			<td>Crear opción de cancelación de suscripción en la interfaz de usuario</td>
+			<td>Desarrollar una funcionalidad en la interfaz de usuario que permita al cliente cancelar su suscripción de manera fácil y clara..</td>
+			<td>2</td>
+			<td>Morales Sosa, Arnold</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T24</td>
+			<td>Implementar lógica para cancelar la suscripción</td>
+			<td>Desarrollar la lógica del backend para procesar la cancelación de la suscripción y asegurar que no se realicen más cobros.
+</td>
+			<td>2</td>
+			<td>Morales Sosa, Arnold</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
+
+
+#### 5.2.2.4.Development Evidence for Sprint Review.
+#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.8.Team Collaboration Insights during Sprint.
