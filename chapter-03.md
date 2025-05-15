@@ -843,7 +843,7 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
   <td>US17</td>
   <td>Búsqueda de scooters cercano</td>
   <td>Como cliente de Movix Quiero poder buscar scooters disponibles en mi distrito Para facilitar mi desplazamiento.</td>
-  <td>8</td>
+  <td>3</td>
 </tr>
 <tr>
   <td>18</td>
@@ -892,35 +892,35 @@ En este apartado se muestra los impact mapping de nuestros segmentos objetivos:
   <td>TS01</td>
   <td>Endpoint User</td>
   <td>Como desarrollador de Movix Quiero hacer uso del endpoint /user Para gestionar los datos de los usuarios.</td>
-  <td>8</td>
+  <td>5</td>
 </tr>
 <tr>
   <td>25</td>
   <td>TS02</td>
   <td>Endpoint Scooter</td>
   <td>Como desarrollador de Movix Quiero hacer uso del endpoint /scooter Para gestionar los datos de los scooters</td>
-  <td>8</td>
+  <td>5</td>
 </tr>
 <tr>
   <td>26</td>
   <td>TS03</td>
   <td>Endpoint Suscription</td>
   <td>Como desarrollador de Movix Quiero hacer uso del endpoint /suscription Para gestionar los datos de las suscripciones.</td>
-  <td>8</td>
+  <td>5</td>
 </tr>
 <tr>
   <td>27</td>
   <td>TS04</td>
   <td>Endpoint Historial</td>
   <td>Como desarrollador de Movix Quiero hacer uso del endpoint /historial Para gestionar los datos de los historiales.</td>
-  <td>8</td>
+  <td>5</td>
 </tr>
 <tr>
   <td>28</td>
   <td>TS05</td>
   <td>Endpoint Review</td>
   <td>Como desarrollador de Movix Quiero hacer uso del endpoint /reviews Para gestionar los datos de las reseñas</td>
-  <td>8</td>
+  <td>5</td>
 </tr>
 </table>
 
