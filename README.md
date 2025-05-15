@@ -2428,6 +2428,7 @@ Nuestro prototipo está diseñado con una estructura muy organizada; en los sigu
     </td>
   </tr>
 </table>
+
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
