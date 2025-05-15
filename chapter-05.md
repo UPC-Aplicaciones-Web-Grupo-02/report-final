@@ -856,3 +856,68 @@ asociándolas al cliente, scooter y zona correspondiente.</td>
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
+
+Colaboración por alumno en el Front end de nuestra aplicacion:
+
+<table border="1px" align="center">
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+    <tr>
+    <td>Cuya Villegas, Rafael Alberto</td>
+    <td>Implementación de la sección Scooter review.</td>
+  </tr>
+  <tr>
+    <td>Flores Manrique, Sebastian Enrique</td>
+    <td> Implementación de la sección Scooter management.</td>
+  </tr>
+  <tr>
+    <td>Muñiz Huayanca, Percy Alonso</td>
+    <td> Implementación de la sección Scooter history . </td>
+  </tr>
+  <tr>
+    <td>Morales Sosa, Arnold Gabriel</td>
+    <td> Implementación de la sección Subscriptions.</td>
+  </tr>
+  <tr>
+    <td>Velarde Gonzales, Nestor Hernan </td>
+    <td>Implementación de la sección Profile view y código inicial</td>
+  </tr>
+  </table>
+
+Tabla para poder identificarnos:
+
+<table border="1px" align="center">
+  <tr>
+    <th>Username (Github)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft</td>
+    <td>Velarde Gonzales, Nestor Hernán</td>
+  </tr>
+  <tr>
+    <td>alomsoo </td>
+    <td> Muñiz Huayanca, Percy Alonso </td>
+  </tr>
+  <tr>
+    <td>Arnold24x24 </td>
+    <td> Morales Sosa, Arnold Gabriel </td>
+  </tr>
+  <tr>
+    <td>RafaelCuya </td>
+    <td>Cuya Villegas, Rafael Alberto</td>
+  </tr>
+  <tr>
+    <td>Sebas2999 </td>
+    <td> Flores Manrique, Sebastian Enrique </td>
+  </tr>
+</table>
+Para este Sprint el grupo trabajó de manera colaborativa a través de commits en la herramienta GitHub.
+Se creó una organizacion en GitHub para el desarrollo del Frontend.
+
+![Image](https://github.com/user-attachments/assets/c2ead677-0b43-497c-8221-34173ef1a068)
+
+Para el desarrollo del Front end hemos desarrollado un total de 35 commits para la rama main y 70 commits en todas las ramas para la implementacion de nuestra Frontend. 
+![Image](https://github.com/user-attachments/assets/23c66e1c-3c0c-4fac-bb97-8f47e68e8eb5)
