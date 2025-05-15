@@ -548,6 +548,44 @@ Hemos desarrollado un total de 27 commits para la implementacion de nuestra land
       </tr>
 </table>
 #### 5.2.2.2. Aspect Leaders and Collaborators.
+
+<table>
+  <thead>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th>Aspect Landing Page Leader (L) / Collaborator (C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Velarde Gonzales, Nestor</td>
+      <td>VelardeSoft</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Muñiz Huayanca, Percy Alonso</td>
+      <td>alomsoo</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Morales Sosa, Arnold Gabriel</td>
+      <td>Arnold24x24</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Cuya Villegas, Rafael Alberto</td>
+      <td>RafaelCuya</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Flores Manrique, Sebastian Enrique</td>
+      <td>Sebas2999</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.2.3.Sprint Backlog 2.
 
 <p>El principal objetivo de este segundo sprint es lograr completar todos los requisitos que se piden para el Landing 
