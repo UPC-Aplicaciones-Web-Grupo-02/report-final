@@ -2428,6 +2428,11 @@ Nuestro prototipo está diseñado con una estructura muy organizada; en los sigu
     </td>
   </tr>
 </table>
+## 4.8. Database Design
+
+### 4.8.1. Database Diagram
+
+![DATABASE DIAGRAM](https://github.com/user-attachments/assets/2cbb00cb-cc29-4ccb-9060-19138ba2dcf1)
 
 <div style="page-break-before: always;"></div>
 
