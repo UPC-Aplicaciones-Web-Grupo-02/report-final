@@ -331,6 +331,33 @@ Datos del entrevitado:
 
 En la entrevista con el usuario Kevin Morales, un joven de 28 años que trabaja en Centro de Lima como asistente de admisión en un hospital, se abordaron temas como la precariedad, informalidad e inseguridad de los transportes públicos sobretodo por los buses y combis. No tuvo problemas con el tráfico, pero es más que nada porque sale a trabajar muy temprano (4:00 am aprox) así que a esa hora la vía está libre. También habla acerca de lo caro que son los alquileres de otros scooters / bicicletas que están en Lima y, que si nuestra app de alquiler es más barata, sin duda usaría dicho servicio, ya que le parece una buena idea que la subscripción sea mensual en vez de que te cobren por uso o por hora (debido a que siempre estarás en constante movimiento si estás trabajando e irás siempre al mismo destino). Gasta como 200 soles aprox mensual en transporte y si le haría ilusión transportarse con el scooter. Dice que solo en los lugares más centricos de Lima podría ser viable, debido a que hay muchas ciudades que no tienen ciclovías y otras son muy inseguras para ir. Aún así, si su trabajo estuviese en el mismo distrito o en uno cercano, sin duda lo alquilaría para transportarse más facilmente. Finalmente, mencionó que sería una buena alternativa para transportarse y él si lo usaría diario porque ahorraría dinero y tiempo en viajar de un lado a otro. 
 
+#### Entrevista 6:
+
+Datos del entrevistador:
+* Nombres: Néstor Hernán.
+* Apellidos: Velarde Gonzales
+
+Datos del entrevistado:
+* Nombres: Dangghela
+* Apellidos: Olivera Espinoza
+* Edad: 22
+* Distrito de residencia: Lima
+* Enlace a la entrevista: [Ver Video](https://n9.cl/30vdy)
+* Duración de la entrevista: 5:56
+
+![entrevista-owner-03](https://github.com/user-attachments/assets/68bf15c6-a968-42b1-b862-c0bfa4f49c1f)
+
+*Informe del resumen de la entrevista:*
+
+Dangghela, una joven de 22 años de edad, actualmente reside en la ciudad de Lima. ella es estudiante en la universidad,
+tambien trabaja en call center, ella usa dispositivos como Android y Windows, y prefiere el navegador Chrome.
+A parte de ello conocemos que cuenta con scooter electricos, la cual le permite movilizarse de manera rapida y segura.
+Dangi considera que el alquiler de scooters es una oportunidad para ganar dinero extra, y le gustaria que las tarifas
+de alquiler sean flexibles y dependan del tiempo de uso, esta tambien a ella le gustaría hacer los seguimientos de
+su scooter para saber su estados en la plataforma(web), basado en nuestro proyecto, le parece una idea interesante,
+y no duda en ser la persona que alquile su scooter a traves de nuestra aplicacion web, más allá de ello, le gustaria
+agregar una opcion de seguro para su scooter, y que la aplicacion le permita comunicarse directamente con su cliente
+para cualquier inconveniente que pueda surgir.
 
 ### 2.2.3. Análisis de entrevistas.
 
