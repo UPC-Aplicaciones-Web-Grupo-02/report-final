@@ -3310,6 +3310,11 @@ asociándolas al cliente, scooter y zona correspondiente.</td>
 
 #### 5.2.2.4.Development Evidence for Sprint Review.
 #### 5.2.2.5.Execution Evidence for Sprint Review.
+![Image](https://github.com/user-attachments/assets/7d030024-626f-4528-ae74-01444e8c3b0b)
+![Image](https://github.com/user-attachments/assets/f6abf512-8b46-4548-a384-6bc6a344673f)
+![Image](https://github.com/user-attachments/assets/ae6e039a-5b44-4731-b90e-8ff9e64284f5)
+![Image](https://github.com/user-attachments/assets/f4456fc1-17a0-48d1-a893-e2afcf5fd8fe)
+![Image](https://github.com/user-attachments/assets/d4fda062-2cbf-4824-a975-97b6d06d7627)
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 Para el Deploy de nuestro Front end realizamos los siguientes pasos:
