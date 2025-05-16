@@ -132,6 +132,9 @@
         <br/>Flores Manrique, Sebastian: Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo. <br/>
         <br/>Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico. <br/><br/>
         Néstor Velarde Gonzales: Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realizé el Cap. 04, los diseños wireframes y Mock-ups tanto para landind page y aplicación web, usando las buenas prácticas y un diseño responsivo. 
+	- TP1 <br/>
+        - Rafael Cuya: Durante el desarrollo del TP1, Trabajé en equipo asumiendo un rol de liderazgo compartido, participando activamente en la toma de decisiones y promoviendo la colaboración y el compromiso entre todos los integrantes.
+        <br/><br/>
       </td>
       <td>
         Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
@@ -154,6 +157,9 @@
 	        - <strong>TP1</strong>
 	         <br/><br/>
 	      Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del Trabajo Parcial, participé activamente en el desarrollo de la épica 5, realicé correcciones de errores identificados en etapas anteriores, y efectué múltiples commits en el repositorio de Git para mantener el avance del proyecto documentado y organizado. Me encargué del diseño y gestión de la base de datos, asegurando su correcta estructura y funcionalidad. Además, grabé el video de la exposición final del equipo y trabajé en base a las recomendaciones recibidas en el TB1, lo que me permitió mejorar tanto en lo técnico como en la comunicación y coordinación con el grupo.
+	      <br/><br/>
+	       - Rafael Cuya: Durante el desarrollo del TP1, fomenté un ambiente de trabajo inclusivo y colaborativo, ayudando a definir metas claras, organizar tareas y asegurarme de que cumpliéramos con los objetivos establecidos para el desarrollo del frontend.
+	 <br/><br/>
       </td>
       <td>
         La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
@@ -3412,8 +3418,8 @@ Se creó una organizacion en GitHub para el desarrollo del Frontend.
 
 ![Image](https://github.com/user-attachments/assets/c2ead677-0b43-497c-8221-34173ef1a068)
 
-Para el desarrollo del Front end hemos desarrollado un total de 35 commits para la rama main y 70 commits en todas las ramas para la implementacion de nuestra Frontend. 
-![Image](https://github.com/user-attachments/assets/23c66e1c-3c0c-4fac-bb97-8f47e68e8eb5)
+Para el desarrollo del Front end hemos desarrollado un total de 35 commits para la rama main y 82 commits en todas las ramas para la implementacion de nuestra Frontend. 
+![Image](https://github.com/user-attachments/assets/71ade490-812c-40f6-9e8e-f1ee2d726bcf)
 
 <div style="page-break-before: always;"></div>
 
