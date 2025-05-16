@@ -3578,5 +3578,9 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
             <td>To-Be</td>
             <td><a href="https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587">To-Be</a></td>
         </tr>
+        <tr>
+            <td>Video exposición</td>
+            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EW0cSbBYIuNOgpsD1ovliCgBcr9QMuwTje1-nL6GpE8zVQ?e=IAQZ2b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Video exposición</a></td>
+        </tr>
     </tbody>
 </table>
