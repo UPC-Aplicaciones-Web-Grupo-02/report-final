@@ -3312,6 +3312,31 @@ asociándolas al cliente, scooter y zona correspondiente.</td>
 #### 5.2.2.5.Execution Evidence for Sprint Review.
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+Para el Deploy de nuestro Front end realizamos los siguientes pasos:
+- Creamos la carpeta Dist en el proyecto.  
+  ![Image](https://github.com/user-attachments/assets/95edd790-c0fb-4a70-8685-a39222cc93bc)
+  
+- Autentificamos de manera satisfactoria.
+  ![Image](https://github.com/user-attachments/assets/d295b96a-9452-4c0f-9f1f-5c2a5aeb1b77)
+    
+- Confirmación de la autentificación.
+  ![Image](https://github.com/user-attachments/assets/5bb46dfe-cf6f-4d03-9f6e-1d02cb555b02)
+  
+- El archivo Dist fue creado satisfactoriamente.
+  ![Image](https://github.com/user-attachments/assets/89d3e336-8180-4bf0-a4eb-489c7e013d48)
+  
+- Procedemos a ejecutarlo en firebase.
+  ![Image](https://github.com/user-attachments/assets/e7dbad5b-c84b-4946-96f4-5d7035b6665d)
+  
+- Configuraciones básicas.
+  ![Image](https://github.com/user-attachments/assets/aec3a8e9-56cf-4604-8573-06bb255aaa5b)
+  
+- Finalmente esta desplegado.
+  ![Image](https://github.com/user-attachments/assets/8e532c93-4f42-4250-b623-8b03400a0f84)
+  
+- Se muestra nuestro Frontend desplegado.
+  ![Image](https://github.com/user-attachments/assets/1391bb63-b3fe-49f1-8218-d4307d582386)
+  
 #### 5.2.2.8.Team Collaboration Insights during Sprint.
 
 Colaboración por alumno en el Front end de nuestra aplicacion:
