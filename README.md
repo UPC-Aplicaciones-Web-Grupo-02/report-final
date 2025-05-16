@@ -149,7 +149,11 @@
         - Flores Manrique, Sebastian: TB1 Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
         <br/><br/>
         - Percy Alonso Muñiz Huyanca: Fui responsable del desarrollo del capítulo 3 del informe, elaborando dos To-Be Scenario Maps para los segmentos persona adulta y estudiante universitario, así como dos Impact Mapping para ambos perfiles. Estas herramientas permitieron al equipo tener una visión clara de los usuarios objetivos. Además, apoyé en la redacción de fragmentos de código y colaboré en la revisión general del documento. Me mantuve comprometido en la planificación de tareas y en el cumplimiento de plazos, siempre buscando mantener la calidad del entregable. <br/><br/>
-        - Néstor Velarde Gonzales: Fue el encago de guiar cada estructura del proyecto, realizé los user histories basasos en las entrevistas y cada finalización de capitulo realizamos una breve corrección entre integrantes de equipo.  
+        - Néstor Velarde Gonzales: Fue el encago de guiar cada estructura del proyecto, realizé los user histories basasos en las entrevistas y cada finalización de capitulo realizamos una breve corrección entre integrantes de equipo. 
+	         <br/><br/>
+	        - <strong>TP1</strong>
+	         <br/><br/>
+	      Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del Trabajo Parcial, participé activamente en el desarrollo de la épica 5, realicé correcciones de errores identificados en etapas anteriores, y efectué múltiples commits en el repositorio de Git para mantener el avance del proyecto documentado y organizado. Me encargué del diseño y gestión de la base de datos, asegurando su correcta estructura y funcionalidad. Además, grabé el video de la exposición final del equipo y trabajé en base a las recomendaciones recibidas en el TB1, lo que me permitió mejorar tanto en lo técnico como en la comunicación y coordinación con el grupo.
       </td>
       <td>
         La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
