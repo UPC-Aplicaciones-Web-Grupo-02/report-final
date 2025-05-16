@@ -3374,7 +3374,48 @@ asociándolas al cliente, scooter y zona correspondiente.</td>
 ![Image](https://github.com/user-attachments/assets/d4fda062-2cbf-4824-a975-97b6d06d7627)
 
 #### 5.2.2.5.Execution Evidence for Sprint Review.
+
+- Incio de Sesión
+  ![Image](https://github.com/user-attachments/assets/7da2d2d5-5674-4886-b24b-d495c00268f7)
+
+- Registro de Usuario
+  ![Image](https://github.com/user-attachments/assets/942b3c3d-758f-4a8f-a581-5d559e22dc80)
+
+- Visualización del perfil de usuario
+  ![Image](https://github.com/user-attachments/assets/b7eda999-576a-46ed-a1de-745483cdd3c8)
+
+- Editar datos personales
+  ![Image](https://github.com/user-attachments/assets/d34a692e-cea4-481b-99c6-35780bc8a371)
+
+- Subscripciones
+  ![Image](https://github.com/user-attachments/assets/fbfee286-d2e8-4f3b-b28f-ba111145af16)
+
+- Pagos
+  ![Image](https://github.com/user-attachments/assets/1957d5fd-b486-4892-af47-e1304b3253f6)
+
+- Lista de scooters
+  ![Image](https://github.com/user-attachments/assets/d74d36bf-74a5-4a2a-9c87-0c27e1ace75f)
+
+- Añadir scooter
+  ![Image](https://github.com/user-attachments/assets/947d8cd1-8750-42e2-9fa3-aea4c0ec50c7)
+
+- Historial de scooters
+  ![Image](https://github.com/user-attachments/assets/7f1e4e1a-1efe-4051-959c-416b1960e395)
+
+- Detalles del scooter
+  ![Image](https://github.com/user-attachments/assets/ae2d063e-fb66-42b5-957b-2654f297a01b)
+
+- Alquiler de scooter
+  ![Image](https://github.com/user-attachments/assets/4f9f924e-7b2e-4058-a0ba-59bb4842eed4)
+
+- Eliminar Historial
+  ![Image](https://github.com/user-attachments/assets/1c235a11-1914-40de-938e-cead9cfaea21)
+
+
 #### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+
+Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services. Por ello, aún no se puede incluir los Endpoints documentados y se realizará en las próximas entregas.
+
 #### 5.2.2.7.Software Deployment Evidence for Sprint Review.
 Para el Deploy de nuestro Front end realizamos los siguientes pasos:
 - Creamos la carpeta Dist en el proyecto.  
