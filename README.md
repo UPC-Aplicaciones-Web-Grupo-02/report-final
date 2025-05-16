@@ -138,6 +138,8 @@
 
 - Nuestro Landing page [www.movix.com](https://upc-aplicaciones-web-grupo-02.github.io/landing-page/)
 
+- El link a nuestro frontEnd [link](https://movix-812bc.web.app/)
+
 - Acontinuación se muestra nuestra participación durante el desarrollo del TB1
 
 
