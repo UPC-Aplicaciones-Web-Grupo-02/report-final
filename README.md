@@ -96,6 +96,36 @@
     <td>Rafael Cuya</td>
     <td>Desarrollo capitulo 5</td>
   </tr>
+<tr>
+    <td>2.0</td>
+    <td>15/05/25</td>
+    <td>Flores Manrique, Sebastian</td>
+    <td>Desarrollo de la creación y edición de scooter en el forntEnd</td>
+  </tr>
+<tr>
+    <td>2.1</td>
+    <td>15/05/25</td>
+    <td>Morales Sosa, Arnold</td>
+    <td>Desarrollo de las subscripciones y pagos en el frontEnd</td>
+  </tr>
+<tr>
+    <td>2.2</td>
+    <td>15/05/25</td>
+    <td>Muñiz Huayanca, Percy Alonso</td>
+    <td>Desarrollo del historial y alquiler de scooters en el frontEnd</td>
+  </tr>
+<tr>
+    <td>2.3</td>
+    <td>21/04/25</td>
+    <td>Velarde Gonzales, Néstor</td>
+    <td>Desarrollo del registrom inicio de sesión y perfil en el frontEnd</td>
+  </tr>
+<tr>
+    <td>2.4</td>
+    <td>21/04/25</td>
+    <td>Rafael Cuya</td>
+    <td>Desarrollo de la búsqueda de scooters en el frontEnd</td>
+  </tr>
 </table>
 
 <div style="page-break-before: always;"></div>
@@ -128,13 +158,21 @@
         - TB1 <br/>
         - Rafael Cuya: Durante el desarrollo de la TB1, participé en diversas reuniones junto a mi equipo, en las que coordinamos la elaboración del informe y la creación de la landing page.
         <br/><br/>
-        - Arnold Morales Sosa: Dentro de la culminación de este primer entregable tuvimos reuniones donde pudimos coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además de verificar si algo estaba mal o no. Nos apoyamos mutuamente y enseñamos a los integrantes que no sabían usar dichos programas.<br/>
+        - Arnold Morales Sosa: Dentro de la culminación de este primer entregable tuve reuniones donde pude 
+coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además de 
+verificar si algo estaba mal o no.<br/>
         <br/>Flores Manrique, Sebastian: Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo. <br/>
         <br/>Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico. <br/><br/>
-        Néstor Velarde Gonzales: Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realizé el Cap. 04, los diseños wireframes y Mock-ups tanto para landind page y aplicación web, usando las buenas prácticas y un diseño responsivo. 
+        Néstor Velarde Gonzales: Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas 
+y realizé el Cap. 04, los diseños wireframes y Mock-ups tanto para landind page y aplicación web, usando las buenas 
+prácticas y un diseño responsivo. <br><br>
 	- TP1 <br/>
         - Rafael Cuya: Durante el desarrollo del TP1, Trabajé en equipo asumiendo un rol de liderazgo compartido, participando activamente en la toma de decisiones y promoviendo la colaboración y el compromiso entre todos los integrantes.
         <br/><br/>
+        -Flores Manrique Sebastian: Realicé la correción de los artefactos previamente presentados y la elaboración 
+de algunos components en el frontend según algunos ideas de mejoras que dió mi equipo.<br><br>
+        -Velarde Nestor: Desarrollé del Front-End con buenas técnicas en algoritmos y según acordado con mi equipos 
+hemos basado a usar las mismas técnicas de tipo de textos, colores y guiarse del prototipo (Figma).<br><br>
       </td>
       <td>
         Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
@@ -158,7 +196,16 @@
 	         <br/><br/>
 	      Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del Trabajo Parcial, participé activamente en el desarrollo de la épica 5, realicé correcciones de errores identificados en etapas anteriores, y efectué múltiples commits en el repositorio de Git para mantener el avance del proyecto documentado y organizado. Me encargué del diseño y gestión de la base de datos, asegurando su correcta estructura y funcionalidad. Además, grabé el video de la exposición final del equipo y trabajé en base a las recomendaciones recibidas en el TB1, lo que me permitió mejorar tanto en lo técnico como en la comunicación y coordinación con el grupo.
 	      <br/><br/>
-	       - Rafael Cuya: Durante el desarrollo del TP1, fomenté un ambiente de trabajo inclusivo y colaborativo, ayudando a definir metas claras, organizar tareas y asegurarme de que cumpliéramos con los objetivos establecidos para el desarrollo del frontend.
+	       - Rafael Cuya: Durante el desarrollo del TP1, fomenté un ambiente de trabajo inclusivo y colaborativo, 
+ayudando a definir metas claras, organizar tareas y asegurarme de que cumpliéramos con los objetivos establecidos 
+para el desarrollo del frontend.<br><br>
+        -Flores Manrique Sebastian: Me encargué de investigar los componentes de prime vue, para poder 
+implementarlos correctamente en el frontEnd.
+<br><br>
+        -Velarde Nestor: Me encargué de la creación de los componentes del frontend y la corrección de errores en el 
+código, 
+así 
+como de la revisión del trabajo de mis compañeros. <br/><br/>
 	 <br/><br/>
       </td>
       <td>
