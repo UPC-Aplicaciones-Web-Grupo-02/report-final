@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td>Morales Sosa, Arnold Gabriel</td>
-    <td>u201913495</td>
+    <td>u201822516</td>
   </tr>
 </table>
 
@@ -158,9 +158,7 @@
         - TB1 <br/>
         - Rafael Cuya: Durante el desarrollo de la TB1, participé en diversas reuniones junto a mi equipo, en las que coordinamos la elaboración del informe y la creación de la landing page.
         <br/><br/>
-        - Arnold Morales Sosa: Dentro de la culminación de este primer entregable tuve reuniones donde pude 
-coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además de 
-verificar si algo estaba mal o no.<br/>
+        - Arnold Morales Sosa: Participé en las reuniones donde pude coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además, verifiqué si algo estaba mal o no. Me apoyé y enseñé a compañeros que no sabían usar dichos programas.<br/>
         <br/>Flores Manrique, Sebastian: Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo. <br/>
         <br/>Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico. <br/><br/>
         Néstor Velarde Gonzales: Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas 
@@ -173,6 +171,7 @@ prácticas y un diseño responsivo. <br><br>
 de algunos components en el frontend según algunos ideas de mejoras que dió mi equipo.<br><br>
         -Velarde Nestor: Desarrollé del Front-End con buenas técnicas en algoritmos y según acordado con mi equipos 
 hemos basado a usar las mismas técnicas de tipo de textos, colores y guiarse del prototipo (Figma).<br><br>
+- Arnold Morales Sosa:Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo y aporté mis conocimientos desarrollando y apoyando en el proyecto.
       </td>
       <td>
         Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
@@ -206,6 +205,8 @@ implementarlos correctamente en el frontEnd.
 código, 
 así 
 como de la revisión del trabajo de mis compañeros. <br/><br/>
+- Arnold Morales Sosa: Apoyé de manera colaborativa en el front-end, junté mi rama y corregí errores. Planifiqué mi 
+tarea y compromiso en el trabajo en el tiempo que tuve y cumplí satisfactoriamente mis objetivos.
 	 <br/><br/>
       </td>
       <td>
