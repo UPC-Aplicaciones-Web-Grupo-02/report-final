@@ -3622,23 +3622,25 @@ Para el desarrollo del Front end hemos desarrollado un total de 35 commits para 
 #### 5.3.1. Diseño de Entrevistas. 
 Para la validación de nuestro proyecto, hemos diseñado entrevistas con el fin de obtener retroalimentación de nuestros usuarios. A continuación, se presentan las preguntas que se realizarán:
 Preguntas generales:
-•	¿Cuál es tu nombre?
-•	¿Qué edad tienes?
-•	¿Dónde vives actualmente?
-•	¿A qué te dedicas?
+- ¿Cuál es tu nombre?
+- ¿Qué edad tienes?
+- ¿Dónde vives actualmente?
+- ¿A qué te dedicas?
+
 Preguntas segmento estudiantes universitarios:
-•	¿Qué es lo que más te llama la atención del aplicativo? ¿Por qué?
-•	¿Qué opinas sobre el diseño y la funcionalidad de la aplicación?
-•	¿Qué opinas sobre la opción de suscripción como estudiante?
-•	¿Qué funcionalidades le agregarías a la aplicación?
-•	¿Hay alguna cosa que le quitarías a la aplicación?
-•	¿Tienes alguna recomendación que ayude a mejorar la experiencia del estudiante en la aplicación?
+- ¿Qué es lo que más te llama la atención del aplicativo? ¿Por qué?
+- ¿Qué opinas sobre el diseño y la funcionalidad de la aplicación?
+- ¿Qué opinas sobre la opción de suscripción como estudiante?
+- ¿Qué funcionalidades le agregarías a la aplicación?
+- ¿Hay alguna cosa que le quitarías a la aplicación?
+- ¿Tienes alguna recomendación que ayude a mejorar la experiencia del estudiante en la aplicación?
+
 Preguntas segmento Clientes que residen en Miraflores:
-•	¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
-•	¿Qué opinas sobre el diseño y la funcionalidad de alquiler de scooters, tales como la sección de scooters, la información de cada scooter y sus reseñas?
-•	¿Qué funcionalidades le agregarías a la aplicación?
-•	¿Hay alguna cosa que le quitarías a la aplicación?
-•	Como residente de Miraflores ¿Tienes alguna recomendación que ayude a mejorar la experiencia?
+- ¿Qué característica te llama más la atención del aplicativo? ¿Por qué?
+-  ¿Qué opinas sobre el diseño y la funcionalidad de alquiler de scooters, tales como la sección de scooters, la información de cada scooter y sus reseñas?
+-  ¿Qué funcionalidades le agregarías a la aplicación?
+-  ¿Hay alguna cosa que le quitarías a la aplicación?
+-  Como residente de Miraflores ¿Tienes alguna recomendación que ayude a mejorar la experiencia?
 
 #### 5.3.2. Registro de Entrevistas. 
 #### 5.3.3. Evaluaciones según heurísticas. 
