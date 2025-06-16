@@ -3550,22 +3550,22 @@ Para el desarrollo del Front end hemos desarrollado un total de 35 commits para 
             Sebastian Flores Manrique        </td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
+        <td style="font-weight: bold;"> Sprint 2 Review Summary </td>
         <td> Durante el desarrolo del Sprint 2, se logró implementar con éxito el front end de nuestra aplicación , lo cuál fue desplegado usando Firebase. </td>
      </tr>
      <tr>
-        <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
+        <td style="font-weight: bold;"> Sprint 2 Retrospective Summary </td>
         <td> El sprint 2 se logró de manera satisfactoria. Sin embargo, consideramos que fallamos un poco en la organización y puntualidad. </td>
      </tr>
      <tr> 
         <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
      </tr>
      <tr>
-          <td style="font-weight: bold;"> Sprint 2 Goal</td>
+          <td style="font-weight: bold;"> Sprint 3 Goal</td>
           <td> En este sprint se espera la implementación inicial del backend de nuestra app. Al finalizar este sprint contamos con una versión preliminar de nuestro backend. </td>
       </tr>
       <tr>
-          <td style="font-weight: bold;"> Sprint 2 Velocity </td>
+          <td style="font-weight: bold;"> Sprint 3 Velocity </td>
           <td> 57 </td>
       </tr>
       <tr>
