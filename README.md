@@ -3575,6 +3575,43 @@ Para el desarrollo del Front end hemos desarrollado un total de 35 commits para 
 </table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators. 
+<table>
+  <thead>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th>Aspect Landing Page Leader (L) / Collaborator (C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Velarde Gonzales, Nestor</td>
+      <td>VelardeSoft</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Muñiz Huayanca, Percy Alonso</td>
+      <td>alomsoo</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Morales Sosa, Arnold Gabriel</td>
+      <td>Arnold24x24</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Cuya Villegas, Rafael Alberto</td>
+      <td>RafaelCuya</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Flores Manrique, Sebastian Enrique</td>
+      <td>Sebas2999</td>
+      <td>L</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.3.3. Sprint Backlog 3. 
 #### 5.2.3.4. Development Evidence for Sprint Review. 
 #### 5.2.3.5. Execution Evidence for Sprint Review. 
