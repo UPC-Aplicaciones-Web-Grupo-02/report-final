@@ -3618,6 +3618,74 @@ Para el desarrollo del Front end hemos desarrollado un total de 35 commits para 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
+Colaboración por alumno en el Backend de nuestra aplicacion:
+
+<table border="1px" align="center">
+  <tr>
+    <th>Alumno</th>
+    <th>Actividad</th>
+  </tr>
+    <tr>
+    <td>Cuya Villegas, Rafael Alberto</td>
+    <td>Implementación del bounded context Reservation management.</td>
+  </tr>
+  <tr>
+    <td>Flores Manrique, Sebastian Enrique</td>
+    <td> Implementación del bounded context Scooter management.</td>
+  </tr>
+  <tr>
+    <td>Muñiz Huayanca, Percy Alonso</td>
+    <td> Implementación del bounded context Scooter history. </td>
+  </tr>
+  <tr>
+    <td>Morales Sosa, Arnold Gabriel</td>
+    <td> Implementación del bounded context Subscriptions.</td>
+  </tr>
+  <tr>
+    <td>Velarde Gonzales, Nestor Hernan </td>
+    <td>Implementación del bounded context Profile view, código inicial del backend y conexión.</td>
+  </tr>
+  </table>
+
+Tabla para poder identificarnos:
+
+<table border="1px" align="center">
+  <tr>
+    <th>Username (Github)</th>
+    <th>Nombre</th>
+  </tr>
+  <tr>
+    <td>VelardeSoft</td>
+    <td>Velarde Gonzales, Nestor Hernán</td>
+  </tr>
+  <tr>
+    <td>alomsoo </td>
+    <td> Muñiz Huayanca, Percy Alonso </td>
+  </tr>
+  <tr>
+    <td>Arnold24x24 </td>
+    <td> Morales Sosa, Arnold Gabriel </td>
+  </tr>
+  <tr>
+    <td>RafaelCuya </td>
+    <td>Cuya Villegas, Rafael Alberto</td>
+  </tr>
+  <tr>
+    <td>Sebas2999 </td>
+    <td> Flores Manrique, Sebastian Enrique </td>
+  </tr>
+</table>
+Para este Sprint el grupo trabajó de manera colaborativa a través de commits en la herramienta GitHub.
+Se creó una organizacion en GitHub para el desarrollo del Backend.
+
+![Image](https://github.com/user-attachments/assets/d47edee9-c443-4a92-84bf-768b6d5dbd54)
+
+Para el desarrollo del Backend hemos desarrollado un total de 30 commits para la implementacion de nuestro proyecto. 
+![Image](https://github.com/user-attachments/assets/a9948eef-add3-4b0b-9d8e-2376c16c8c1f)
+Tambien se muestra la contribucion de cada alumno en esta sección.
+![Image](https://github.com/user-attachments/assets/235edc86-63ff-499c-be90-f22bae4b7c89)
+![Image](https://github.com/user-attachments/assets/0494d11a-5407-4c12-9f8a-619fd7328424)
+
 #### 5.3. Validation Interviews. 
 #### 5.3.1. Diseño de Entrevistas. 
 Para la validación de nuestro proyecto, hemos diseñado entrevistas con el fin de obtener retroalimentación de nuestros usuarios. A continuación, se presentan las preguntas que se realizarán:
