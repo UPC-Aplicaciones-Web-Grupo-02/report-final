@@ -3682,6 +3682,7 @@ Se creó una organizacion en GitHub para el desarrollo del Backend.
 
 Para el desarrollo del Backend hemos desarrollado un total de 30 commits para la implementacion de nuestro proyecto. 
 ![Image](https://github.com/user-attachments/assets/a9948eef-add3-4b0b-9d8e-2376c16c8c1f)
+
 Tambien se muestra la contribucion de cada alumno en esta sección.
 ![Image](https://github.com/user-attachments/assets/235edc86-63ff-499c-be90-f22bae4b7c89)
 ![Image](https://github.com/user-attachments/assets/0494d11a-5407-4c12-9f8a-619fd7328424)
