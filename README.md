@@ -3712,6 +3712,17 @@ Preguntas segmento Clientes que residen en Miraflores:
 -  Como residente de Miraflores ¿Tienes alguna recomendación que ayude a mejorar la experiencia?
 
 #### 5.3.2. Registro de Entrevistas. 
+
+User Persona del Segmento Objetivo 2: Público Mayor de 18 Años que Reside en Miraflores, Lima
+![Image](https://github.com/user-attachments/assets/ea12247f-450a-4239-b969-5e159672bb65)
+
+Entrevistado(a): Alonso Flores
+Género: Masculino
+Edad: 21 años
+Link de la entrevista: ...
+....
+
+
 #### 5.3.3. Evaluaciones según heurísticas. 
 #### 5.4. Video About-the-Product. 
 
