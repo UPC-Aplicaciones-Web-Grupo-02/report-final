@@ -3914,6 +3914,8 @@ Datos del entrevistado:
 Durante la entrevista, Alonso expresó que la página la ve funcional y concisa, dio puntos positivos a lo intuitivo y rápido que era la plataforma. Destacó que es algo novedoso que la subscripción sea un único pago y que podíamos elegir entre 3 modalidades dependiendo de nuestras necesidades en vez de que te cobren por tiempo usado (horas). Indicó que una de las funcionalidades que podría ser agregado sería el de poder hacer seguimiento a un scooter que pueda querer el usuario y que actualmente no puede tomarlo porque está siendo usado por otro usuario. Señala que estaría bien que pueda haber una modalidad donde, además de poder ver el usuario y la fecha en la que va a usar dicho scooter, también se podría comunicar con dicho usuario y ver sus datos. 
 
 #### Entrevista 2:
+User Persona del Segmento Objetivo 2: Público Mayor de 18 Años que Reside en Miraflores, Lima
+
 
 Datos del entrevistador:
 * Nombres: Sebastian Enrique
@@ -3931,6 +3933,44 @@ Datos del entrevistado:
 
 Durante la entrevista, Erick expresó que lo que más le llama la atención del aplicativo es la facilidad de acceso a los scooters y la integración de un sistema que permita alquilarlos de manera rápida y eficiente. En cuanto al diseño y funcionalidad, destacó positivamente la organización de la sección de scooters, la presentación clara de la información de cada vehículo y la utilidad de las reseñas para tomar decisiones informadas. Sin embargo, mencionó que una mejora que le gustaría ver es la posibilidad de ver el estado real de los scooters en tiempo real, como su nivel de batería y estado mecánico. Además, sugirió que una funcionalidad de rutas sugeridas o mapas interactivos para los usuarios sería útil, especialmente en zonas de Miraflores, donde las rutas para circular en scooter podrían optimizarse. En cuanto a lo que se podría quitar de la aplicación, Erick mencionó que algunas opciones de pago complicadas podrían ser simplificadas. Finalmente, recomendó mejorar la visibilidad de las estaciones de recogida y entrega de scooters, especialmente en zonas con alto tráfico, para facilitar la experiencia del usuario.
 
+#### Entrevista 3:
+User Persona del Segmento Objetivo 1: Estudiante universitario
+
+Datos del entrevistador:
+* Nombres: Rafael Alberto 
+* Apellidos: Cuya Villegas
+
+Datos del entrevistado:
+* Nombres: Piero
+* Apellidos: Gamio
+* Edad: 23
+* Distrito de residencia: Cercado de Lima
+* Enlace a la entrevista: [Ver Video]()
+* Duración de la entrevista:
+
+*Informe del resumen de la entrevista:*
+
+Durante la entrevista, Piero expresó que lo que más le llama la atención del aplicativo es la facilidad en el manejo de la aplicacion. En cuanto al diseño y funcionalidad, destacó que le parece que tiene lo necesario para evitar ser muy complicado al momento del uso. Sin embargo, mencionó que una mejora es que en la aplicacion se muestre la ubicacion exacta del scooter. 
+
+#### Entrevista 4:
+User Persona del Segmento Objetivo 1: Estudiante universitario
+
+
+Datos del entrevistador:
+* Nombres: Rafael Alberto 
+* Apellidos: Cuya Villegas
+
+Datos del entrevistado:
+* Nombres: Anapaula
+* Apellidos: Diaz
+* Edad: 23
+* Distrito de residencia: Cercado de Lima
+* Enlace a la entrevista: [Ver Video]()
+* Duración de la entrevista:
+
+*Informe del resumen de la entrevista:*
+
+Durante la entrevista, Anapaula nos comentó que lo que más le llama la atención del aplicativo es la facilidad en el manejo y que tiene un aspecto minimalista. Sin embargo, mencionó que una mejora que le gustaría ver es que la aplicacion muestre la ubicacion exacta del scooter. Además, recomendó que le gustaria que se agregue un contacto de emergencia y un soporte de la misma aplicacion en caso se sufra algun accidente.
 
 
 #### 5.3.3. Evaluaciones según heurísticas. 
