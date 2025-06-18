@@ -3747,6 +3747,26 @@ Para el desarrollo del Front end hemos desarrollado un total de 35 commits para 
 #### 5.2.3.4. Development Evidence for Sprint Review. 
 #### 5.2.3.5. Execution Evidence for Sprint Review. 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+- Brand 
+![Brand](https://github.com/user-attachments/assets/1c78be10-484c-4bb2-a12e-461d1077264d)
+- District
+![District](https://github.com/user-attachments/assets/20966bb6-44d5-446d-b4da-e59f51dbb791)
+- Model
+![Model](https://github.com/user-attachments/assets/db0f905a-07d6-4433-a001-c8fa0b8bd5a4)
+- Reservetation
+![Reservation](https://github.com/user-attachments/assets/14de5312-c1fd-4e13-be5e-035e7509a622)
+- Scooter
+![Scooter](https://github.com/user-attachments/assets/2d174def-816c-4e65-9952-fd50b5ad884e)
+- Subscription
+![Subscription](https://github.com/user-attachments/assets/5cb48c45-54fd-4790-8e1f-7e2fd7e3cd8c)
+- TypeSubscription
+![TypeSubscripition](https://github.com/user-attachments/assets/643f70ab-cbdd-440b-8578-175076bdabb8)
+- UserRoles
+![UserRoles](https://github.com/user-attachments/assets/15385867-23bd-4d81-9bd8-f232d39cb903)
+- Users
+![Users](https://github.com/user-attachments/assets/d12282a9-c376-4a10-9413-d86a6cde87fc)
+
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
 Colaboración por alumno en el Backend de nuestra aplicacion:
