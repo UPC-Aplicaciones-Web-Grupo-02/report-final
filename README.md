@@ -2780,7 +2780,7 @@ Para el despliegue de la solucion realizamos los siguientes pasos:
       <td>L</td>
     </tr>
     <tr>
-      <td>Muñiz Huayanca, Percy Alonso</td>
+      <td>Muñiz Huayanca, Percy </td>
       <td>alomsoo</td>
       <td>C</td>
     </tr>
@@ -3898,11 +3898,20 @@ Preguntas segmento Clientes que residen en Miraflores:
 User Persona del Segmento Objetivo 2: Público Mayor de 18 Años que Reside en Miraflores, Lima
 ![Image](https://github.com/user-attachments/assets/ea12247f-450a-4239-b969-5e159672bb65)
 
-Entrevistado(a): Alonso Flores
-Género: Masculino
-Edad: 21 años
-Link de la entrevista: ...
-....
+Datos del entrevistador: 
+* Nombres: Arnold Gabriel 
+* Apellidos: Morales Sosa
+
+Datos del entrevistado:
+* Nombre y Apellido: Alonso Flores
+* Edad: 21 años
+* Distrito de residencia: Miraflores
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822516_upc_edu_pe/ERvr2O9j6_RNm-MYLrxjw5ABe22tllYY9uMZnf9w2jD50w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=myCITG)
+* Duración de la entrevista: 6 minutos
+
+*Informe del resumen de la entrevista:*
+
+Durante la entrevista, Alonso expresó que la página la ve funcional y concisa, dio puntos positivos a lo intuitivo y rápido que era la plataforma. Destacó que es algo novedoso que la subscripción sea un único pago y que podíamos elegir entre 3 modalidades dependiendo de nuestras necesidades en vez de que te cobren por tiempo usado (horas). Indicó que una de las funcionalidades que podría ser agregado sería el de poder hacer seguimiento a un scooter que pueda querer el usuario y que actualmente no puede tomarlo porque está siendo usado por otro usuario. Señala que estaría bien que pueda haber una modalidad donde, además de poder ver el usuario y la fecha en la que va a usar dicho scooter, también se podría comunicar con dicho usuario y ver sus datos. 
 
 #### Entrevista 2:
 
