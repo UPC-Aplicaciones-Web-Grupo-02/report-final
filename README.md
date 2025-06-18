@@ -3864,6 +3864,12 @@ Preguntas segmento Clientes que residen en Miraflores:
 
 #### 5.3.2. Registro de Entrevistas. 
 
+**Entrevistas segmento 1: Universitarios**
+
+**Entrevistas segmento 2: Personas**
+
+#### Entrevista 1:
+
 User Persona del Segmento Objetivo 2: Público Mayor de 18 Años que Reside en Miraflores, Lima
 ![Image](https://github.com/user-attachments/assets/ea12247f-450a-4239-b969-5e159672bb65)
 
@@ -3872,6 +3878,25 @@ Género: Masculino
 Edad: 21 años
 Link de la entrevista: ...
 ....
+
+#### Entrevista 2:
+
+Datos del entrevistador:
+* Nombres: Sebastian Enrique
+* Apellidos: Flores Manrique
+
+Datos del entrevistado:
+* Nombres: Erick
+* Apellidos: Alfaro Meneses
+* Edad: 38
+* Distrito de residencia: Miraflores
+* Enlace a la entrevista: [Ver Video]()
+* Duración de la entrevista:
+
+*Informe del resumen de la entrevista:*
+
+Durante la entrevista, Erick expresó que lo que más le llama la atención del aplicativo es la facilidad de acceso a los scooters y la integración de un sistema que permita alquilarlos de manera rápida y eficiente. En cuanto al diseño y funcionalidad, destacó positivamente la organización de la sección de scooters, la presentación clara de la información de cada vehículo y la utilidad de las reseñas para tomar decisiones informadas. Sin embargo, mencionó que una mejora que le gustaría ver es la posibilidad de ver el estado real de los scooters en tiempo real, como su nivel de batería y estado mecánico. Además, sugirió que una funcionalidad de rutas sugeridas o mapas interactivos para los usuarios sería útil, especialmente en zonas de Miraflores, donde las rutas para circular en scooter podrían optimizarse. En cuanto a lo que se podría quitar de la aplicación, Erick mencionó que algunas opciones de pago complicadas podrían ser simplificadas. Finalmente, recomendó mejorar la visibilidad de las estaciones de recogida y entrega de scooters, especialmente en zonas con alto tráfico, para facilitar la experiencia del usuario.
+
 
 
 #### 5.3.3. Evaluaciones según heurísticas. 
