@@ -3613,6 +3613,137 @@ Para el desarrollo del Front end hemos desarrollado un total de 35 commits para 
 </table>
 
 #### 5.2.3.3. Sprint Backlog 3. 
+
+<table>
+	<tbody>
+		<tr>
+			<td>User Story ID</td>
+			<td>User Story Title</td>
+			<td>Task ID</td>
+			<td>Task Title</td>
+			<td>Description</td>
+			<td>Estimation(hours)</td>
+			<td>Assigned to</td>
+			<td>Status</td>
+		</tr>
+        <tr>
+          <td rowspan="4">TS01</td>
+          <td rowspan="4">Endpoint User</td>
+          <td>T01</td>
+          <td>Implementar Endpoint GET - Usuarios</td>
+          <td>Crear el endpoint GET para la obtención de la lista de todos los usuarios registrados.</td>
+          <td>3</td>
+          <td>Velarde Gonzales, Néstor H.</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+            <td>T02</td>
+            <td>Implementar Endpoint POST - Usuario por ID</td>
+            <td>Crear el endpoint POST para la creación de usuarios una vez ingresado los datos correspondientes.</td>
+            <td>3</td>
+            <td>Velarde Gonzales, Néstor H.</td>
+            <td>Done</td> 
+        </tr>
+        <tr>
+            <td>T03</td>
+            <td>Implementar Endpoint PUT - Usuario por ID</td>
+            <td>Crear el endpoint PUT para la actualización de los datos de un usuario específico.</td>
+            <td>3</td>
+            <td>Velarde Gonzales, Néstor H.</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T04</td>
+            <td>Implementar Endpoint DELETE - Usuario por ID</td>
+            <td>Crear el endpoint DELETE para eliminar un usuario específico.</td>
+            <td>3</td>
+            <td>Velarde Gonzales, Néstor H.</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td rowspan="4">TS02</td>
+            <td rowspan="4">Endpoint Scooter</td>
+            <td>T05</td>
+            <td>Implementar Endpoint GET - Scooters</td>
+            <td>Crear el endpoint GET para la obtención de la lista de todos los scooters registrados.</td>
+            <td>3</td>
+            <td>Flores Manrique, Sebastian Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T06</td>
+            <td>Implementar Endpoint POST - Scooter por ID</td>
+            <td>Crear el endpoint POST para la creación de scooters una vez ingresado los datos correspondientes.</td>
+            <td>3</td>
+            <td>Flores Manrique, Sebastian Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T07</td>
+            <td>Implementar Endpoint PUT - Scooter por ID</td>
+            <td>Crear el endpoint PUT para la actualización de los datos de un scooter específico.</td>
+            <td>3</td>
+            <td>Flores Manrique, Sebastian Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>T08</td>
+            <td>Implementar Endpoint DELETE - Scooter por ID</td>
+            <td>Crear el endpoint DELETE para eliminar un scooter específico.</td>
+            <td>3</td>
+            <td>Flores Manrique, Sebastian Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+          <td rowspan="1">TS03</td>
+          <td rowspan="1">Endpoint Subscription</td>
+          <td>T09</td>
+          <td>Implementar Endpoint GET - Subscription</td>
+          <td>Crear el endpoint GET para la obtención de la lista de todas las subscripciones registradas.</td>
+          <td>3</td>
+          <td>Muñiz Huayanca, Percy Alonso</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+          <td rowspan="2">TS04</td>
+          <td rowspan="2">Endpoint Historial</td>
+          <td>T10</td>
+          <td>Implementar Endpoint GET - Historial por ID</td>
+          <td>Crear el endpoint GET para la obtención de la lista del historial de scooters de un determinado usuario.
+          </td>
+          <td>3</td>
+          <td>Cuya Villegas, Rafael A.</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+            <td>T11</td>
+            <td>Implementar Endpoint DELETE - Historial por ID</td>
+            <td>Crear el endpoint DELETE para eliminar un historial en específico.</td>
+            <td>3</td>
+            <td>Cuya Villegas, Rafael A.</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+          <td rowspan="2">TS05</td>
+          <td rowspan="2">Endpoint Review</td>
+          <td>T12</td>
+          <td>Implementar Endpoint GET - Review</td>
+          <td>Crear el endpoint GET para la obtención de los registros de reseñas disponibles.</td>
+          <td>3</td>
+          <td>Morales Sosa, Arnold Gabriel</td>
+          <td>Done</td>
+        </tr>
+        <tr>
+            <td>T13</td>
+            <td>Implementar Endpoint POST - Review por ID</td>
+            <td>Crear el endpoint POST para la creación de una nueva reseña con los datos válidos.</td>
+            <td>3</td>
+            <td>Morales Sosa, Arnold Gabriel</td>
+            <td>Done</td>
+        </tr>
+    </tbody>
+</table>
+
 #### 5.2.3.4. Development Evidence for Sprint Review. 
 #### 5.2.3.5. Execution Evidence for Sprint Review. 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
