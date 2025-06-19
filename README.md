@@ -3945,7 +3945,7 @@ Datos del entrevistado:
 * Apellidos: Gamio
 * Edad: 23
 * Distrito de residencia: Cercado de Lima
-* Enlace a la entrevista: [Ver Video]()
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EVhvc1OYRgNAmmTCZNd1q8MBSkaaSu_z7c5eXOta-RkbAQ?e=7irmT0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista:
 
 *Informe del resumen de la entrevista:*
