@@ -3972,6 +3972,27 @@ Datos del entrevistado:
 
 Durante la entrevista, Anapaula nos comentó que lo que más le llama la atención del aplicativo es la facilidad en el manejo y que tiene un aspecto minimalista. Sin embargo, mencionó que una mejora que le gustaría ver es que la aplicacion muestre la ubicacion exacta del scooter. Además, recomendó que le gustaria que se agregue un contacto de emergencia y un soporte de la misma aplicacion en caso se sufra algun accidente.
 
+#### Entrevista 5:
+
+User Persona del Segmento Objetivo 2: Público Mayor de 18 Años que Reside en Miraflores, Lima
+![USERR 5](https://github.com/user-attachments/assets/c97a1348-d079-4f82-bb31-ecab82d7cebf)
+
+Datos del entrevistador: 
+* Nombres: Percy Alonso	
+* Apellidos: Muñz Huayanca
+
+Datos del entrevistado:
+* Nombre y Apellido: Jarol Saquiray
+* Edad: 22 años
+* Distrito de residencia: Miraflores
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822516_upc_edu_pe/ERvr2O9j6_RNm-MYLrxjw5ABe22tllYY9uMZnf9w2jD50w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=myCITG)
+* Duración de la entrevista: 3 minutos
+
+*Informe del resumen de la entrevista:*
+
+Se realizó una entrevista a Jarol Saquiray, practicante de desarrollo de software de 22 años, residente en Miraflores y trabajador en Santiago de Surco, con el objetivo de obtener su opinión sobre una aplicación de alquiler de scooters. Jarol destacó como principal atractivo la facilidad para ubicar scooters disponibles en tiempo real, lo que considera clave para optimizar su movilidad. Opinó que el diseño es intuitivo y funcional, resaltando la utilidad de la información detallada de cada scooter y las reseñas. Sugirió incorporar rutas recomendadas y un sistema de recompensas para usuarios frecuentes. Como mejora, propuso reducir o personalizar las notificaciones, y recomendó incluir información sobre estacionamientos permitidos en Miraflores y alertas sobre eventos que afecten el tránsito.
+
+
 
 #### 5.3.3. Evaluaciones según heurísticas. 
 #### 5.4. Video About-the-Product. 
