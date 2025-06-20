@@ -3936,6 +3936,8 @@ Durante la entrevista, Erick expresó que lo que más le llama la atención del 
 #### Entrevista 3:
 User Persona del Segmento Objetivo 1: Estudiante universitario
 
+![Image](https://github.com/user-attachments/assets/0ff1d631-3f1a-4172-9498-d6f49a09c27c)
+
 Datos del entrevistador:
 * Nombres: Rafael Alberto 
 * Apellidos: Cuya Villegas
@@ -3955,6 +3957,7 @@ Durante la entrevista, Piero expresó que lo que más le llama la atención del 
 #### Entrevista 4:
 User Persona del Segmento Objetivo 1: Estudiante universitario
 
+![Image](https://github.com/user-attachments/assets/e43a790d-9071-4c93-9dd6-f702d5e7c74c)
 
 Datos del entrevistador:
 * Nombres: Rafael Alberto 
@@ -3965,12 +3968,12 @@ Datos del entrevistado:
 * Apellidos: Diaz
 * Edad: 23
 * Distrito de residencia: Cercado de Lima
-* Enlace a la entrevista: [Ver Video]()
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EZ4YEGdZjkxFvAWr01nBdc8BuB7mhIJPL-zBOm_OQKYErw?e=qvBvom&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista:
 
 *Informe del resumen de la entrevista:*
 
-Durante la entrevista, Anapaula nos comentó que lo que más le llama la atención del aplicativo es la facilidad en el manejo y que tiene un aspecto minimalista. Sin embargo, mencionó que una mejora que le gustaría ver es que la aplicacion muestre la ubicacion exacta del scooter. Además, recomendó que le gustaria que se agregue un contacto de emergencia y un soporte de la misma aplicacion en caso se sufra algun accidente.
+Durante la entrevista, Anapaula nos comentó que lo que más le llama la atención del aplicativo es la facilidad en el manejo y que tiene un aspecto minimalista. Sin embargo, mencionó que una mejora que le gustaría ver es que la aplicacion muestre los limites hasta donde se puede llegar con el scooter. Además, recomendó que le gustaria que se agregue un contacto de emergencia y un soporte de la misma aplicacion en caso se sufra algun accidente.
 
 #### Entrevista 5:
 
