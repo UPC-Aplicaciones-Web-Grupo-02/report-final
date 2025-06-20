@@ -3995,6 +3995,25 @@ Datos del entrevistado:
 
 Se realizó una entrevista a Jarol Saquiray, practicante de desarrollo de software de 22 años, residente en Miraflores y trabajador en Santiago de Surco, con el objetivo de obtener su opinión sobre una aplicación de alquiler de scooters. Jarol destacó como principal atractivo la facilidad para ubicar scooters disponibles en tiempo real, lo que considera clave para optimizar su movilidad. Opinó que el diseño es intuitivo y funcional, resaltando la utilidad de la información detallada de cada scooter y las reseñas. Sugirió incorporar rutas recomendadas y un sistema de recompensas para usuarios frecuentes. Como mejora, propuso reducir o personalizar las notificaciones, y recomendó incluir información sobre estacionamientos permitidos en Miraflores y alertas sobre eventos que afecten el tránsito.
 
+#### Entrevista 6:
+
+User Persona del Segmento Objetivo 1: Estudiante Universitario
+![USER 6](https://github.com/user-attachments/assets/611f5f23-87a6-42cc-8b0d-cd77b013d7a1)
+
+Datos del entrevistador: 
+* Nombres: Arnold Gabriel
+* Apellidos: Morales Sosa
+
+Datos del entrevistado:
+* Nombre y Apellido: Patrick Correa
+* Edad: 23 años
+* Distrito de residencia: San Borja
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u201822516_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201822516%5Fupc%5Fedu%5Fpe%2FDocuments%2Fsegmento%20objetivo%201%20%2D%20entrevista%20a%20Patrick%20Correa%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E81606a4c%2D7a55%2D40b4%2Db2b7%2D49043585e14b)
+* Duración: 13:29 minutos
+
+*Informe del resumen de la entrevista:*
+
+Durante la entrevista, Patrick Correa mostró interés sobre la aplicación, dijo que era una buena idea para que los universitarios puedan desplazarse con mayor rapidez y seguridad desde su universidad hasta su casa y viceversa. Además, le gustó el tema de las subscripciones porque es más práctico que otros sistemas similares que te cobran por millas o tiempo usado. Dijo que es una buena alternativa para estudiantes universitarios que tienen que ir a su centro de estudios casi diariamente. Sobre algún aspecto a mejorar, mencionó sobre la interfaz, le gustaría que tuviese un mejor diseño para que el usuario no se aburra mientras navega por las opciones. Además, mencionó que le gustaría que en la parte de los scooters esté más ordenado y se vea un forma vertical los scooters disponibles en relación a algo en común (como por ejemplo, orden por marca), ya que por el momento lo ve algo abrumador para el usuario universitario.
 
 
 #### 5.3.3. Evaluaciones según heurísticas. 
