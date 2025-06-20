@@ -3769,7 +3769,140 @@ Para el desarrollo del Front end hemos desarrollado un total de 35 commits para 
     </tbody>
 </table>
 
-#### 5.2.3.4. Development Evidence for Sprint Review. 
+#### 5.2.3.4. Development Evidence for Sprint Review.
+<table border="1">
+  <thead>
+    <tr>
+      <th>USER/REPOSITORY</th>
+      <th>BRANCH</th>
+      <th>COMMIT ID</th>
+      <th>COMMIT MESSAGE</th>
+      <th>DATE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>VelardeSoft/Backend</td>
+      <td>main</td>
+      <td>080ecb3</td>
+      <td>Add imagens</td>
+      <td>2025-06-17</td>
+    </tr>
+    <tr>
+      <td>VelardeSoft/Backend</td>
+      <td>main</td>
+      <td>b6e588e</td>
+      <td>Create README.md</td>
+      <td>2025-06-17</td>
+    </tr>
+    <tr>
+      <td>VelardeSoft/Backend</td>
+      <td>main</td>
+      <td>6d76f88</td>
+      <td>feat: Final v1 development backend</td>
+      <td>2025-06-17</td>
+    </tr>
+    <tr>
+      <td>VelardeSoft/Backend</td>
+      <td>main</td>
+      <td>8c9f7f4</td>
+      <td>Configurations Programs.cs</td>
+      <td>2025-06-17</td>
+    </tr>
+    <tr>
+      <td>VelardeSoft/Backend</td>
+      <td>main</td>
+      <td>a1ae3ad</td>
+      <td>feat: Add configurations database conection</td>
+      <td>2025-06-17</td>
+    </tr>
+    <tr>
+      <td>VelardeSoft/Backend</td>
+      <td>main</td>
+      <td>eff2d1e</td>
+      <td>feat: Implement Resources in Suscription</td>
+      <td>2025-06-16</td>
+    </tr>
+    <tr>
+      <td>VelardeSoft/Backend</td>
+      <td>main</td>
+      <td>51972b5</td>
+      <td>feat: Add domain of suscriptions</td>
+      <td>2025-06-16</td>
+    </tr>
+    <tr>
+      <td>VelardeSoft/Backend</td>
+      <td>main</td>
+      <td>7de8cbd</td>
+      <td>feat: StringExtensions</td>
+      <td>2025-06-16</td>
+    </tr>
+    <tr>
+      <td>VelardeSoft/Backend</td>
+      <td>main</td>
+      <td>c8ef54b</td>
+      <td>feat: KebabCaseRouteNamingConvention</td>
+      <td>2025-06-16</td>
+    </tr>
+    <tr>
+      <td>VelardeSoft/Backend</td>
+      <td>main</td>
+      <td>1b9eb85</td>
+      <td>feat: Agrgate Interface IUnitOfWork</td>
+      <td>2025-06-16</td>
+    </tr>
+    <tr>
+      <td>VelardeSoft/Backend</td>
+      <td>main</td>
+      <td>36e18a8</td>
+      <td>feat: Aggregate IBASERepository</td>
+      <td>2025-06-16</td>
+    </tr>
+    <tr>
+      <td>Sebas2999/Backend</td>
+      <td>main</td>
+      <td>06d2edb</td>
+      <td>feat: added scooter resource assembler</td>
+      <td>2025-06-16</td>
+    </tr>
+    <tr>
+      <td>Sebas2999/Backend</td>
+      <td>main</td>
+      <td>8c52064</td>
+      <td>feat: added Scooter and Model resource</td>
+      <td>2025-06-16</td>
+    </tr>
+    <tr>
+      <td>Sebas2999/Backend</td>
+      <td>main</td>
+      <td>d415276</td>
+      <td>feat: added Brand and District resource</td>
+      <td>2025-06-16</td>
+    </tr>
+    <tr>
+      <td>Sebas2999/Backend</td>
+      <td>main</td>
+      <td>1867681</td>
+      <td>feat: added Models and Scooter controllers</td>
+      <td>2025-06-16</td>
+    </tr>
+    <tr>
+      <td>Sebas2999/Backend</td>
+      <td>main</td>
+      <td>df3fd4f</td>
+      <td>feat: added brands and districts controllers</td>
+      <td>2025-06-16</td>
+    </tr>
+    <tr>
+      <td>Sebas2999/Backend</td>
+      <td>main</td>
+      <td>ec2c583</td>
+      <td>feat: added aggregates.</td>
+      <td>2025-06-16</td>
+    </tr>
+  </tbody>
+</table>
+
 #### 5.2.3.5. Execution Evidence for Sprint Review. 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
