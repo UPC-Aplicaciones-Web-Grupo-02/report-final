@@ -3904,6 +3904,17 @@ Para el desarrollo del Front end hemos desarrollado un total de 35 commits para 
 </table>
 
 #### 5.2.3.5. Execution Evidence for Sprint Review. 
+
+Para esta entrega, el equipo Movix logró implementar de manera exitosa el frontend web app y un avance del backend de la aplicación.
+
+Enlace del deploy de la web app:
+👉 https://cozy-cendol-ad274a.netlify.app/login
+
+En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público tanto nuestro producto mediante un video promocional como a nuestro equipo.
+
+Enlace del deploy de la landing page:
+👉 "Falta agregar link"
+
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
 - Brand 
