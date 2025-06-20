@@ -3948,7 +3948,7 @@ Datos del entrevistado:
 * Edad: 23
 * Distrito de residencia: Cercado de Lima
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EVhvc1OYRgNAmmTCZNd1q8MBSkaaSu_z7c5eXOta-RkbAQ?e=7irmT0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* Duración de la entrevista:
+* Duración de la entrevista: 7 minutos y 23 segundos
 
 *Informe del resumen de la entrevista:*
 
@@ -3969,7 +3969,7 @@ Datos del entrevistado:
 * Edad: 23
 * Distrito de residencia: Cercado de Lima
 * Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EZ4YEGdZjkxFvAWr01nBdc8BuB7mhIJPL-zBOm_OQKYErw?e=qvBvom&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* Duración de la entrevista:
+* Duración de la entrevista: 8 minutos y 2 segundos
 
 *Informe del resumen de la entrevista:*
 
@@ -4002,6 +4002,8 @@ Se realizó una entrevista a Jarol Saquiray, practicante de desarrollo de softwa
 #### 5.4. Video About-the-Product. 
 
 ![Image](https://github.com/user-attachments/assets/0a558e40-a87e-402e-943a-2fd76eb3377e)
+
+- Duracion del video about the product: 3 minutos y 10 segundos
 
 [Link Steam](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EQTBlqBnsZ9MoKHCUnaO7uwB5aJXGWT3tVrJFm7bebdcDg?e=1zPr92&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
