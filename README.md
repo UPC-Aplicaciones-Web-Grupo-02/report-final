@@ -23,35 +23,35 @@
   **Integrantes:**
 
   <table border="1px" align="center">
-  <tr>
-    <th>Apellidos y Nombres</th>
-    <th>Código</th>
-  </tr>
-  <tr>
-    <td>Muñiz Huayanca, Percy Alonso</td>
-    <td>u202319563</td>
-  </tr>
-  <tr>
-    <td>Cuya Villegas, Rafael A</td>
-    <td>u20193495</td>
-  </tr>
-  <tr>
-    <td>Velarde Gonzales, Néstor H</td>
-    <td>u20211c221</td>
-  </tr>
-  <tr>
-    <td>Flores Manrique, Sebastian Enrique</td>
-    <td>u201611430</td>
-  </tr>
-  <tr>
-    <td>Morales Sosa, Arnold Gabriel</td>
-    <td>u201822516</td>
-  </tr>
+    <tr>
+      <th>Apellidos y Nombres</th>
+      <th>Código</th>
+    </tr>
+    <tr>
+      <td>Muñiz Huayanca, Percy Alonso</td>
+      <td>u202319563</td>
+    </tr>
+    <tr>
+      <td>Cuya Villegas, Rafael A</td>
+      <td>u20193495</td>
+    </tr>
+    <tr>
+      <td>Velarde Gonzales, Néstor H</td>
+      <td>u20211c221</td>
+    </tr>
+    <tr>
+      <td>Flores Manrique, Sebastian Enrique</td>
+      <td>u201611430</td>
+    </tr>
+    <tr>
+      <td>Morales Sosa, Arnold Gabriel</td>
+      <td>u201822516</td>
+    </tr>
 </table>
 
 <br/><br/>
   
-  ## **Mayo, 2025**
+  ## **Junio, 2025**
 
 </div>
 
@@ -66,65 +66,71 @@
     <th>Autor</th>
     <th>Descripción de modificación</th>
   </tr>
-<tr>
+  <tr>
     <td>1.0</td>
     <td>21/04/25</td>
     <td>Flores Manrique, Sebastian</td>
     <td>Desarrollo capitulo 1</td>
   </tr>
-<tr>
+  <tr>
     <td>1.1</td>
     <td>21/04/25</td>
     <td>Morales Sosa, Arnold</td>
     <td>Desarrollo capitulo 2</td>
   </tr>
-<tr>
+  <tr>
     <td>1.2</td>
     <td>21/04/25</td>
     <td>Muñiz Huayanca, Percy Alonso </td>
     <td>Desarrollo capitulo 3</td>
   </tr>
-<tr>
+  <tr>
     <td>1.3</td>
     <td>21/04/25</td>
     <td>Velarde Gonzales, Néstor</td>
     <td>Desarrollo capitulo 4</td>
   </tr>
-<tr>
+  <tr>
     <td>1.4</td>
     <td>21/04/25</td>
     <td>Rafael Cuya</td>
     <td>Desarrollo capitulo 5</td>
   </tr>
-<tr>
+  <tr>
     <td>2.0</td>
     <td>15/05/25</td>
     <td>Flores Manrique, Sebastian</td>
     <td>Desarrollo de la creación y edición de scooter en el forntEnd</td>
   </tr>
-<tr>
+  <tr>
     <td>2.1</td>
     <td>15/05/25</td>
     <td>Morales Sosa, Arnold</td>
     <td>Desarrollo de las subscripciones y pagos en el frontEnd</td>
   </tr>
-<tr>
+  <tr>
     <td>2.2</td>
     <td>15/05/25</td>
     <td>Muñiz Huayanca, Percy Alonso</td>
     <td>Desarrollo del historial y alquiler de scooters en el frontEnd</td>
   </tr>
-<tr>
+  <tr>
     <td>2.3</td>
     <td>21/04/25</td>
     <td>Velarde Gonzales, Néstor</td>
     <td>Desarrollo del registrom inicio de sesión y perfil en el frontEnd</td>
   </tr>
-<tr>
+  <tr>
     <td>2.4</td>
     <td>21/04/25</td>
     <td>Rafael Cuya</td>
     <td>Desarrollo de la búsqueda de scooters en el frontEnd</td>
+  </tr>
+  <tr>
+    <td>3.1</td>
+    <td>18/06/25</td>
+    <td>Néstor Velarde Gonzales</td>
+    <td>Desarollo de Backend la parte de BoundContext Profile.</td>
   </tr>
 </table>
 
@@ -163,17 +169,13 @@
         - Arnold Morales Sosa: Participé en las reuniones donde pude coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además, verifiqué si algo estaba mal o no. Me apoyé y enseñé a compañeros que no sabían usar dichos programas.<br/>
         <br/>Flores Manrique, Sebastian: Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo. <br/>
         <br/>Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico. <br/><br/>
-        Néstor Velarde Gonzales: Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas 
-y realizé el Cap. 04, los diseños wireframes y Mock-ups tanto para landind page y aplicación web, usando las buenas 
-prácticas y un diseño responsivo. <br><br>
-	- TP1 <br/>
+        Néstor Velarde Gonzales: Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realizé el Cap. 04, los diseños wireframes y Mock-ups tanto para landind page y aplicación web, usando las buenas prácticas y un diseño responsivo. <br><br>
+      	- TP1 <br/>
         - Rafael Cuya: Durante el desarrollo del TP1, Trabajé en equipo asumiendo un rol de liderazgo compartido, participando activamente en la toma de decisiones y promoviendo la colaboración y el compromiso entre todos los integrantes.
         <br/><br/>
-        -Flores Manrique Sebastian: Realicé la correción de los artefactos previamente presentados y la elaboración 
-de algunos components en el frontend según algunos ideas de mejoras que dió mi equipo.<br><br>
-        -Velarde Nestor: Desarrollé del Front-End con buenas técnicas en algoritmos y según acordado con mi equipos 
-hemos basado a usar las mismas técnicas de tipo de textos, colores y guiarse del prototipo (Figma).<br><br>
-- Arnold Morales Sosa:Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo y aporté mis conocimientos desarrollando y apoyando en el proyecto.
+        -Flores Manrique Sebastian: Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend según algunos ideas de mejoras que dió mi equipo.<br><br>
+        -Velarde Nestor: Desarrollé del Front-End con buenas técnicas en algoritmos y según acordado con mi equipos hemos basado a usar las mismas técnicas de tipo de textos, colores y guiarse del prototipo (Figma).<br><br>
+        - Arnold Morales Sosa:Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo y aporté mis conocimientos desarrollando y apoyando en el proyecto.
       </td>
       <td>
         Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
@@ -197,19 +199,12 @@ hemos basado a usar las mismas técnicas de tipo de textos, colores y guiarse de
 	         <br/><br/>
 	      Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del Trabajo Parcial, participé activamente en el desarrollo de la épica 5, realicé correcciones de errores identificados en etapas anteriores, y efectué múltiples commits en el repositorio de Git para mantener el avance del proyecto documentado y organizado. Me encargué del diseño y gestión de la base de datos, asegurando su correcta estructura y funcionalidad. Además, grabé el video de la exposición final del equipo y trabajé en base a las recomendaciones recibidas en el TB1, lo que me permitió mejorar tanto en lo técnico como en la comunicación y coordinación con el grupo.
 	      <br/><br/>
-	       - Rafael Cuya: Durante el desarrollo del TP1, fomenté un ambiente de trabajo inclusivo y colaborativo, 
-ayudando a definir metas claras, organizar tareas y asegurarme de que cumpliéramos con los objetivos establecidos 
-para el desarrollo del frontend.<br><br>
-        -Flores Manrique Sebastian: Me encargué de investigar los componentes de prime vue, para poder 
-implementarlos correctamente en el frontEnd.
-<br><br>
-        -Velarde Nestor: Me encargué de la creación de los componentes del frontend y la corrección de errores en el 
-código, 
-así 
-como de la revisión del trabajo de mis compañeros. <br/><br/>
-- Arnold Morales Sosa: Apoyé de manera colaborativa en el front-end, junté mi rama y corregí errores. Planifiqué mi 
-tarea y compromiso en el trabajo en el tiempo que tuve y cumplí satisfactoriamente mis objetivos.
-	 <br/><br/>
+	       - Rafael Cuya: Durante el desarrollo del TP1, fomenté un ambiente de trabajo inclusivo y colaborativo, ayudando a definir metas claras, organizar tareas y asegurarme de que cumpliéramos con los objetivos establecidos para el desarrollo del frontend.<br><br>
+        -Flores Manrique Sebastian: Me encargué de investigar los componentes de prime vue, para poder implementarlos correctamente en el frontEnd.
+        <br><br>
+        -Velarde Nestor: Me encargué de la creación de los componentes del frontend y la corrección de errores en el código, así como de la revisión del trabajo de mis compañeros. <br/><br/>
+        - Arnold Morales Sosa: Apoyé de manera colaborativa en el front-end, junté mi rama y corregí errores. Planifiqué mi tarea y compromiso en el trabajo en el tiempo que tuve y cumplí satisfactoriamente mis objetivos.
+	      <br/><br/>
       </td>
       <td>
         La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
@@ -981,27 +976,27 @@ para cualquier inconveniente que pueda surgir.
 
 ### Motivaciones y necesidades del usuario:
 
-| Hallazgos de las entrevistas | Implicancia para Movix |
-|-----------------------------|-------------------------|
+| Hallazgos de las entrevistas                                                                                     | Implicancia para Movix                                                                                                                       |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | Quieren evitar el tráfico y llegar más rápido a sus destinos (especialmente universidades y centros de trabajo). | Valoran medios alternativos de transporte que sean ágiles y eviten congestiones. Movix propone una solución directa con scooters eléctricos. |
-| Prefieren evitar transporte público lleno, demoras de taxis o precios altos. | Necesitan una solución práctica, económica y disponible. Movix plantea acceso por demanda y con precios competitivos. |
-| Están dispuestos a probar nuevas formas de movilidad si hay confianza en la plataforma. | Se requiere una interfaz confiable, sencilla y con soporte visible. La propuesta de valor debe incluir **seguridad digital y física**. |
+| Prefieren evitar transporte público lleno, demoras de taxis o precios altos.                                     | Necesitan una solución práctica, económica y disponible. Movix plantea acceso por demanda y con precios competitivos.                        |
+| Están dispuestos a probar nuevas formas de movilidad si hay confianza en la plataforma.                          | Se requiere una interfaz confiable, sencilla y con soporte visible. La propuesta de valor debe incluir **seguridad digital y física**.       |
 
 ### Frustraciones actuales:
 
-| Dolor o queja expresada | Cómo lo aborda Movix |
-|------------------------|-----------------------|
-| “Pierdo mucho tiempo esperando transporte o atrapado en tráfico.” | Movix ofrece scooters distribuidos en puntos clave, disponibles para reservar en minutos. |
-| “No me siento seguro alquilando algo si no sé cómo lo van a cuidar.” | La app puede incluir seguros, monitoreo GPS y contratos simples para generar confianza. |
+| Dolor o queja expresada                                                        | Cómo lo aborda Movix                                                                                        |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
+| “Pierdo mucho tiempo esperando transporte o atrapado en tráfico.”              | Movix ofrece scooters distribuidos en puntos clave, disponibles para reservar en minutos.                   |
+| “No me siento seguro alquilando algo si no sé cómo lo van a cuidar.”           | La app puede incluir seguros, monitoreo GPS y contratos simples para generar confianza.                     |
 | “No siempre puedo confiar en apps nuevas, a veces fallan o no tienen soporte.” | Una plataforma con atención al cliente, tutoriales y pruebas gratuitas puede reducir la barrera de entrada. |
 
 ### Actitudes frente a la idea de alquilar o prestar scooters:
 
-| Opiniones sobre ofrecer su scooter | Opiniones sobre alquilar un scooter |
-|--------------------------|---------------------------|
+| Opiniones sobre ofrecer su scooter                                                            | Opiniones sobre alquilar un scooter                                                      |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 | Algunos estarían dispuestos a alquilar su scooter si ganan dinero extra y se sienten seguros. | Los usuarios están abiertos a alquilar scooters si es sencillo, rápido y no hay riesgos. |
-| Les preocupa el daño, pérdida o mal uso de su scooter. | Necesitan garantías claras de uso, condiciones justas y soporte en caso de problemas. |
-| Prefieren tener control sobre cuándo y a quién lo alquilan. | Valoran poder reservar fácilmente y conocer el estado del vehículo. |
+| Les preocupa el daño, pérdida o mal uso de su scooter.                                        | Necesitan garantías claras de uso, condiciones justas y soporte en caso de problemas.    |
+| Prefieren tener control sobre cuándo y a quién lo alquilan.                                   | Valoran poder reservar fácilmente y conocer el estado del vehículo.                      |
 
 ### Perfil recurrente identificado:
 
@@ -1037,19 +1032,19 @@ En este apartado se presentan dos user personas que representan a los usuarios f
 A continuación se identifican las tareas principales que los usuarios realizarán con la app Movix. Estas tareas han sido definidas considerando las necesidades de Alonso, María y usuarios similares al interactuar con el servicio de alquiler de scooters:
 
 
-| **User Task Matrix**                    | **Alonso (Estudiante)**             |                             | **María (Miraflores)**            |                             |
-|----------------------------------------|----------------------------------|-----------------------------|-----------------------------------|-----------------------------|
-|                                        | **Frecuencia**                   | **Importancia**             | **Frecuencia**                    | **Importancia**             |
-| Buscar scooter cercano                 | Siempre                          | Alta                        | Siempre                           | Alta                        |
-| Ver nivel de batería                   | Siempre                          | Alta                        | Siempre                           | Alta                        |
-| Desbloquear scooter con QR            | Siempre                          | Alta                        | Siempre                           | Alta                        |
-| Usar rutas sugeridas (ciclovías)       | A veces                          | Media                       | A veces                           | Media                       |
-| Finalizar viaje correctamente          | Siempre                          | Alta                        | Siempre                           | Alta                        |
-| Consultar historial de viajes          | A veces                          | Media                       | A veces                           | Media                       |
-| Revisar promociones o referidos        | Frecuentemente                   | Alta                        | A veces                           | Media                       |
-| Usar opción “pausar viaje”             | Raramente                        | Baja                        | A veces                           | Media                       |
-| Ver costo estimado antes de iniciar    | A veces                          | Alta                        | Frecuentemente                    | Alta                        |
-| Reportar fallas o dejar reseña         | Raramente                        | Alta                        | Frecuentemente                    | Media                       |
+| **User Task Matrix**                | **Alonso (Estudiante)** |                 | **María (Miraflores)** |                 |
+| ----------------------------------- | ----------------------- | --------------- | ---------------------- | --------------- |
+|                                     | **Frecuencia**          | **Importancia** | **Frecuencia**         | **Importancia** |
+| Buscar scooter cercano              | Siempre                 | Alta            | Siempre                | Alta            |
+| Ver nivel de batería                | Siempre                 | Alta            | Siempre                | Alta            |
+| Desbloquear scooter con QR          | Siempre                 | Alta            | Siempre                | Alta            |
+| Usar rutas sugeridas (ciclovías)    | A veces                 | Media           | A veces                | Media           |
+| Finalizar viaje correctamente       | Siempre                 | Alta            | Siempre                | Alta            |
+| Consultar historial de viajes       | A veces                 | Media           | A veces                | Media           |
+| Revisar promociones o referidos     | Frecuentemente          | Alta            | A veces                | Media           |
+| Usar opción “pausar viaje”          | Raramente               | Baja            | A veces                | Media           |
+| Ver costo estimado antes de iniciar | A veces                 | Alta            | Frecuentemente         | Alta            |
+| Reportar fallas o dejar reseña      | Raramente               | Alta            | Frecuentemente         | Media           |
 
 ### Observaciones
 
@@ -1086,19 +1081,19 @@ Aunque los estudiantes universitarios como Juan y los adultos jóvenes de Mirafl
 ## 2.4. Ubiquitous Language.
 En un proyecto como Movix es fundamental establecer un glosario común de términos para asegurar que todo el equipo (y los usuarios) compartan el mismo entendimiento de conceptos clave. A continuación se definen los términos más relevantes del dominio de la aplicación de alquiler de scooters eléctricos en Lima:
 
-| **Término**         | **Definición (en el contexto de Movix)** |
-|---------------------|-------------------------------------------|
-| **Alquiler (viaje)** | Período de uso de un scooter por parte de un usuario, desde su desbloqueo hasta su finalización. Equivale a un “viaje” o “recorrido” realizado en el scooter. Durante un alquiler, se contabiliza el tiempo (y eventualmente la distancia) para calcular la tarifa. |
-| **Scooter (patinete eléctrico)** | Vehículo de dos ruedas pequeño y eléctrico, diseñado para el transporte individual de pie. En Movix, los scooters son el activo principal que los usuarios alquilan mediante la app. Están equipados con motor eléctrico, batería, frenos y suelen alcanzar ~25 km/h de velocidad máxima. |
-| **Estación** | Punto designado para estacionar o recoger scooters. En un modelo *dockless* (sin estaciones fijas) como Movix, no hay estaciones físicas obligatorias, pero el término puede referirse a zonas de estacionamiento recomendadas por la app o el municipio. También puede usarse “estación de carga” para referirse a la base donde se recargan los scooters. |
-| **Desbloquear** | Acción de iniciar un alquiler liberando el candado electrónico del scooter. Implica escanear el código QR o enviar la señal desde la app. Conlleva el inicio de la tarifa por uso. Antónimo: *finalizar*. |
-| **Recorrido (trayecto)** | Desplazamiento físico realizado en el scooter durante un alquiler. Puede medirse en distancia y visualizarse en la app. Abarca desde el punto de partida hasta donde se deja el scooter. |
-| **Tarifa (precio)** | Esquema de cobro por el uso del scooter. Usualmente consiste en una tarifa de desbloqueo + tarifa por minuto. Por ejemplo, S/1 + S/0.50/min. Puede variar con promociones o pases mensuales. |
-| **Área de servicio** | Zona geográfica donde Movix opera y es permitido iniciar o finalizar un alquiler. Fuera de esta área, la app no permite usar el servicio. Ejemplo: Miraflores, San Isidro, Barranco. |
-| **Usuario (cliente)** | Persona que utiliza la app Movix para alquilar scooters. También llamado *rider*. Se diferencia del personal de la empresa. |
-| **Operador** | Miembro del equipo Movix encargado de la logística, recarga y redistribución de scooters. También llamado *fleet manager* o *cargador*. |
-| **SOAT** | Seguro Obligatorio de Accidentes de Tránsito. Aunque no se exige directamente para scooters en Perú, Movix aplica una póliza privada similar para cubrir accidentes. Es clave al hablar de seguridad legal. |
-| **Micromovilidad** | Concepto que engloba transportes ligeros para distancias cortas, como scooters, bicicletas o monociclos. Movix promueve la micromovilidad urbana sostenible para reducir tráfico y contaminación. |
+| **Término**                      | **Definición (en el contexto de Movix)**                                                                                                                                                                                                                                                                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Alquiler (viaje)**             | Período de uso de un scooter por parte de un usuario, desde su desbloqueo hasta su finalización. Equivale a un “viaje” o “recorrido” realizado en el scooter. Durante un alquiler, se contabiliza el tiempo (y eventualmente la distancia) para calcular la tarifa.                                                                                         |
+| **Scooter (patinete eléctrico)** | Vehículo de dos ruedas pequeño y eléctrico, diseñado para el transporte individual de pie. En Movix, los scooters son el activo principal que los usuarios alquilan mediante la app. Están equipados con motor eléctrico, batería, frenos y suelen alcanzar ~25 km/h de velocidad máxima.                                                                   |
+| **Estación**                     | Punto designado para estacionar o recoger scooters. En un modelo *dockless* (sin estaciones fijas) como Movix, no hay estaciones físicas obligatorias, pero el término puede referirse a zonas de estacionamiento recomendadas por la app o el municipio. También puede usarse “estación de carga” para referirse a la base donde se recargan los scooters. |
+| **Desbloquear**                  | Acción de iniciar un alquiler liberando el candado electrónico del scooter. Implica escanear el código QR o enviar la señal desde la app. Conlleva el inicio de la tarifa por uso. Antónimo: *finalizar*.                                                                                                                                                   |
+| **Recorrido (trayecto)**         | Desplazamiento físico realizado en el scooter durante un alquiler. Puede medirse en distancia y visualizarse en la app. Abarca desde el punto de partida hasta donde se deja el scooter.                                                                                                                                                                    |
+| **Tarifa (precio)**              | Esquema de cobro por el uso del scooter. Usualmente consiste en una tarifa de desbloqueo + tarifa por minuto. Por ejemplo, S/1 + S/0.50/min. Puede variar con promociones o pases mensuales.                                                                                                                                                                |
+| **Área de servicio**             | Zona geográfica donde Movix opera y es permitido iniciar o finalizar un alquiler. Fuera de esta área, la app no permite usar el servicio. Ejemplo: Miraflores, San Isidro, Barranco.                                                                                                                                                                        |
+| **Usuario (cliente)**            | Persona que utiliza la app Movix para alquilar scooters. También llamado *rider*. Se diferencia del personal de la empresa.                                                                                                                                                                                                                                 |
+| **Operador**                     | Miembro del equipo Movix encargado de la logística, recarga y redistribución de scooters. También llamado *fleet manager* o *cargador*.                                                                                                                                                                                                                     |
+| **SOAT**                         | Seguro Obligatorio de Accidentes de Tránsito. Aunque no se exige directamente para scooters en Perú, Movix aplica una póliza privada similar para cubrir accidentes. Es clave al hablar de seguridad legal.                                                                                                                                                 |
+| **Micromovilidad**               | Concepto que engloba transportes ligeros para distancias cortas, como scooters, bicicletas o monociclos. Movix promueve la micromovilidad urbana sostenible para reducir tráfico y contaminación.                                                                                                                                                           |
 
 Este lenguaje unificado facilita la comunicación entre equipos y mejora la experiencia del usuario al usar términos consistentes como “Desbloquea”, “Tu viaje” o “Estación segura”. A medida que Movix crezca, este glosario podrá ampliarse, pero estos son los conceptos fundamentales del proyecto.
 
@@ -4235,6 +4230,10 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
         <tr>
             <td>To-Be</td>
             <td><a href="https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587">To-Be</a></td>
+        </tr>
+        <tr>
+            <td>Video The About The Product</td>
+            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EQTBlqBnsZ9MoKHCUnaO7uwB5aJXGWT3tVrJFm7bebdcDg?e=1zPr92&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About The Product</a></td>
         </tr>
         <tr>
             <td>Video exposición</td>
