@@ -3998,7 +3998,14 @@ Se realizó una entrevista a Jarol Saquiray, practicante de desarrollo de softwa
 
 
 #### 5.3.3. Evaluaciones según heurísticas. 
+
 #### 5.4. Video About-the-Product. 
+
+![Image](https://github.com/user-attachments/assets/0a558e40-a87e-402e-943a-2fd76eb3377e)
+
+[Link Steam](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EQTBlqBnsZ9MoKHCUnaO7uwB5aJXGWT3tVrJFm7bebdcDg?e=1zPr92&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+[Link Youtube](https://youtu.be/bFDIkwr33TM)
 
 #### Conclusiones preliminares
 
