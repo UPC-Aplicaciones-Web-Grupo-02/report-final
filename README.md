@@ -293,9 +293,6 @@
   - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según herústicas](#533-evaluaciones-según-heurísticas)
 - **[5.4. Video About-the-Product](#54-video-about-the-product)**
-  
-
-
 ### [Conclusiones](#conclusiones)
 - **[Conclusiones y recomendaciones](#conclusiones-y-recomendaciones)**  
 - **[Video About-the-Team](#video-about-the-team)**  
@@ -4385,8 +4382,10 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 - Conclusiones:
 
-- TB1:
-  Se logró realizar un trabajo exhaustiva cumpliendo con todos los segmentos del trabajo y una investigación de mercado que permitió identificar las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto desarrollado por el equipo CiberMach.
+  Se logró realizar un trabajo exhaustiva cumpliendo con todos los segmentos del trabajo y una investigación de 
+  mercado que permitió identificar las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar 
+  un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y 
+  envío del proyecto desarrollado por el equipo Innovatech.
   Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo, lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
 
 - Recomendaciones
@@ -4398,7 +4397,12 @@ y promuevan el uso de vehículos ecológicos.
 
 En esta sección tenemos el video About The Team, donde cada integrante se presenta y explica sus aportes al proyecto.
 
-Link del video About The Team: [About The Team]()
+Link del video About The Team: 
+
+[MicrosoftStream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/Eav8xF0DpaREtk9MWzR2PysBLqwmM2RQTZjxcs5VZOLZqg?e=X06S5W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+[Youtube](https://youtu.be/LsWnPkMB8CA)
+
 
 <div style="page-break-before: always;"></div>
 
@@ -4432,12 +4436,6 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
             <th>Enlace</th>
         </tr>
         <tr>
-            <td>Nuestras entrevistas para conocer nuestros Segmentos y obtener datos:</td>
-            <td>
-                3 entrevistas a propietarios de scooters
-            </td>
-        </tr>
-        <tr>
             <td>As-Is</td>
             <td><a href="https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587">As-Is</a></td>
         </tr>
@@ -4446,12 +4444,16 @@ Enlaces a los desarrollos de trabajo del equipo CiberMach.
             <td><a href="https://miro.com/app/board/uXjVKXo8BTc=/?share_link_id=732675408587">To-Be</a></td>
         </tr>
         <tr>
-            <td>Video The About The Product</td>
+            <td>Video About The Product</td>
             <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EQTBlqBnsZ9MoKHCUnaO7uwB5aJXGWT3tVrJFm7bebdcDg?e=1zPr92&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About The Product</a></td>
         </tr>
         <tr>
             <td>Video exposición</td>
-            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EW0cSbBYIuNOgpsD1ovliCgBcr9QMuwTje1-nL6GpE8zVQ?e=IAQZ2b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Video exposición</a></td>
+            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/ERgv6B_dTHZCsx5NnZ_J4RcBGWlWvz2qNPIR1Bkchq-fKA?e=vNVIFf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Video exposición</a></td>
+        </tr>
+        <tr>
+            <td>Video About The Team</td>
+            <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/Eav8xF0DpaREtk9MWzR2PysBLqwmM2RQTZjxcs5VZOLZqg?e=X06S5W&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">About The Team</a></td>
         </tr>
     </tbody>
 </table>
