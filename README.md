@@ -339,6 +339,9 @@
     	  <br>
         <br>- Rafael Cuya: Durante el desarrollo del Tb2, fomenté un ambiente de trabajo colaborativo, organizando, junto con mis compañero,s para realizar ls diversos puentos de la entrega y cumplir los objetivos con éxito.<br><br>
         <br>- Néstor Velarde Gonzales: Para esta avance del proyecto, desarrollé e lideré la parte de Backend, en total se ha concluido 4 Bound Context en un avance del 80%, organicé las reuniones necesarias para cada avance iteración. <br><br>
+        <br>- Flores Manrique Sebastian: Para esta entrega, participé en todas las reuniones organizadas por el 
+equipo para la coordinación del desarrollo de los endpoints del Backend .
+<br><br>
       </td>
       <td>
         Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
@@ -371,7 +374,9 @@
       	- TB2 <br/>
       	- Arnold Morales Sosa: Apoyé en la realización del informe, en la colocación y ejecución de las 2 entrevistas restantes para los 2 segmentos objetivos de nuestro trabajo en el tiempo establecido. Planifiqué la realización de los entregables a tiempo, la parte del bounded context de subscription del backend se realizó en el tiempo estimado y cumplí los objetivos y puntos a tener en cuenta de este entregable.<br><br>
       	 - Rafael Cuya: Durante el desarrollo del TB2, contribuí activamente elaborando una sección del informe y el video about the product. Además, en el repositorio del backend, desarrollé el contexto Reservation. Mi participación se centró en fomentar un entorno de trabajo colaborativo, planificar tareas de manera eficiente y establecer plazos realistas para asegurar el cumplimiento de los objetivos del proyecto.  <br><br>
-      	 - Néstor Velarde Gonzales: Contribuí al desarrollo del backend de nuestro producto de software, además realicé las mojoras adecudas del Frontend finalizando al 100%, organicé las reuniones necesarias para verificar los avances de cada participante de equipo Movix. 
+      	 - Néstor Velarde Gonzales: Contribuí al desarrollo del backend de nuestro producto de software, además realicé las mojoras adecudas del Frontend finalizando al 100%, organicé las reuniones necesarias para verificar los avances de cada participante de equipo Movix. <br><br>
+      	 - Flores Manrique Sebastian: Participé en la creación de los endpoints del BackEnd que me fueron asignados, 
+además realizar la correción y mejora del reporte final del proyecto.
         </td>
           <td>
               La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
