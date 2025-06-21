@@ -3096,6 +3096,7 @@ Hemos desarrollado un total de 27 commits para la implementacion de nuestra land
           <td> 57 </td>
       </tr>
 </table>
+
 #### 5.2.2.2. Aspect Leaders and Collaborators.
 
 <table>
@@ -3546,7 +3547,7 @@ Para el desarrollo del Front end hemos desarrollado un total de 35 commits para 
 
 <div style="page-break-before: always;"></div>
 
-#### 5.2.3. Sprint 03 
+#### 5.2.3. Sprint 03
 #### 5.2.3.1. Spring Planning 03. 
 <table border="1px" align="center">
      <tr> 
