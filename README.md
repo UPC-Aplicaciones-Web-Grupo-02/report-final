@@ -3938,6 +3938,81 @@ Enlace del deploy de la landing page:
 ![Users](https://github.com/user-attachments/assets/d12282a9-c376-4a10-9413-d86a6cde87fc)
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
+Para hacer el despliegue del Backend lo hemos dividido en dos partes, la primera parte es la base de datos y la segunda parte es el backend.
+
+## Base de datos
+
+- Primero en nuestro recurso de grupo creamos una instancia de MySQL y le damos click a crear.
+![1-BaseDeDatos](https://github.com/user-attachments/assets/ba91dc33-8d03-4ee2-8892-ab2640fb9a05)
+
+
+- Luego hacemos las configuraciones necesarias para la base de datos como el nombre del servidor, la región, el 
+administrador y contraseña de la base de datos.
+![2-BaseDeDatos](https://github.com/user-attachments/assets/ac880b6a-1918-4a3b-a97c-937dd1af5edc)
+
+
+- Procedemos a darle click a crear y revisión, nos mostrará todos los detalles y precio de la base de datos y una vez 
+verificamos que todo se encuentra correcto le damos click a crear.
+![3-BaseDeDatos](https://github.com/user-attachments/assets/bc9e3c16-9c32-40af-bc0f-ea3e9d170272)
+
+
+- Empezará con la implementación de la base de datos que durará unos minutos, una vez que se complete la 
+implementación, nos mostrará la notificación de que la base de datos se ha creado correctamente.
+![4-BaseDeDatos](https://github.com/user-attachments/assets/39147f97-8823-44e4-b570-498d063b42bc)
+
+
+- Al darle click en el recurso de que acabamos de crear, nos mostrará los detalles de la base de datos y que ya se 
+encuentra activa para su uso.
+![5-BaseDeDatos](https://github.com/user-attachments/assets/51e93c9b-44ce-4385-a503-3b2482c7cf99)
+
+
+- Finalmente lo enlazamos al nuestro proyecto y al hacer la ejecución, podemos ver que se ha creado la base de datos 
+"movix" con las tablas necesarias para el funcionamiento del backend.
+![6-BaseDeDatos](https://github.com/user-attachments/assets/767db6a8-e684-494d-b58f-7c156bc24b21)
+
+
+## Backend
+
+- Nos dirigimos a nuestro ide de Rider y debemos tener instalado el plugin de Azure, para poder hacer el despliegue 
+del backend.
+![1-Backend](https://github.com/user-attachments/assets/d5bb429e-cd2e-4772-82f3-f46cf965571c)
+
+
+- Una vez instalado el plugin, nos dirigimos a la pestaña de Azure y le damos click en "Sign in to Azure" para iniciar 
+sesión con nuestra cuenta de Azure y seleccionamos la suscripción que tenemos activa.
+![2-Backend](https://github.com/user-attachments/assets/2fb12392-d31e-43ac-a51b-979143d027ae)
+
+
+- Luego nos dirigimos a nuestro proyecto y le damos click derecho en el proyecto, seleccionamos la opción de 
+"Publish" y luego la opción de "Azure".
+![3-Backend](https://github.com/user-attachments/assets/195d6157-86c5-4f17-a365-1f876ad1cf72)
+
+
+- Hacemos la configuración correspondiente para el despliegue del backend, seleccionando la suscripción, el grupo de 
+recursos, rellenando los detalles de la instancia y seleccionando el plan de servicio que hemos creado.
+![4-Backend](https://github.com/user-attachments/assets/f65fe82e-84f1-4293-b6b9-982124c1718a)
+
+
+- Una vez que hemos configurado todo, le damos click a "Run" y comenzará el proceso de despliegue del backend.
+![5-Backend](https://github.com/user-attachments/assets/ce91c57d-eae5-466c-a42a-4817d96f6eee)
+
+
+- Una vez que se complete el despliegue, nos mostrará una notificación de que el despliegue se ha realizado con éxito 
+y si nos dirigimos a nuestro recurso de Azure, podremos ver que el backend se ha desplegado correctamente.
+![6-Backend](https://github.com/user-attachments/assets/f52a16f6-02f2-41f6-8c26-df2f797aca3b)
+
+
+- Al acceder a la URL del backend, le añadimos el "/swagger/index.html" podremos ver que se ha desplegado 
+correctamente y 
+que está funcionando.
+![7-Backend](https://github.com/user-attachments/assets/0691ac53-9b3c-4ecc-b59c-f4bbb24089aa)
+
+
+- Finalmente desde el mismo Azure podemos verificar que los detalles del recurso y que se está funcionando 
+  correctamente.
+![8--Backend](https://github.com/user-attachments/assets/180d5cf6-cba9-4d2e-bfec-1bc6e76ed081)
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint. 
 Colaboración por alumno en el Backend de nuestra aplicacion:
 
