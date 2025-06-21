@@ -223,6 +223,8 @@
 
 ## Contenido
 
+### [Student Outcome](#student-outcome)
+
 ### [Capítulo I: Introducción](#capítulo-i-introducción)
 - **[1.1. Startup Profile](#11-startup-profile)**
   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
@@ -304,18 +306,18 @@
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
   - **[5.2.2. Sprint 02](#522-sprint-02)**
-    - [5.2.2.1. Sprint Planning 01](#5221-sprint-planning-02)
+    - [5.2.2.1. Sprint Planning 02](#5221-sprint-planning-02)
     - [5.2.2.2. Aspect Leaders and Collaborators](#5222-aspect-leaders-and-collaborators)
-    - [5.2.2.3. Sprint Backlog 1](#5223-sprint-backlog-2)
+    - [5.2.2.3. Sprint Backlog 2](#5223-sprint-backlog-2)
     - [5.2.2.4. Development Evidence for Sprint Review](#5224-development-evidence-for-sprint-review)
     - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
     - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
     - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
     - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
   - **[5.2.3. Sprint 03](#523-sprint-03)**
-    - [5.2.3.1. Sprint Planning 01](#5231-sprint-planning-03)
+    - [5.2.3.1. Sprint Planning 03](#5231-sprint-planning-03)
     - [5.2.3.2. Aspect Leaders and Collaborators](#5232-aspect-leaders-and-collaborators)
-    - [5.2.3.3. Sprint Backlog 1](#5233-sprint-backlog-2)
+    - [5.2.3.3. Sprint Backlog 3](#5233-sprint-backlog-3)
     - [5.2.3.4. Development Evidence for Sprint Review](#5234-development-evidence-for-sprint-review)
     - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
@@ -2318,7 +2320,7 @@ A continuación se mostrará los Wirefarmes para Desktop y Mobile
 
 ![WF_UserGoal7](https://github.com/user-attachments/assets/5b6346c1-d349-49bf-bd8a-599be88fbbb6)
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
 ![Image](https://github.com/user-attachments/assets/c1d7003a-8b42-43c6-9a44-2b0585bd0647)
 ![Image](https://github.com/user-attachments/assets/14c57632-2723-430b-ad6c-69ee891ebe56)
@@ -2353,7 +2355,7 @@ A continuación se mostrará los Wirefarmes para Desktop y Mobile
 ![Image](https://github.com/user-attachments/assets/c2b6d31e-251e-4403-ae4a-7d8a720f8304)
 ![Image](https://github.com/user-attachments/assets/e6f9d8c9-f83d-4ae4-8dab-3e083ab01ebd)
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 
 **User Goal 01:** El usuario quiere registrarse, iniciar sesión, ver, editar y eliminar su cuenta. Cuando el usuario quiera registrarse, ingresa sus datos y se registra; cuando quiera iniciar sesión, ingresa su correo y contraseña, y se lo redirigirá a su perfil, el cual tendrá las opciones de editar sus datos y eliminar su cuenta con previa confirmación. Cuenta con la opción de cancelar las operaciones.
 
@@ -2540,6 +2542,10 @@ Nuestro prototipo está diseñado con una estructura muy organizada; en los sigu
 </table>
 
 <div style="page-break-before: always;"></div>
+
+## 4.8. Database Design.
+
+### 4.8.1. Database Diagram.
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -3030,8 +3036,8 @@ Hemos desarrollado un total de 27 commits para la implementacion de nuestra land
 
 <div style="page-break-before: always;"></div>
 
-#### 5.2.2. Sprint 2
-#### 5.2.2.1.Sprint Planning 2.
+#### 5.2.2. Sprint 02
+#### 5.2.2.1. Sprint Planning 02.
 <table border="1px" align="center">
      <tr> 
         <th> Sprint # </th>
@@ -3129,7 +3135,7 @@ Hemos desarrollado un total de 27 commits para la implementacion de nuestra land
   </tbody>
 </table>
 
-#### 5.2.2.3.Sprint Backlog 2.
+#### 5.2.2.3. Sprint Backlog 2.
 
 <p>El principal objetivo de este segundo sprint es lograr completar todos los requisitos que se piden para el Landing 
 Page.
@@ -3394,7 +3400,7 @@ asociándolas al cliente, scooter y zona correspondiente.</td>
 </table>
 
 
-#### 5.2.2.4.Development Evidence for Sprint Review.
+#### 5.2.2.4. Development Evidence for Sprint Review.
 
 ![Image](https://github.com/user-attachments/assets/7d030024-626f-4528-ae74-01444e8c3b0b)
 ![Image](https://github.com/user-attachments/assets/f6abf512-8b46-4548-a384-6bc6a344673f)
@@ -3402,7 +3408,7 @@ asociándolas al cliente, scooter y zona correspondiente.</td>
 ![Image](https://github.com/user-attachments/assets/f4456fc1-17a0-48d1-a893-e2afcf5fd8fe)
 ![Image](https://github.com/user-attachments/assets/d4fda062-2cbf-4824-a975-97b6d06d7627)
 
-#### 5.2.2.5.Execution Evidence for Sprint Review.
+#### 5.2.2.5. Execution Evidence for Sprint Review.
 
 - Incio de Sesión
   ![Image](https://github.com/user-attachments/assets/7da2d2d5-5674-4886-b24b-d495c00268f7)
@@ -3441,11 +3447,11 @@ asociándolas al cliente, scooter y zona correspondiente.</td>
   ![Image](https://github.com/user-attachments/assets/1c235a11-1914-40de-938e-cead9cfaea21)
 
 
-#### 5.2.2.6.Services Documentation Evidence for Sprint Review.
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services. Por ello, aún no se puede incluir los Endpoints documentados y se realizará en las próximas entregas.
 
-#### 5.2.2.7.Software Deployment Evidence for Sprint Review.
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 Para el Deploy de nuestro Front end realizamos los siguientes pasos:
 - Creamos la carpeta Dist en el proyecto.  
   ![Image](https://github.com/user-attachments/assets/95edd790-c0fb-4a70-8685-a39222cc93bc)
@@ -3471,7 +3477,7 @@ Para el Deploy de nuestro Front end realizamos los siguientes pasos:
 - Se muestra nuestro Frontend desplegado.
   ![Image](https://github.com/user-attachments/assets/1391bb63-b3fe-49f1-8218-d4307d582386)
   
-#### 5.2.2.8.Team Collaboration Insights during Sprint.
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
 
 Colaboración por alumno en el Front end de nuestra aplicacion:
 
@@ -3540,8 +3546,8 @@ Para el desarrollo del Front end hemos desarrollado un total de 35 commits para 
 
 <div style="page-break-before: always;"></div>
 
-#### 5.2.3. Sprint3 
-#### 5.2.3.1. Spring Planning 3. 
+#### 5.2.3. Sprint 03 
+#### 5.2.3.1. Spring Planning 03. 
 <table border="1px" align="center">
      <tr> 
         <th> Sprint # </th>
