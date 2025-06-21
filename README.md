@@ -331,6 +331,7 @@
         -Flores Manrique Sebastian: Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend según algunos ideas de mejoras que dió mi equipo.<br><br>
         -Velarde Nestor: Desarrollé del Front-End con buenas técnicas en algoritmos y según acordado con mi equipos hemos basado a usar las mismas técnicas de tipo de textos, colores y guiarse del prototipo (Figma).<br><br>
         - Arnold Morales Sosa: Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo y aporté mis conocimientos desarrollando y apoyando en el proyecto.<br><br>
+        - Percy Alonso Muñiz Huayanca: Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo .<br><br>
       	- TB2 <br/>
       	- Arnold Morales Sosa: Participé en las reuniones de equipo para entender mejor los procedimientos y tener claro lo que cada uno debe hacer, realicé las 2 entrevistas adicionales en relación al front-end deployado e hice parte del bounded context de subscriptionos para el backend.
     	  <br>
@@ -338,6 +339,8 @@
         <br>- Néstor Velarde Gonzales: Para esta avance del proyecto, desarrollé e lideré la parte de Backend, en total se ha concluido 4 Bound Context en un avance del 80%, organicé las reuniones necesarias para cada avance iteración. <br><br>
         <br>- Flores Manrique Sebastian: Para esta entrega, participé en todas las reuniones organizadas por el 
 equipo para la coordinación del desarrollo de los endpoints del Backend .
+<br><br>
+  <br>- Percy Alojso Muñiz: brindé soporte en la estructuración del backend, colaborando en el diseño de la arquitectura y en la implementación de las funcionalidades principales. Participé activamente en el desarrollo de las entrevistas, desde la preparación de las preguntas hasta el análisis de las respuestas obtenidas. Asimismo, contribuí en la redacción del informe final, asegurando que el contenido reflejara de forma clara y precisa el trabajo realizado.<br><br>
 <br><br>
       </td>
       <td>
@@ -373,7 +376,8 @@ equipo para la coordinación del desarrollo de los endpoints del Backend .
       	 - Rafael Cuya: Durante el desarrollo del TB2, contribuí activamente elaborando una sección del informe y el video about the product. Además, en el repositorio del backend, desarrollé el contexto Reservation. Mi participación se centró en fomentar un entorno de trabajo colaborativo, planificar tareas de manera eficiente y establecer plazos realistas para asegurar el cumplimiento de los objetivos del proyecto.  <br><br>
       	 - Néstor Velarde Gonzales: Contribuí al desarrollo del backend de nuestro producto de software, además realicé las mojoras adecudas del Frontend finalizando al 100%, organicé las reuniones necesarias para verificar los avances de cada participante de equipo Movix. <br><br>
       	 - Flores Manrique Sebastian: Participé en la creación de los endpoints del BackEnd que me fueron asignados, 
-además realizar la correción y mejora del reporte final del proyecto.
+además realizar la correción y mejora del reporte final del proyecto.<br><br>
+- Pecy Alonso Muñiz Huayanca: brindé soporte en la estructuración del backend, colaborando en el diseño de la arquitectura y en la implementación de las funcionalidades principales. Participé activamente en el desarrollo de las entrevistas, desde la preparación de las preguntas hasta el análisis de las respuestas obtenidas. Asimismo, contribuí en la redacción del informe final, asegurando que el contenido reflejara de forma clara y precisa el trabajo realizado. Todo esto lo llevé a cabo en constante coordinación con el equipo, fomentando un ambiente de colaboración para lograr los objetivos del proyecto.<br><br>
         </td>
           <td>
               La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
