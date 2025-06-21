@@ -4257,7 +4257,7 @@ Datos del entrevistado:
 * Nombre y Apellido: Jarol Saquiray
 * Edad: 22 años
 * Distrito de residencia: Miraflores
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201822516_upc_edu_pe/ERvr2O9j6_RNm-MYLrxjw5ABe22tllYY9uMZnf9w2jD50w?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=myCITG)
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EZJl0nBLpFdBryzPGIqXZF4BqPYYs5ZKXolyorQszmUxyg?e=sQekBv)
 * Duración de la entrevista: 3 minutos
 
 *Informe del resumen de la entrevista:*
