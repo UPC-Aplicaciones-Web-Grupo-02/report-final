@@ -2941,35 +2941,30 @@ Link de nuestra landing page: [Visita nuestro sitio](https://upc-aplicaciones-we
 
 **Versión Web**
 
-![Image](https://github.com/user-attachments/assets/eb356fe5-8ab8-42b0-bc55-02bdc874ac0c)
-Portada de nuestra landing page
+- Portada de nuestra landing page
+![Home](https://github.com/user-attachments/assets/0cd1e3d3-cef1-4d15-bfee-dedc16b3e6c7)
 
-![Image](https://github.com/user-attachments/assets/9da44016-6bf8-4e00-bc3e-12a3f0f5286a)
-Sección Sobre Nosotros
+  
+- Sección Sobre Nosotros
+![About-us](https://github.com/user-attachments/assets/d11a95f5-b506-428e-8abd-7320c9a9f3e3)
 
-![Image](https://github.com/user-attachments/assets/c7f61a52-2064-43d0-af4d-90e6f474c6b9)
-Sección nuestros servicios
 
-![Image](https://github.com/user-attachments/assets/a82de65d-536f-464c-87c0-c6c043ab55ca)
-Sección nuestras suscripciones
+- Sección nuestros servicios
+![Services](https://github.com/user-attachments/assets/67b76457-afb7-4d32-b8dc-3a97af23f338)
 
-![Image](https://github.com/user-attachments/assets/4efecc22-9ddc-40b8-a6c0-769c32f391cf)
-Sección que muestra a los integrantes del equipo de desarrollo
 
+- Sección nuestras suscripciones
+![Plans](https://github.com/user-attachments/assets/b67dcdc9-c953-41a2-aa4c-a498802aa443)
+
+
+- Sección que muestra a los integrantes del equipo de desarrollo
+![Team](https://github.com/user-attachments/assets/eb73843c-4dcb-4505-8ef4-58089e792b40)
+
+
+- Sección del footer
 ![Image](https://github.com/user-attachments/assets/ab519cd6-b614-4d7c-bfd0-1caa3fe327b2)
-Imagen que muestra el contenido de nuestro footer
 
-**Versión Mobile**
 
-![Image](https://github.com/user-attachments/assets/33865f12-ba7a-4b18-9168-610329eac969)
-
-![Image](https://github.com/user-attachments/assets/39d40e6a-117c-432a-a399-abe2bed43445)
-
-![Image](https://github.com/user-attachments/assets/c6f6b73f-b15c-4e3a-ae2a-62668daaf66a)
-
-![Image](https://github.com/user-attachments/assets/0973415c-1ed8-40b3-91ee-8afe32898116)
-
-![Image](https://github.com/user-attachments/assets/5f361e4f-9680-42d6-b50a-28f57474efd1)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
