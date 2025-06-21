@@ -4158,13 +4158,73 @@ Preguntas segmento Clientes que residen en Miraflores:
 
 #### 5.3.2. Registro de Entrevistas. 
 
-**Entrevistas segmento 1: Universitarios**
+#### Entrevistas segmento 1: Universitarios
 
-**Entrevistas segmento 2: Personas**
+- Entrevista 1:
 
-#### Entrevista 1:
+![Image](https://github.com/user-attachments/assets/0ff1d631-3f1a-4172-9498-d6f49a09c27c)
 
-User Persona del Segmento Objetivo 2: Público Mayor de 18 Años que Reside en Miraflores, Lima
+Datos del entrevistador:
+* Nombres: Rafael Alberto
+* Apellidos: Cuya Villegas
+
+Datos del entrevistado:
+* Nombres: Piero
+* Apellidos: Gamio
+* Edad: 23
+* Distrito de residencia: Cercado de Lima
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EVhvc1OYRgNAmmTCZNd1q8MBSkaaSu_z7c5eXOta-RkbAQ?e=7irmT0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 7 minutos y 23 segundos
+
+*Informe del resumen de la entrevista:*
+
+Durante la entrevista, Piero expresó que lo que más le llama la atención del aplicativo es la facilidad en el manejo de la aplicacion. En cuanto al diseño y funcionalidad, destacó que le parece que tiene lo necesario para evitar ser muy complicado al momento del uso. Sin embargo, mencionó que una mejora es que en la aplicacion se muestre la ubicacion exacta del scooter.
+
+
+- Entrevista 2:
+
+![Image](https://github.com/user-attachments/assets/e43a790d-9071-4c93-9dd6-f702d5e7c74c)
+
+Datos del entrevistador:
+* Nombres: Rafael Alberto
+* Apellidos: Cuya Villegas
+
+Datos del entrevistado:
+* Nombres: Anapaula
+* Apellidos: Diaz
+* Edad: 23
+* Distrito de residencia: Cercado de Lima
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EZ4YEGdZjkxFvAWr01nBdc8BuB7mhIJPL-zBOm_OQKYErw?e=qvBvom&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Duración de la entrevista: 8 minutos y 2 segundos
+
+*Informe del resumen de la entrevista:*
+
+Durante la entrevista, Anapaula nos comentó que lo que más le llama la atención del aplicativo es la facilidad en el manejo y que tiene un aspecto minimalista. Sin embargo, mencionó que una mejora que le gustaría ver es que la aplicacion muestre los limites hasta donde se puede llegar con el scooter. Además, recomendó que le gustaria que se agregue un contacto de emergencia y un soporte de la misma aplicacion en caso se sufra algun accidente.
+
+
+- Entrevista 3:
+
+![USER 6](https://github.com/user-attachments/assets/611f5f23-87a6-42cc-8b0d-cd77b013d7a1)
+
+Datos del entrevistador:
+* Nombres: Arnold Gabriel
+* Apellidos: Morales Sosa
+
+Datos del entrevistado:
+* Nombre y Apellido: Patrick Correa
+* Edad: 23 años
+* Distrito de residencia: San Borja
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u201822516_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201822516%5Fupc%5Fedu%5Fpe%2FDocuments%2Fsegmento%20objetivo%201%20%2D%20entrevista%20a%20Patrick%20Correa%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E81606a4c%2D7a55%2D40b4%2Db2b7%2D49043585e14b)
+* Duración: 13:29 minutos
+
+*Informe del resumen de la entrevista:*
+
+Durante la entrevista, Patrick Correa mostró interés sobre la aplicación, dijo que era una buena idea para que los universitarios puedan desplazarse con mayor rapidez y seguridad desde su universidad hasta su casa y viceversa. Además, le gustó el tema de las subscripciones porque es más práctico que otros sistemas similares que te cobran por millas o tiempo usado. Dijo que es una buena alternativa para estudiantes universitarios que tienen que ir a su centro de estudios casi diariamente. Sobre algún aspecto a mejorar, mencionó sobre la interfaz, le gustaría que tuviese un mejor diseño para que el usuario no se aburra mientras navega por las opciones. Además, mencionó que le gustaría que en la parte de los scooters esté más ordenado y se vea un forma vertical los scooters disponibles en relación a algo en común (como por ejemplo, orden por marca), ya que por el momento lo ve algo abrumador para el usuario universitario.
+
+#### Entrevistas segmento 2: Personas mayores de 18 que Residen cerca de Miraflores
+
+- Entrevista 4:
+
 ![Image](https://github.com/user-attachments/assets/ea12247f-450a-4239-b969-5e159672bb65)
 
 Datos del entrevistador: 
@@ -4182,71 +4242,29 @@ Datos del entrevistado:
 
 Durante la entrevista, Alonso expresó que la página la ve funcional y concisa, dio puntos positivos a lo intuitivo y rápido que era la plataforma. Destacó que es algo novedoso que la subscripción sea un único pago y que podíamos elegir entre 3 modalidades dependiendo de nuestras necesidades en vez de que te cobren por tiempo usado (horas). Indicó que una de las funcionalidades que podría ser agregado sería el de poder hacer seguimiento a un scooter que pueda querer el usuario y que actualmente no puede tomarlo porque está siendo usado por otro usuario. Señala que estaría bien que pueda haber una modalidad donde, además de poder ver el usuario y la fecha en la que va a usar dicho scooter, también se podría comunicar con dicho usuario y ver sus datos. 
 
-#### Entrevista 2:
-User Persona del Segmento Objetivo 2: Público Mayor de 18 Años que Reside en Miraflores, Lima
+- Entrevista 5:
 
+![Entrevista-validación](https://github.com/user-attachments/assets/27a83199-6869-4d9b-9767-f1a13aa2ba5d)
 
 Datos del entrevistador:
 * Nombres: Sebastian Enrique
 * Apellidos: Flores Manrique
 
 Datos del entrevistado:
-* Nombres: Erick
-* Apellidos: Alfaro Meneses
-* Edad: 38
+* Nombres: Juan
+* Apellidos: Mendevil Quispe
+* Edad: 28
 * Distrito de residencia: Miraflores
-* Enlace a la entrevista: [Ver Video]()
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EW7PMsbGXe1CgQVpcsCtlGwBgiDJC4sJBhlNkYk11OfW2Q?e=gXFixo&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista:
 
 *Informe del resumen de la entrevista:*
 
-Durante la entrevista, Erick expresó que lo que más le llama la atención del aplicativo es la facilidad de acceso a los scooters y la integración de un sistema que permita alquilarlos de manera rápida y eficiente. En cuanto al diseño y funcionalidad, destacó positivamente la organización de la sección de scooters, la presentación clara de la información de cada vehículo y la utilidad de las reseñas para tomar decisiones informadas. Sin embargo, mencionó que una mejora que le gustaría ver es la posibilidad de ver el estado real de los scooters en tiempo real, como su nivel de batería y estado mecánico. Además, sugirió que una funcionalidad de rutas sugeridas o mapas interactivos para los usuarios sería útil, especialmente en zonas de Miraflores, donde las rutas para circular en scooter podrían optimizarse. En cuanto a lo que se podría quitar de la aplicación, Erick mencionó que algunas opciones de pago complicadas podrían ser simplificadas. Finalmente, recomendó mejorar la visibilidad de las estaciones de recogida y entrega de scooters, especialmente en zonas con alto tráfico, para facilitar la experiencia del usuario.
+Durante la entrevista, Juan expresó que lo que más le llama la atención del aplicativo es la facilidad de acceso a los scooters y la integración de un sistema que permita alquilarlos de manera rápida y eficiente. En cuanto al diseño y funcionalidad, destacó positivamente la organización de la sección de scooters, la presentación clara de la información de cada vehículo y la utilidad de las reseñas para tomar decisiones informadas. Sin embargo, mencionó que una mejora que le gustaría ver es la posibilidad de ver el estado real de los scooters en tiempo real, como su nivel de batería y estado mecánico. Además, sugirió que una funcionalidad de rutas sugeridas o mapas interactivos para los usuarios sería útil, especialmente en zonas de Miraflores, donde las rutas para circular en scooter podrían optimizarse. En cuanto a lo que se podría quitar de la aplicación, Erick mencionó que algunas opciones de pago complicadas podrían ser simplificadas. Finalmente, recomendó mejorar la visibilidad de las estaciones de recogida y entrega de scooters, especialmente en zonas con alto tráfico, para facilitar la experiencia del usuario.
 
-#### Entrevista 3:
-User Persona del Segmento Objetivo 1: Estudiante universitario
 
-![Image](https://github.com/user-attachments/assets/0ff1d631-3f1a-4172-9498-d6f49a09c27c)
+- Entrevista 6:
 
-Datos del entrevistador:
-* Nombres: Rafael Alberto 
-* Apellidos: Cuya Villegas
-
-Datos del entrevistado:
-* Nombres: Piero
-* Apellidos: Gamio
-* Edad: 23
-* Distrito de residencia: Cercado de Lima
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EVhvc1OYRgNAmmTCZNd1q8MBSkaaSu_z7c5eXOta-RkbAQ?e=7irmT0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* Duración de la entrevista: 7 minutos y 23 segundos
-
-*Informe del resumen de la entrevista:*
-
-Durante la entrevista, Piero expresó que lo que más le llama la atención del aplicativo es la facilidad en el manejo de la aplicacion. En cuanto al diseño y funcionalidad, destacó que le parece que tiene lo necesario para evitar ser muy complicado al momento del uso. Sin embargo, mencionó que una mejora es que en la aplicacion se muestre la ubicacion exacta del scooter. 
-
-#### Entrevista 4:
-User Persona del Segmento Objetivo 1: Estudiante universitario
-
-![Image](https://github.com/user-attachments/assets/e43a790d-9071-4c93-9dd6-f702d5e7c74c)
-
-Datos del entrevistador:
-* Nombres: Rafael Alberto 
-* Apellidos: Cuya Villegas
-
-Datos del entrevistado:
-* Nombres: Anapaula
-* Apellidos: Diaz
-* Edad: 23
-* Distrito de residencia: Cercado de Lima
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201913495_upc_edu_pe/EZ4YEGdZjkxFvAWr01nBdc8BuB7mhIJPL-zBOm_OQKYErw?e=qvBvom&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-* Duración de la entrevista: 8 minutos y 2 segundos
-
-*Informe del resumen de la entrevista:*
-
-Durante la entrevista, Anapaula nos comentó que lo que más le llama la atención del aplicativo es la facilidad en el manejo y que tiene un aspecto minimalista. Sin embargo, mencionó que una mejora que le gustaría ver es que la aplicacion muestre los limites hasta donde se puede llegar con el scooter. Además, recomendó que le gustaria que se agregue un contacto de emergencia y un soporte de la misma aplicacion en caso se sufra algun accidente.
-
-#### Entrevista 5:
-
-User Persona del Segmento Objetivo 2: Público Mayor de 18 Años que Reside en Miraflores, Lima
 ![USERR 5](https://github.com/user-attachments/assets/c97a1348-d079-4f82-bb31-ecab82d7cebf)
 
 Datos del entrevistador: 
@@ -4263,26 +4281,6 @@ Datos del entrevistado:
 *Informe del resumen de la entrevista:*
 
 Se realizó una entrevista a Jarol Saquiray, practicante de desarrollo de software de 22 años, residente en Miraflores y trabajador en Santiago de Surco, con el objetivo de obtener su opinión sobre una aplicación de alquiler de scooters. Jarol destacó como principal atractivo la facilidad para ubicar scooters disponibles en tiempo real, lo que considera clave para optimizar su movilidad. Opinó que el diseño es intuitivo y funcional, resaltando la utilidad de la información detallada de cada scooter y las reseñas. Sugirió incorporar rutas recomendadas y un sistema de recompensas para usuarios frecuentes. Como mejora, propuso reducir o personalizar las notificaciones, y recomendó incluir información sobre estacionamientos permitidos en Miraflores y alertas sobre eventos que afecten el tránsito.
-
-#### Entrevista 6:
-
-User Persona del Segmento Objetivo 1: Estudiante Universitario
-![USER 6](https://github.com/user-attachments/assets/611f5f23-87a6-42cc-8b0d-cd77b013d7a1)
-
-Datos del entrevistador: 
-* Nombres: Arnold Gabriel
-* Apellidos: Morales Sosa
-
-Datos del entrevistado:
-* Nombre y Apellido: Patrick Correa
-* Edad: 23 años
-* Distrito de residencia: San Borja
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/personal/u201822516_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201822516%5Fupc%5Fedu%5Fpe%2FDocuments%2Fsegmento%20objetivo%201%20%2D%20entrevista%20a%20Patrick%20Correa%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E81606a4c%2D7a55%2D40b4%2Db2b7%2D49043585e14b)
-* Duración: 13:29 minutos
-
-*Informe del resumen de la entrevista:*
-
-Durante la entrevista, Patrick Correa mostró interés sobre la aplicación, dijo que era una buena idea para que los universitarios puedan desplazarse con mayor rapidez y seguridad desde su universidad hasta su casa y viceversa. Además, le gustó el tema de las subscripciones porque es más práctico que otros sistemas similares que te cobran por millas o tiempo usado. Dijo que es una buena alternativa para estudiantes universitarios que tienen que ir a su centro de estudios casi diariamente. Sobre algún aspecto a mejorar, mencionó sobre la interfaz, le gustaría que tuviese un mejor diseño para que el usuario no se aburra mientras navega por las opciones. Además, mencionó que le gustaría que en la parte de los scooters esté más ordenado y se vea un forma vertical los scooters disponibles en relación a algo en común (como por ejemplo, orden por marca), ya que por el momento lo ve algo abrumador para el usuario universitario.
 
 
 #### 5.3.3. Evaluaciones según heurísticas. 
