@@ -2548,6 +2548,9 @@ Nuestro prototipo está diseñado con una estructura muy organizada; en los sigu
 
 ### 4.8.1. Database Diagram.
 
+A contiuación sem muestra el diagrama de la base de datos del proyecto, el cual fue realizado con la herramienta Vertabelo.
+![Base de datos](https://github.com/user-attachments/assets/13a3bad3-1cc1-4520-a2af-10ab75a15e18)
+
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
