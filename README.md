@@ -151,76 +151,6 @@
 
 <div style="page-break-before: always;"></div>
 
-
-## Student Outcome
-
-<table border="1px">
-    <tr>
-      <th>Criterio específico</th>
-      <th>Acciones realizadas</th>
-      <th>Conclusiones</th>
-    </tr>
-    <tr>
-      <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
-      <td>
-        - TB1 <br/>
-        - Rafael Cuya: Durante el desarrollo de la TB1, participé en diversas reuniones junto a mi equipo, en las que coordinamos la elaboración del informe y la creación de la landing page.
-        <br/><br/>
-        - Arnold Morales Sosa: Participé en las reuniones donde pude coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además, verifiqué si algo estaba mal o no. Me apoyé y enseñé a compañeros que no sabían usar dichos programas.<br/>
-        <br/>Flores Manrique, Sebastian: Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo. <br/>
-        <br/>Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico. <br/><br/>
-        Néstor Velarde Gonzales: Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realizé el Cap. 04, los diseños wireframes y Mock-ups tanto para landind page y aplicación web, usando las buenas prácticas y un diseño responsivo. <br><br>
-      	- TP1 <br/>
-        - Rafael Cuya: Durante el desarrollo del TP1, Trabajé en equipo asumiendo un rol de liderazgo compartido, participando activamente en la toma de decisiones y promoviendo la colaboración y el compromiso entre todos los integrantes.
-        <br/><br/>
-        -Flores Manrique Sebastian: Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend según algunos ideas de mejoras que dió mi equipo.<br><br>
-        -Velarde Nestor: Desarrollé del Front-End con buenas técnicas en algoritmos y según acordado con mi equipos hemos basado a usar las mismas técnicas de tipo de textos, colores y guiarse del prototipo (Figma).<br><br>
-        - Arnold Morales Sosa: Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo y aporté mis conocimientos desarrollando y apoyando en el proyecto.<br><br>
-	- TB2 <br/>
-	- Arnold Morales Sosa: Participé en las reuniones de equipo para entender mejor los procedimientos y tener claro lo que cada uno debe hacer, realicé las 2 entrevistas adicionales en relación al front-end deployado e hice parte del bounded context de subscriptionos para el backend.<br><br>
-	 - Rafael Cuya: Durante el desarrollo del Tb2, fomenté un ambiente de trabajo colaborativo, organizando, junto con mis compañero,s para realizar ls diversos puentos de la entrega y cumplir los objetivos con éxito.<br><br>
-      </td>
-      <td>
-        Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
-        <br/>La comunicación oral es muy importante y se reflejó con la terminación del trabajo. Hubiera sido más difícil si no hubiese dicha comunicación frecuente entre todos.
-      </td>
-    </tr>
-    <tr>
-      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
-      <td>
-        - <strong>TB1</strong> <br/>
-        - Rafael Cuya: Durante el desarrollo de la TB1 nos distribuimos las tareas de forma equitativa y establecimos plazos internos que me permitieron avanzar de manera organizada y cumplir con los objetivos del proyecto.
-        <br/><br/>
-        - Arnold Morales Sosa TB1: Investigué acerca de los posibles competidores y el impacto que generaría en nuestra marca, y qué hay que hacer para poder incentivar a los usuarios a que usen nuestra app viendo sus necesidades y quejas frecuentes usando transporte público y otros servicios similares.
-        <br/><br/>
-        - Flores Manrique, Sebastian: TB1 Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
-        <br/><br/>
-        - Percy Alonso Muñiz Huyanca: Fui responsable del desarrollo del capítulo 3 del informe, elaborando dos To-Be Scenario Maps para los segmentos persona adulta y estudiante universitario, así como dos Impact Mapping para ambos perfiles. Estas herramientas permitieron al equipo tener una visión clara de los usuarios objetivos. Además, apoyé en la redacción de fragmentos de código y colaboré en la revisión general del documento. Me mantuve comprometido en la planificación de tareas y en el cumplimiento de plazos, siempre buscando mantener la calidad del entregable. <br/><br/>
-        - Néstor Velarde Gonzales: Fue el encago de guiar cada estructura del proyecto, realizé los user histories basasos en las entrevistas y cada finalización de capitulo realizamos una breve corrección entre integrantes de equipo. 
-	         <br/><br/>
-	        - <strong>TP1</strong>
-	         <br/><br/>
-	      Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del Trabajo Parcial, participé activamente en el desarrollo de la épica 5, realicé correcciones de errores identificados en etapas anteriores, y efectué múltiples commits en el repositorio de Git para mantener el avance del proyecto documentado y organizado. Me encargué del diseño y gestión de la base de datos, asegurando su correcta estructura y funcionalidad. Además, grabé el video de la exposición final del equipo y trabajé en base a las recomendaciones recibidas en el TB1, lo que me permitió mejorar tanto en lo técnico como en la comunicación y coordinación con el grupo.
-	      <br/><br/>
-	       - Rafael Cuya: Durante el desarrollo del TP1, fomenté un ambiente de trabajo inclusivo y colaborativo, ayudando a definir metas claras, organizar tareas y asegurarme de que cumpliéramos con los objetivos establecidos para el desarrollo del frontend.<br><br>
-        -Flores Manrique Sebastian: Me encargué de investigar los componentes de prime vue, para poder implementarlos correctamente en el frontEnd.
-        <br><br>
-        -Velarde Nestor: Me encargué de la creación de los componentes del frontend y la corrección de errores en el código, así como de la revisión del trabajo de mis compañeros. <br/><br/>
-        - Arnold Morales Sosa: Apoyé de manera colaborativa en el front-end, junté mi rama y corregí errores. Planifiqué mi tarea y compromiso en el trabajo en el tiempo que tuve y cumplí satisfactoriamente mis objetivos.
-	      <br/><br/>
-	- TB2 <br/>
-	- Arnold Morales Sosa: Apoyé en la realización del informe, en la colocación y ejecución de las 2 entrevistas restantes para los 2 segmentos objetivos de nuestro trabajo en el tiempo establecido. Planifiqué la realización de los entregables a tiempo, la parte del bounded context de subscription del backend se realizó en el tiempo estimado y cumplí los objetivos y puntos a tener en cuenta de este entregable.<br><br>
-	 - Rafael Cuya: Durante el desarrollo del TB2, contribuí activamente elaborando una sección del informe y el video about the product. Además, en el repositorio del backend, desarrollé el contexto Reservation. Mi participación se centró en fomentar un entorno de trabajo colaborativo, planificar tareas de manera eficiente y establecer plazos realistas para asegurar el cumplimiento de los objetivos del proyecto.  <br><br>
-      </td>
-      <td>
-        La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
-        <br/>Se tiene que saber el contexto real de lo que uno quiere hacer a la hora de emprender y hacer un proyecto innovador para ayudar a usuarios con problemas reales que no sabían que requerían, pero que sería de gran ayuda si existiese algo así de eficaz y seguro.
-      </td>
-    </tr>
-  </table>
-
-  <div style="page-break-before: always;"></div>
-
 ## Contenido
 
 ### [Student Outcome](#student-outcome)
@@ -327,7 +257,7 @@
   - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
   - [5.3.3. Evaluaciones según herústicas](#533-evaluaciones-según-heurísticas)
-  - [5.3.4. Video About-the-Product](#534-video-about-the-product)
+- **[5.4. Video About-the-Product](#54-video-about-the-product)**
   
 
 
@@ -340,6 +270,77 @@
 ### [Anexos](#anexos)
 
 <div style="page-break-before: always;"></div>
+
+
+# Student Outcome
+
+<table border="1px">
+    <tr>
+      <th>Criterio específico</th>
+      <th>Acciones realizadas</th>
+      <th>Conclusiones</th>
+    </tr>
+    <tr>
+      <td>Trabaja en equipo para proporcionar liderazgo en forma conjunta</td>
+      <td>
+        - TB1 <br/>
+        - Rafael Cuya: Durante el desarrollo de la TB1, participé en diversas reuniones junto a mi equipo, en las que coordinamos la elaboración del informe y la creación de la landing page.
+        <br/><br/>
+        - Arnold Morales Sosa: Participé en las reuniones donde pude coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además, verifiqué si algo estaba mal o no. Me apoyé y enseñé a compañeros que no sabían usar dichos programas.<br/>
+        <br/>Flores Manrique, Sebastian: Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo. <br/>
+        <br/>Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico. <br/><br/>
+        Néstor Velarde Gonzales: Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realizé el Cap. 04, los diseños wireframes y Mock-ups tanto para landind page y aplicación web, usando las buenas prácticas y un diseño responsivo. <br><br>
+      	- TP1 <br/>
+        - Rafael Cuya: Durante el desarrollo del TP1, Trabajé en equipo asumiendo un rol de liderazgo compartido, participando activamente en la toma de decisiones y promoviendo la colaboración y el compromiso entre todos los integrantes.
+        <br/><br/>
+        -Flores Manrique Sebastian: Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend según algunos ideas de mejoras que dió mi equipo.<br><br>
+        -Velarde Nestor: Desarrollé del Front-End con buenas técnicas en algoritmos y según acordado con mi equipos hemos basado a usar las mismas técnicas de tipo de textos, colores y guiarse del prototipo (Figma).<br><br>
+        - Arnold Morales Sosa: Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo y aporté mis conocimientos desarrollando y apoyando en el proyecto.<br><br>
+	- TB2 <br/>
+	- Arnold Morales Sosa: Participé en las reuniones de equipo para entender mejor los procedimientos y tener claro lo que cada uno debe hacer, realicé las 2 entrevistas adicionales en relación al front-end deployado e hice parte del bounded context de subscriptionos para el backend.<br><br>
+	 - Rafael Cuya: Durante el desarrollo del Tb2, fomenté un ambiente de trabajo colaborativo, organizando, junto con mis compañero,s para realizar ls diversos puentos de la entrega y cumplir los objetivos con éxito.<br><br>
+      </td>
+      <td>
+        Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
+        <br/>La comunicación oral es muy importante y se reflejó con la terminación del trabajo. Hubiera sido más difícil si no hubiese dicha comunicación frecuente entre todos.
+      </td>
+    </tr>
+    <tr>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+      <td>
+        - <strong>TB1</strong> <br/>
+        - Rafael Cuya: Durante el desarrollo de la TB1 nos distribuimos las tareas de forma equitativa y establecimos plazos internos que me permitieron avanzar de manera organizada y cumplir con los objetivos del proyecto.
+        <br/><br/>
+        - Arnold Morales Sosa TB1: Investigué acerca de los posibles competidores y el impacto que generaría en nuestra marca, y qué hay que hacer para poder incentivar a los usuarios a que usen nuestra app viendo sus necesidades y quejas frecuentes usando transporte público y otros servicios similares.
+        <br/><br/>
+        - Flores Manrique, Sebastian: TB1 Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus necesidades y desafíos.
+        <br/><br/>
+        - Percy Alonso Muñiz Huyanca: Fui responsable del desarrollo del capítulo 3 del informe, elaborando dos To-Be Scenario Maps para los segmentos persona adulta y estudiante universitario, así como dos Impact Mapping para ambos perfiles. Estas herramientas permitieron al equipo tener una visión clara de los usuarios objetivos. Además, apoyé en la redacción de fragmentos de código y colaboré en la revisión general del documento. Me mantuve comprometido en la planificación de tareas y en el cumplimiento de plazos, siempre buscando mantener la calidad del entregable. <br/><br/>
+        - Néstor Velarde Gonzales: Fue el encago de guiar cada estructura del proyecto, realizé los user histories basasos en las entrevistas y cada finalización de capitulo realizamos una breve corrección entre integrantes de equipo. 
+	         <br/><br/>
+	        - <strong>TP1</strong>
+	         <br/><br/>
+	      Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del Trabajo Parcial, participé activamente en el desarrollo de la épica 5, realicé correcciones de errores identificados en etapas anteriores, y efectué múltiples commits en el repositorio de Git para mantener el avance del proyecto documentado y organizado. Me encargué del diseño y gestión de la base de datos, asegurando su correcta estructura y funcionalidad. Además, grabé el video de la exposición final del equipo y trabajé en base a las recomendaciones recibidas en el TB1, lo que me permitió mejorar tanto en lo técnico como en la comunicación y coordinación con el grupo.
+	      <br/><br/>
+	       - Rafael Cuya: Durante el desarrollo del TP1, fomenté un ambiente de trabajo inclusivo y colaborativo, ayudando a definir metas claras, organizar tareas y asegurarme de que cumpliéramos con los objetivos establecidos para el desarrollo del frontend.<br><br>
+        -Flores Manrique Sebastian: Me encargué de investigar los componentes de prime vue, para poder implementarlos correctamente en el frontEnd.
+        <br><br>
+        -Velarde Nestor: Me encargué de la creación de los componentes del frontend y la corrección de errores en el código, así como de la revisión del trabajo de mis compañeros. <br/><br/>
+        - Arnold Morales Sosa: Apoyé de manera colaborativa en el front-end, junté mi rama y corregí errores. Planifiqué mi tarea y compromiso en el trabajo en el tiempo que tuve y cumplí satisfactoriamente mis objetivos.
+	      <br/><br/>
+	- TB2 <br/>
+	- Arnold Morales Sosa: Apoyé en la realización del informe, en la colocación y ejecución de las 2 entrevistas restantes para los 2 segmentos objetivos de nuestro trabajo en el tiempo establecido. Planifiqué la realización de los entregables a tiempo, la parte del bounded context de subscription del backend se realizó en el tiempo estimado y cumplí los objetivos y puntos a tener en cuenta de este entregable.<br><br>
+	 - Rafael Cuya: Durante el desarrollo del TB2, contribuí activamente elaborando una sección del informe y el video about the product. Además, en el repositorio del backend, desarrollé el contexto Reservation. Mi participación se centró en fomentar un entorno de trabajo colaborativo, planificar tareas de manera eficiente y establecer plazos realistas para asegurar el cumplimiento de los objetivos del proyecto.  <br><br>
+      </td>
+      <td>
+        La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
+        <br/>Se tiene que saber el contexto real de lo que uno quiere hacer a la hora de emprender y hacer un proyecto innovador para ayudar a usuarios con problemas reales que no sabían que requerían, pero que sería de gran ayuda si existiese algo así de eficaz y seguro.
+      </td>
+    </tr>
+  </table>
+
+<div style="page-break-before: always;"></div>
+
 
 # Capítulo I: Introducción
 
@@ -3548,7 +3549,7 @@ Para el desarrollo del Front end hemos desarrollado un total de 35 commits para 
 <div style="page-break-before: always;"></div>
 
 #### 5.2.3. Sprint 03
-#### 5.2.3.1. Spring Planning 03. 
+#### 5.2.3.1. Sprint Planning 03. 
 <table border="1px" align="center">
      <tr> 
         <th> Sprint # </th>
@@ -4255,28 +4256,30 @@ Durante la entrevista, Patrick Correa mostró interés sobre la aplicación, dij
 
 [Link Youtube](https://youtu.be/bFDIkwr33TM)
 
-#### Conclusiones preliminares
+# Conclusiones
+
+#### Conclusiones y recomendaciones
+
+- Conclusiones:
 
 - TB1:
   Se logró realizar un trabajo exhaustiva cumpliendo con todos los segmentos del trabajo y una investigación de mercado que permitió identificar las necesidades de los usuarios y las oportunidades de negocio. Se logró entregar un documento que sirve como sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto desarrollado por el equipo CiberMach.
   Desde la primera semana de clases, el equipo se organizó para cumplir con los entregables de cada semana, realizando reuniones semanales para verficar los cumplimientos de los objetivos y la planificación de las tareas. Se logró una comunicación efectiva entre los miembros del equipo, lo que permitió cumplir con los plazos establecidos y realizar un trabajo de calidad.
 
-# [About The Team](#about-the-team)
+- Recomendaciones
+Nuestro contexto actual afronta una serie de problemas en el transporte urbano, como la congestión vehicular, la contaminación ambiental
+y falta de infraestructura se recomienda analizar y proponer nuevas ideas de soluciones que mejoren la calidad de vida de las personas
+y promuevan el uso de vehículos ecológicos.
+
+# Video About-the-Team
 
 En esta sección tenemos el video About The Team, donde cada integrante se presenta y explica sus aportes al proyecto.
 
 Link del video About The Team: [About The Team]()
 
-
-# [Recomendaciones](#recomendaciones)
-
-Nuestro contexto actual afronta una serie de problemas en el transporte urbano, como la congestión vehicular, la contaminación ambiental
-y falta de infraestructura se recomienda analizar y proponer nuevas ideas de soluciones que mejoren la calidad de vida de las personas
-y promuevan el uso de vehículos ecológicos.
-
 <div style="page-break-before: always;"></div>
 
-# [Bibliografía](#bibliografía)
+# Bibliografía
 
 - Aguirre, C., Canelo, G., & Mendiola, L. (2024). *Una mirada hacia la movilidad sostenible*. Recuperado de [https://observatorio.esan.edu.pe/wp-content/uploads/2024/03/Libro-Movilidad-urbana-vfinal.pdf](https://observatorio.esan.edu.pe/wp-content/uploads/2024/03/Libro-Movilidad-urbana-vfinal.pdf) [Consulta: 24 de agosto, 2024].
 
@@ -4295,7 +4298,7 @@ y promuevan el uso de vehículos ecológicos.
 
 <div style="page-break-before: always;"></div>
 
-# [Anexos](#anexos)
+# Anexos
 
 Enlaces a los desarrollos de trabajo del equipo CiberMach.
 
