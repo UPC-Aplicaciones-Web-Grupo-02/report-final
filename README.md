@@ -4270,7 +4270,7 @@ Durante la entrevista, Juan expresó que lo que más le llama la atención del a
 
 - Entrevista 6:
 
-![USERR 5](https://github.com/user-attachments/assets/c97a1348-d079-4f82-bb31-ecab82d7cebf)
+![USER 5](https://github.com/user-attachments/assets/399fb22b-927d-40a0-a64f-c8c2a64799e9)
 
 Datos del entrevistador: 
 * Nombres: Percy Alonso	
@@ -4280,7 +4280,7 @@ Datos del entrevistado:
 * Nombre y Apellido: Jarol Saquiray
 * Edad: 22 años
 * Distrito de residencia: Miraflores
-* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EZJl0nBLpFdBryzPGIqXZF4BqPYYs5ZKXolyorQszmUxyg?e=sQekBv)
+* Enlace a la entrevista: [Ver Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202319563_upc_edu_pe/EVeJ031u2wlIqj5xYVyk2g8BsNyw8wmqdlW3y52cCqXnGg?e=YfVXjD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 * Duración de la entrevista: 3 minutos
 
 *Informe del resumen de la entrevista:*
