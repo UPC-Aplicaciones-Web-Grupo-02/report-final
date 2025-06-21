@@ -178,7 +178,7 @@
         - Arnold Morales Sosa: Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo y aporté mis conocimientos desarrollando y apoyando en el proyecto.<br><br>
 	- TB2 <br/>
 	- Arnold Morales Sosa: Participé en las reuniones de equipo para entender mejor los procedimientos y tener claro lo que cada uno debe hacer, realicé las 2 entrevistas adicionales en relación al front-end deployado e hice parte del bounded context de subscriptionos para el backend.<br><br>
-	 - Rafael Cuya: Durante el desarrollo del Tb2, fomenté un ambiente de trabajo colaborativo, organizandonos junto con mis compañeros para realizar ls diversos puentos de la entrega y cumplir los objetivos con éxito.<br><br>
+	 - Rafael Cuya: Durante el desarrollo del Tb2, fomenté un ambiente de trabajo colaborativo, organizando, junto con mis compañero,s para realizar ls diversos puentos de la entrega y cumplir los objetivos con éxito.<br><br>
       </td>
       <td>
         Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
