@@ -320,20 +320,25 @@
       <td>
         - TB1 <br/>
         - Rafael Cuya: Durante el desarrollo de la TB1, participé en diversas reuniones junto a mi equipo, en las que coordinamos la elaboración del informe y la creación de la landing page.
-        <br/><br/>
-        - Arnold Morales Sosa: Participé en las reuniones donde pude coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además, verifiqué si algo estaba mal o no. Me apoyé y enseñé a compañeros que no sabían usar dichos programas.<br/>
-        <br/>Flores Manrique, Sebastian: Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo. <br/>
-        <br/>Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico. <br/><br/>
-        Néstor Velarde Gonzales: Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realizé el Cap. 04, los diseños wireframes y Mock-ups tanto para landind page y aplicación web, usando las buenas prácticas y un diseño responsivo. <br><br>
+        <br/>
+        <br/>- Arnold Morales Sosa: Participé en las reuniones donde pude coordinar los puntos necesarios para poder acabar satisfactoriamente con el informe y la landing page. Además, verifiqué si algo estaba mal o no. Me apoyé y enseñé a compañeros que no sabían usar dichos programas.
+        <br/>
+        <br/>- Flores Manrique, Sebastian: Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo. 
+        <br/>
+        <br/>- Percy Alonso Muñiz Huyanca: A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las tareas, objetivos y cronograma. Mostré iniciativa al proponer ideas y brindar apoyo técnico a mis compañeros, sobre todo en la parte visual y estructural del documento. Fomenté un ambiente de colaboración abierta, aportando desde lo técnico hasta lo estratégico. 
+        <br/>
+        <br/>- Néstor Velarde Gonzales: Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realizé el Cap. 04, los diseños wireframes y Mock-ups tanto para landind page y aplicación web, usando las buenas prácticas y un diseño responsivo. <br><br>
       	- TP1 <br/>
         - Rafael Cuya: Durante el desarrollo del TP1, Trabajé en equipo asumiendo un rol de liderazgo compartido, participando activamente en la toma de decisiones y promoviendo la colaboración y el compromiso entre todos los integrantes.
         <br/><br/>
         -Flores Manrique Sebastian: Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend según algunos ideas de mejoras que dió mi equipo.<br><br>
         -Velarde Nestor: Desarrollé del Front-End con buenas técnicas en algoritmos y según acordado con mi equipos hemos basado a usar las mismas técnicas de tipo de textos, colores y guiarse del prototipo (Figma).<br><br>
         - Arnold Morales Sosa: Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo y aporté mis conocimientos desarrollando y apoyando en el proyecto.<br><br>
-	- TB2 <br/>
-	- Arnold Morales Sosa: Participé en las reuniones de equipo para entender mejor los procedimientos y tener claro lo que cada uno debe hacer, realicé las 2 entrevistas adicionales en relación al front-end deployado e hice parte del bounded context de subscriptionos para el backend.<br><br>
-	 - Rafael Cuya: Durante el desarrollo del Tb2, fomenté un ambiente de trabajo colaborativo, organizando, junto con mis compañero,s para realizar ls diversos puentos de la entrega y cumplir los objetivos con éxito.<br><br>
+      	- TB2 <br/>
+      	- Arnold Morales Sosa: Participé en las reuniones de equipo para entender mejor los procedimientos y tener claro lo que cada uno debe hacer, realicé las 2 entrevistas adicionales en relación al front-end deployado e hice parte del bounded context de subscriptionos para el backend.
+    	  <br>
+        <br>- Rafael Cuya: Durante el desarrollo del Tb2, fomenté un ambiente de trabajo colaborativo, organizando, junto con mis compañero,s para realizar ls diversos puentos de la entrega y cumplir los objetivos con éxito.<br><br>
+        <br>- Néstor Velarde Gonzales: Para esta avance del proyecto, desarrollé e lideré la parte de Backend, en total se ha concluido 4 Bound Context en un avance del 80%, organicé las reuniones necesarias para cada avance iteración. <br><br>
       </td>
       <td>
         Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
@@ -363,14 +368,15 @@
         -Velarde Nestor: Me encargué de la creación de los componentes del frontend y la corrección de errores en el código, así como de la revisión del trabajo de mis compañeros. <br/><br/>
         - Arnold Morales Sosa: Apoyé de manera colaborativa en el front-end, junté mi rama y corregí errores. Planifiqué mi tarea y compromiso en el trabajo en el tiempo que tuve y cumplí satisfactoriamente mis objetivos.
 	      <br/><br/>
-	- TB2 <br/>
-	- Arnold Morales Sosa: Apoyé en la realización del informe, en la colocación y ejecución de las 2 entrevistas restantes para los 2 segmentos objetivos de nuestro trabajo en el tiempo establecido. Planifiqué la realización de los entregables a tiempo, la parte del bounded context de subscription del backend se realizó en el tiempo estimado y cumplí los objetivos y puntos a tener en cuenta de este entregable.<br><br>
-	 - Rafael Cuya: Durante el desarrollo del TB2, contribuí activamente elaborando una sección del informe y el video about the product. Además, en el repositorio del backend, desarrollé el contexto Reservation. Mi participación se centró en fomentar un entorno de trabajo colaborativo, planificar tareas de manera eficiente y establecer plazos realistas para asegurar el cumplimiento de los objetivos del proyecto.  <br><br>
-      </td>
-      <td>
-        La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
-        <br/>Se tiene que saber el contexto real de lo que uno quiere hacer a la hora de emprender y hacer un proyecto innovador para ayudar a usuarios con problemas reales que no sabían que requerían, pero que sería de gran ayuda si existiese algo así de eficaz y seguro.
-      </td>
+      	- TB2 <br/>
+      	- Arnold Morales Sosa: Apoyé en la realización del informe, en la colocación y ejecución de las 2 entrevistas restantes para los 2 segmentos objetivos de nuestro trabajo en el tiempo establecido. Planifiqué la realización de los entregables a tiempo, la parte del bounded context de subscription del backend se realizó en el tiempo estimado y cumplí los objetivos y puntos a tener en cuenta de este entregable.<br><br>
+      	 - Rafael Cuya: Durante el desarrollo del TB2, contribuí activamente elaborando una sección del informe y el video about the product. Además, en el repositorio del backend, desarrollé el contexto Reservation. Mi participación se centró en fomentar un entorno de trabajo colaborativo, planificar tareas de manera eficiente y establecer plazos realistas para asegurar el cumplimiento de los objetivos del proyecto.  <br><br>
+      	 - Néstor Velarde Gonzales: Contribuí al desarrollo del backend de nuestro producto de software, además realicé las mojoras adecudas del Frontend finalizando al 100%, organicé las reuniones necesarias para verificar los avances de cada participante de equipo Movix. 
+        </td>
+          <td>
+              La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
+              <br/>Se tiene que saber el contexto real de lo que uno quiere hacer a la hora de emprender y hacer un proyecto innovador para ayudar a usuarios con problemas reales que no sabían que requerían, pero que sería de gran ayuda si existiese algo así de eficaz y seguro.
+        </td>
     </tr>
   </table>
 
@@ -2448,6 +2454,8 @@ Nuestro prototipo está diseñado con una estructura muy organizada; en los sigu
 
 ### 4.7.1. Class Diagrams.
 
+![Image](https://github.com/user-attachments/assets/568613a2-d75a-4f47-a8c6-a8ad23871d84)
+
 ### 4.7.2. Class Dictionary.
 
 <table align="center" border="1px">
@@ -2584,6 +2592,7 @@ Nuestro prototipo está diseñado con una estructura muy organizada; en los sigu
 ### 4.8.1. Database Diagram.
 
 A contiuación sem muestra el diagrama de la base de datos del proyecto, el cual fue realizado con la herramienta Vertabelo.
+
 ![Base de datos](https://github.com/user-attachments/assets/13a3bad3-1cc1-4520-a2af-10ab75a15e18)
 
 # Capítulo V: Product Implementation, Validation & Deployment
