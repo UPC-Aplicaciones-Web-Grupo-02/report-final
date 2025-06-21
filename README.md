@@ -2939,7 +2939,6 @@ En el primer Sprint se realizó la implementación de la landing page con las se
 
 Link de nuestra landing page: [Visita nuestro sitio](https://upc-aplicaciones-web-grupo-02.github.io/landing-page/)
 
-**Versión Web**
 
 - Portada de nuestra landing page
 ![Home](https://github.com/user-attachments/assets/0cd1e3d3-cef1-4d15-bfee-dedc16b3e6c7)
@@ -2994,7 +2993,7 @@ Para el despliegue de la landing page usamos la herramienta github pages, a cont
 ![Image](https://github.com/user-attachments/assets/2d1b8f09-1a53-4daa-a54f-57ffa17a16ab)
 
 - Finalmente se muestra nuestra landing page.
-![Image](https://github.com/user-attachments/assets/eb356fe5-8ab8-42b0-bc55-02bdc874ac0c)
+![Home](https://github.com/user-attachments/assets/0cd1e3d3-cef1-4d15-bfee-dedc16b3e6c7)
 
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
