@@ -175,7 +175,9 @@
         <br/><br/>
         -Flores Manrique Sebastian: Realicé la correción de los artefactos previamente presentados y la elaboración de algunos components en el frontend según algunos ideas de mejoras que dió mi equipo.<br><br>
         -Velarde Nestor: Desarrollé del Front-End con buenas técnicas en algoritmos y según acordado con mi equipos hemos basado a usar las mismas técnicas de tipo de textos, colores y guiarse del prototipo (Figma).<br><br>
-        - Arnold Morales Sosa:Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo y aporté mis conocimientos desarrollando y apoyando en el proyecto.
+        - Arnold Morales Sosa: Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo y aporté mis conocimientos desarrollando y apoyando en el proyecto.<br><br>
+	- TB2 <br/>
+	- Arnold Morales Sosa: Participé en las reuniones de equipo para entender mejor los procedimientos y tener claro lo que cada uno debe hacer, realicé las 2 entrevistas adicionales en relación al front-end deployado e hice parte del bounded context de subscriptionos para el backend.<br><br>
       </td>
       <td>
         Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
@@ -205,6 +207,8 @@
         -Velarde Nestor: Me encargué de la creación de los componentes del frontend y la corrección de errores en el código, así como de la revisión del trabajo de mis compañeros. <br/><br/>
         - Arnold Morales Sosa: Apoyé de manera colaborativa en el front-end, junté mi rama y corregí errores. Planifiqué mi tarea y compromiso en el trabajo en el tiempo que tuve y cumplí satisfactoriamente mis objetivos.
 	      <br/><br/>
+	- TB2 <br/>
+	- Arnold Morales Sosa: Apoyé en la realización del informe, en la colocación y ejecución de las 2 entrevistas restantes para los 2 segmentos objetivos de nuestro trabajo en el tiempo establecido. Planifiqué la realización de los entregables a tiempo, la parte del bounded context de subscription del backend se realizó en el tiempo estimado y cumplí los objetivos y puntos a tener en cuenta de este entregable.<br><br>
       </td>
       <td>
         La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
