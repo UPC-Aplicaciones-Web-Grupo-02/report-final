@@ -178,6 +178,7 @@
         - Arnold Morales Sosa: Trabajé en la realización del front-end en equipo. Participé en las reuniones del equipo para un trabajo óptimo y aporté mis conocimientos desarrollando y apoyando en el proyecto.<br><br>
 	- TB2 <br/>
 	- Arnold Morales Sosa: Participé en las reuniones de equipo para entender mejor los procedimientos y tener claro lo que cada uno debe hacer, realicé las 2 entrevistas adicionales en relación al front-end deployado e hice parte del bounded context de subscriptionos para el backend.<br><br>
+	 - Rafael Cuya: Durante el desarrollo del Tb2, fomenté un ambiente de trabajo colaborativo, organizandonos junto con mis compañeros para realizar ls diversos puentos de la entrega y cumplir los objetivos con éxito.<br><br>
       </td>
       <td>
         Durante el trabajo en equipo y multidisciplinario nos ha proporcionado una mejor comprensión sólida de cómo trabajar en equipo para desarrollar software de alta calidad que satisfaga las necesidades de los usuarios y del negocio.
@@ -209,6 +210,7 @@
 	      <br/><br/>
 	- TB2 <br/>
 	- Arnold Morales Sosa: Apoyé en la realización del informe, en la colocación y ejecución de las 2 entrevistas restantes para los 2 segmentos objetivos de nuestro trabajo en el tiempo establecido. Planifiqué la realización de los entregables a tiempo, la parte del bounded context de subscription del backend se realizó en el tiempo estimado y cumplí los objetivos y puntos a tener en cuenta de este entregable.<br><br>
+	 - Rafael Cuya: Durante el desarrollo del TB2, contribuí activamente elaborando una sección del informe y el video about the product. Además, en el repositorio del backend, desarrollé el contexto Reservation. Mi participación se centró en fomentar un entorno de trabajo colaborativo, planificar tareas de manera eficiente y establecer plazos realistas para asegurar el cumplimiento de los objetivos del proyecto.  <br><br>
       </td>
       <td>
         La experiencia en la investigación del negocio demostró nuestra capacidad para comprender y aplicar conocimientos específicos del sector en la creación de soluciones tecnológicas efectivas.
