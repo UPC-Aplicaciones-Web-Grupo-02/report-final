@@ -4285,6 +4285,85 @@ Se realizó una entrevista a Jarol Saquiray, practicante de desarrollo de softwa
 
 #### 5.3.3. Evaluaciones según heurísticas. 
 
+La sección de evaluaciones según Heurísticas se enfoca en revisar la experiencia de usuario de *Movix* utulizando principios de usabilidad, así determinamos si la plataforma es intuitiva, concisa, consistente y fácil de manejar. Analizar distintos aspectos como la visibilidad de las opciones y la coherencia del diseño, esto nos ayuda a la identificación de problemas y ver mejoras. 
+
+* Carrera: Ingeniería de Software
+* Curso: Desarrollo de Aplicaciones Web
+* Profesor: Alex Humberto Sánchez Ponce
+* Auditor: Grupo 02
+* Cliente: Estudiantes Universitarios y usuarios mayores de 18 años residentes de Miraflores
+* SITE o APP a evaluvar: Movix
+
+### Tareas a evaluar: Web Application
+1. Registro y creación de perfil del estudiante universitario o usuario mayor de 18 años residente de Miraflores
+2. Visualización de perfil del usuario mostrada en su sección
+3. Gestión del scooter dado en alquiler
+4. Configuración de la búsqueda de scooters puestos en alquiler por parte de los usuarios
+5. Métodos de pago (suscripciones) y seguridad de datos
+6. Gestión de las reservas hechas para el scooter
+7. Cancelación de dicha reserva
+9. Configuración y visualización del historial de scooters alquilados
+10. Eliminación del historial de scooters alquilados
+11. Revisión y gestión de comentarios y reseñas.
+
+### Escala de severidad
+
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
+
+| **Nivel** | **Descripción**                                                                                                                                                       |
+| --------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1         | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con poca frecuencia. No necesita ser arreglado salvo que haya tiempo.                     |
+| 2         | Problema menor: ocurre con más frecuencia o es un poco más difícil de superar para el usuario. Debería solucionarse con prioridad baja para el siguiente lanzamiento. |
+| 3         | Problema mayor: ocurre frecuentemente o los usuarios no pueden resolverlo. Es importante corregirlo y debe tener prioridad alta.                                      |
+| 4         | Problema muy grave: un error crítico que impide al usuario continuar usando la herramienta. Debe corregirse antes del lanzamiento.                                    |
+
+### Tabla de resumen
+
+| **Numero** | **Problema**                                                                       | **Escala de severidad** | **Heurística/Principio violada(o)**                    |
+| ---------- | ---------------------------------------------------------------------------------- | ----------------------- | ------------------------------------------------------ |
+| 1          | No hay un control que permita ver el estado del scooter puesto en alquiler en tiempo real.    | 3                       | Usability: Visibilidad del estado del sistema             |
+| 2          | No hay alertas automáticos para notificar la reserva del scooter.                 | 1                       | Usability: Consistencia y estándares                   |
+| 3          | Falta de opción de comunicación directa con usuarios dentro de la plataforma.      | 3                       | Inclusive Design: Proporciona experiencias comparables |
+| 4          | No hay una política clara sobre la cobertura de seguros en caso de daños menores.  | 3                       | Information Architecture: Is it usable?                |
+| 5          | No hay visualización ni reporte automático de ganancias y alquileres de scooters. | 4                       | Information Architecture: Is it findable?              |
+
+### Descripción de problemas
+
+**PROBLEMA #1**: No hay un control que permita ver el estado del scooter puesto en alquiler en tiempo real.
+
+- **Severidad**: 3
+- **Heurística violada**: Visibilidad del estado del sistema
+- **Descripción**: Los usuarios no pueden monitorear como está su scooter dentro de la app (tanto los que alquilan como los que pusieron en alquiler su scooter).
+- **Recomendación**: Implementar un sistema de seguimiento en tiempo real en el eque ambos usuarios puedan ver en una misma plataforma el estado del scooter.
+
+**PROBLEMA #2**: No hay alertas automáticos para notificar la reserva del scooter.
+
+- **Severidad**: 1
+- **Heurística violada**: Consistencia y estándares 
+- **Descripción**: La plataforma carece de alertas personalizadas para notificar la reserva del scooter, lo cual haría un poco dificil para el usuario que puso su scooter en alquiler en saber si ya reservaron su scooter al estar fuera de la plataforma.
+- **Recomendación**: Agregar la funcionalidad de notificar los procesos más importantes para que los usuarios puedan estar al tanto de la situación de lo que hacen.
+
+**PROBLEMA #3**: Falta de opción de comunicación directa con usuarios dentro de la plataforma.
+
+- **Severidad**: 3
+- **Heurística violada**: Proporciona experiencias comparables
+- **Descripción**: No hay un apartado para que los usuarios que reservaron su scooter puedan contactarse con el otro para que haya un seguimiento.
+- **Recomendación**: Agregar la funiconalidad de un chat en tiempo real para que haya mayor comunicación entre ambos lados.
+
+**PROBLEMA #4**: No hay una política clara sobre la cobertura de seguros en caso de daños menores.
+
+- **Severidad**: 3
+- **Heurística violada**: Is it usable? 
+- **Descripción**: No se evidencia alguna cobertura de seguros por si sucede algún percance con alguno de los scooters puestos en alquiler gracias a nuestra plataforma.
+- **Recomendación**: Tener un programa de seguros dada por un tercero (proveedor) para que haya un control de daños.
+
+**PROBLEMA #5**: No hay visualización ni reporte automático de ganancias y alquileres de scooters.
+
+- **Severidad**: 4
+- **Heurística violada**: Is it usable? 
+- **Descripción**: No hay reporte sobre las ganancias que generarían los que ponen en alquiler sus scooters y prestan servicios a *Movix*.
+- **Recomendación**: Tener claro cuales serán dichas ganancias y colocarlo en nuestro apartado de preguntas frecuentes o como un dato adicional dentro de la landing page.
+
 #### 5.4. Video About-the-Product. 
 
 ![Image](https://github.com/user-attachments/assets/0a558e40-a87e-402e-943a-2fd76eb3377e)
