@@ -3960,10 +3960,10 @@ Para esta entrega, el equipo Movix logró implementar de manera exitosa el front
 Enlace del deploy de la web app:
 👉 https://cozy-cendol-ad274a.netlify.app/login
 
-En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público tanto nuestro producto mediante un video promocional como a nuestro equipo.
+En el landing page se agregaron los videos about the product y about the team, para que de ese modo podamos dar a conocer de mejor manera al público muestro producto.
 
 Enlace del deploy de la landing page:
-👉 "Falta agregar link"
+👉 https://upc-aplicaciones-web-grupo-02.github.io/landing-page/
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. 
 
