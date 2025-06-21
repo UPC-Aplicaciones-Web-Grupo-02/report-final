@@ -93,7 +93,7 @@
   <tr>
     <td>1.4</td>
     <td>21/04/25</td>
-    <td>Rafael Cuya</td>
+    <td>Cuya Villegas, Rafael</td>
     <td>Desarrollo capitulo 5</td>
   </tr>
   <tr>
@@ -129,8 +129,32 @@
   <tr>
     <td>3.1</td>
     <td>18/06/25</td>
-    <td>Néstor Velarde Gonzales</td>
+    <td>Velarde Gonzales, Néstor</td>
     <td>Desarollo de Backend la parte de BoundContext Profile.</td>
+  </tr>
+  <tr>
+    <td>3.2</td>
+    <td>18/06/25</td>
+    <td>Floes Manrique, Sebastian Enrique</td>
+    <td>Desarollo de Backend la parte de BoundContext Scooter Management.</td>
+  </tr>
+  <tr>
+    <td>3.3</td>
+    <td>18/06/25</td>
+    <td>Morales Sosa, Arnold</td>
+    <td>Desarollo de Backend la parte de BoundContext Subscription</td>
+  </tr>
+  <tr>
+    <td>3.4</td>
+    <td>18/06/25</td>
+    <td>Cuya Villegas, Rafael</td>
+    <td>Desarollo de Backend la parte de BoundContext Subscription</td>
+  </tr>
+  <tr>
+    <td>3.5</td>
+    <td>18/06/25</td>
+    <td>Muñiz Huayanca, Percy Alonso</td>
+    <td>Desarollo de Backend la parte de BoundContext Reservations.</td>
   </tr>
 </table>
 
@@ -140,14 +164,25 @@
 
 [![My Skills](https://skillicons.dev/icons?i=github,git,markdown)](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final)
 
-- Nuestra reporte del trabajo final: [README.md](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final) en GitHub
+- El link a nuestro Repositorio: [Trabajo Final](https://github.com/UPC-Aplicaciones-Web-Grupo-02/report-final) 
 
-- Nuestro Landing page [www.movix.com](https://upc-aplicaciones-web-grupo-02.github.io/landing-page/)
+- El link a nuestra Landing page [LandingPage](https://upc-aplicaciones-web-grupo-02.github.io/landing-page/)
 
-- El link a nuestro frontEnd [link](https://movix-812bc.web.app/)
+- El link a nuestro FrontEnd [FrontEnd](https://movix-812bc.web.app/)
 
-- Acontinuación se muestra nuestra participación durante el desarrollo del TB1
+- El link a nuestro BackEnd [BackEnd](https://app-250619192933.azurewebsites.net/swagger/index.html)
 
+
+- A continuación se muestra nuestra participación durante el desarrollo de la TB1:
+![TB1](https://github.com/user-attachments/assets/693820cd-c9c6-4164-98f0-53144f14bc8c)
+
+
+- A continuación se muestra nuestra participación durante el desarrollo de la TP1:
+![TP](https://github.com/user-attachments/assets/6147d0e2-10cf-464b-a4d6-0ea1ec5b45a1)
+
+
+- A continuación se muestra nuestra participación durante el desarrollo de la TB2:
+![TB2](https://github.com/user-attachments/assets/06079ea4-6766-45c4-a821-10575115eacf)
 
 <div style="page-break-before: always;"></div>
 
