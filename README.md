@@ -4198,6 +4198,44 @@ Tambien se muestra la contribucion de cada alumno en esta sección.
       </tr>
 </table>
 #### 5.2.4.2. Aspect Leaders and Collaborators.
+<table>
+  <thead>
+    <tr>
+      <th>Team Member (Last Name, First Name)</th>
+      <th>GitHub Username</th>
+      <th>Aspect Landing Page Leader (L) / Collaborator (C)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Velarde Gonzales, Nestor</td>
+      <td>VelardeSoft</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Muñiz Huayanca, Percy Alonso</td>
+      <td>alomsoo</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Morales Sosa, Arnold Gabriel</td>
+      <td>Arnold24x24</td>
+      <td>C</td>
+    </tr>
+    <tr>
+      <td>Cuya Villegas, Rafael Alberto</td>
+      <td>RafaelCuya</td>
+      <td>L</td>
+    </tr>
+    <tr>
+      <td>Flores Manrique, Sebastian Enrique</td>
+      <td>Sebas2999</td>
+      <td>C</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.3. Sprint Backlog 4.
 #### 5.2.4.4. Development Evidence for Sprint Review.
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
