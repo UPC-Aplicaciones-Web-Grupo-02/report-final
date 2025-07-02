@@ -4138,6 +4138,16 @@ Tambien se muestra la contribucion de cada alumno en esta sección.
 ![Image](https://github.com/user-attachments/assets/235edc86-63ff-499c-be90-f22bae4b7c89)
 ![Image](https://github.com/user-attachments/assets/0494d11a-5407-4c12-9f8a-619fd7328424)
 
+#### 5.2.4. Sprint 04
+#### 5.2.4.1. Sprint Planning 04.
+#### 5.2.4.2. Aspect Leaders and Collaborators.
+#### 5.2.4.4. Development Evidence for Sprint Review.
+#### 5.2.4.5. Execution Evidence for Sprint Review.
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
 #### 5.3. Validation Interviews. 
 #### 5.3.1. Diseño de Entrevistas. 
 Para la validación de nuestro proyecto, hemos diseñado entrevistas con el fin de obtener retroalimentación de nuestros usuarios. A continuación, se presentan las preguntas que se realizarán:
