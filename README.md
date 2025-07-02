@@ -4140,6 +4140,63 @@ Tambien se muestra la contribucion de cada alumno en esta sección.
 
 #### 5.2.4. Sprint 04
 #### 5.2.4.1. Sprint Planning 04.
+<table border="1px" align="center">
+     <tr> 
+        <th> Sprint # </th>
+        <th> Sprint 4 </th>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Planning Background</td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Date </td>
+       <td> 04/07/2025 </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Time </td>
+       <td> 17:00 pm - 22:00 pm </td>
+     </tr>
+     <tr>
+       <td style="font-weight: bold;"> Location </td>
+       <td> Modalidad remota a través de WhatsApp y Google Meets </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Prepared By </td>
+        <td> Rafael Cuya Villegas</td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
+        <td> 
+            Arnold Morales Sosa<br>
+            Alonso Muñiz Huayanca <br>
+            Nestor Velarde Gonzales<br>
+            Rafael Cuya Villegas<br>
+            Sebastian Flores Manrique        </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Review Summary </td>
+        <td> Durante el desarrolo del Sprint 3, se logró implementar con éxito el backend de nuestra aplicación. </td>
+     </tr>
+     <tr>
+        <td style="font-weight: bold;"> Sprint 3 Retrospective Summary </td>
+        <td> El sprint 3 se logró de manera satisfactoria. Sin embargo, consideramos que fallamos un poco en la organización del trabajo. </td>
+     </tr>
+     <tr> 
+        <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories</td>
+     </tr>
+     <tr>
+          <td style="font-weight: bold;"> Sprint 4 Goal</td>
+          <td> En este sprint se espera la implementación final de nuestra app. Al finalizar este sprint contamos con una versión final de nuestra aplicación. </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sprint 4 Velocity </td>
+          <td> 57 </td>
+      </tr>
+      <tr>
+          <td style="font-weight: bold;"> Sum of Story Points </td>
+          <td> 57 </td>
+      </tr>
+</table>
 #### 5.2.4.2. Aspect Leaders and Collaborators.
 #### 5.2.4.4. Development Evidence for Sprint Review.
 #### 5.2.4.5. Execution Evidence for Sprint Review.
