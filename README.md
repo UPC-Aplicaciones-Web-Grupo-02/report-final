@@ -333,6 +333,7 @@ activamente en la toma de decisiones y promoviendo la colaboración y el comprom
         Durante el desarrollo del Tb2, fomenté un ambiente de trabajo colaborativo, organizando, junto con mis 
 compañeros para realizar ls diversos puentos de la entrega y cumplir los objetivos con éxito.<br/>
         <em>TF1</em><br/>
+	Durante el desarrollo del Tf, trabajé en equipo delegando y apoyando para concluir con éxito las diversas actividades tanto de la mejora continua como del sprint correspondiente.<br/>
         <br/><strong>Morales Sosa, Arnold</strong><br/>
         <em>TB1</em><br/>
         Participé en las reuniones donde pude coordinar los puntos necesarios para poder acabar satisfactoriamente 
@@ -406,6 +407,7 @@ product. Además, en el repositorio del backend, desarrollé el contexto Reserva
 fomentar un entorno de trabajo colaborativo, planificar tareas de manera eficiente y establecer plazos realistas 
 para asegurar el cumplimiento de los objetivos del proyecto.<br/>
         <em>TF1</em><br/>
+	Durante el desarrollo del Tf, desarrolle algunos puntos de la mejora continua, en los diversos entregables, como el informe la landing page y la app. estableciendo plazos internos para el desarrollo con éxito de este sprint y entregable. <br/>
         <br/><strong>Morales Sosa, Arnold</strong><br/>
         <em>TB1</em><br/>
         Investigué acerca de los posibles competidores y el impacto que generaría en nuestra marca, y qué hay que 
