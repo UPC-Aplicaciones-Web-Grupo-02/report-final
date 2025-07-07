@@ -4325,6 +4325,53 @@ Tambien se muestra la contribucion de cada alumno en esta sección.
 
 #### 5.2.4.3. Sprint Backlog 4.
 #### 5.2.4.4. Development Evidence for Sprint Review.
+
+En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>USER/REPOSITORY</th>
+      <th>BRANCH</th>
+      <th>COMMIT ID</th>
+      <th>COMMIT MESSAGE</th>
+      <th>DATE</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>868e0b3</td><td>Add imagenes</td><td>2025-06-17</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>b6e588e</td><td>Create README.md</td><td>2025-06-17</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>6d76f88</td><td>feat: Final v1 development backend</td><td>2025-06-17</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>8c9bf44</td><td>Configurations Programs.cs</td><td>2025-06-17</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>a18e3ad</td><td>feat: Add configurations database conection</td><td>2025-06-17</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>ef72d1e</td><td>feat: Implement Resources in Suscription</td><td>2025-06-17</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>519f225</td><td>feat: Add domain of suscriptions</td><td>2025-06-17</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>7de8bcd</td><td>feat: StringExtensions</td><td>2025-06-17</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>c0ef54b</td><td>feat: KebabCaseRouteNamingConvention</td><td>2025-06-17</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>19be886</td><td>feat: Agrgate interface IUnitOfWork</td><td>2025-06-17</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>36e18a8</td><td>feat: Agrgate IBASERepository</td><td>2025-06-17</td></tr>
+    <tr><td>Sebas2999/Backend</td><td>main</td><td>86d2efb</td><td>feat: added scooter resource assembler</td><td>2025-06-17</td></tr>
+    <tr><td>Sebas2999/Backend</td><td>main</td><td>8c52664</td><td>feat: added Scooter and Model resource</td><td>2025-06-17</td></tr>
+    <tr><td>Sebas2999/Backend</td><td>main</td><td>4415276</td><td>feat: added Brand and District resource</td><td>2025-06-17</td></tr>
+    <tr><td>Sebas2999/Backend</td><td>main</td><td>1607681</td><td>feat: added Models and Scooter controllers</td><td>2025-06-17</td></tr>
+    <tr><td>Sebas2999/Backend</td><td>main</td><td>df3fdf4</td><td>feat: added brands and districts controllers</td><td>2025-06-17</td></tr>
+    <tr><td>Sebas2999/Backend</td><td>main</td><td>ec2c563</td><td>feat: added aggregates.</td><td>2025-06-17</td></tr>
+    <tr><td>Sebas2999/Backend</td><td>main</td><td>97a963c</td><td>feat: added scooter Services.</td><td>2025-06-17</td></tr>
+    <tr><td>alomsoo/Backend</td><td>main</td><td>494e970</td><td>feat: I created the table TypeSubscriptions</td><td>2025-06-17</td></tr>
+    <tr><td>ArnoldG24x24/Backend</td><td>main</td><td>716edb4</td><td>feat: commit git aggregate suscription.cs</td><td>2025-06-16</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>0465d73</td><td>feat: Add new class for Aggregate Suscription</td><td>2025-06-16</td></tr>
+    <tr><td>RafacCuya/Backend</td><td>main</td><td>4f73bda</td><td>feat: Added ReservationResource.cs</td><td>2025-06-16</td></tr>
+    <tr><td>RafacCuya/Backend</td><td>main</td><td>772aa81</td><td>feat: Added CreateReservationResource.cs</td><td>2025-06-16</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>0625bc7</td><td>feat: Add new class in Resources</td><td>2025-06-16</td></tr>
+    <tr><td>RafacCuya/Backend</td><td>main</td><td>02e4eee</td><td>feat: ReservationService.cs</td><td>2025-06-16</td></tr>
+    <tr><td>RafacCuya/Backend</td><td>main</td><td>c650e3d</td><td>feat: Added IReservationService.cs</td><td>2025-06-16</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>d8fa16f</td><td>feat: Agrgate new class in Aplications</td><td>2025-06-16</td></tr>
+    <tr><td>RafacCuya/Backend</td><td>main</td><td>ff6eb6c</td><td>feat(backend): Added reservation.cs</td><td>2025-06-16</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>f699261</td><td>feat:Add class Reservations</td><td>2025-06-16</td></tr>
+    <tr><td>VelardeSoft/Backend</td><td>main</td><td>9211e3f</td><td>initial commit</td><td>2025-06-16</td></tr>
+  </tbody>
+</table>
+
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 Se mostrara el funcionamiento de la aplicación.
 ## Movix
@@ -4417,7 +4464,75 @@ que está funcionando.
 ![8--Backend](https://github.com/user-attachments/assets/180d5cf6-cba9-4d2e-bfec-1bc6e76ed081)
   
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
+Colaboración por alumno en la aplicación web:
 
+<table border="1">
+  <thead>
+    <tr>
+      <th>Alumno</th>
+      <th>Actividad</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Morales Sosa, Arnold Gabriel</td>
+      <td>Testing</td>
+    </tr>
+    <tr>
+      <td>Muñiz Huayanca, Percy Alonso</td>
+      <td>IAM</td>
+    </tr>
+    <tr>
+      <td>Cuya Villegas, Rafael A</td>
+      <td>Endpoint Historial</td>
+    </tr>
+    <tr>
+      <td>Velarde Gonzales, Néstor H</td>
+      <td>Validations</td>
+    </tr>
+    <tr>
+      <td>Flores Manrique, Sebastian Enrique</td>
+      <td>Endpoint Reviews</td>
+    </tr>
+  </tbody>
+</table>
+
+Tabla para poder identificarnos:
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Username (GitHub)</th>
+      <th>Nombre</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>VelardeSoft</td>
+      <td>Velarde Gonzales, Néstor H</td>
+    </tr>
+    <tr>
+      <td>Sebas2999</td>
+      <td>Flores Manrique, Sebastian Enrique</td>
+    </tr>
+    <tr>
+      <td>Arnold24x24</td>
+      <td>Morales Sosa, Arnold Gabriel</td>
+    </tr>
+    <tr>
+      <td>RafaelCuya</td>
+      <td>Cuya Villegas, Rafael A</td>
+    </tr>
+    <tr>
+      <td>alomsoo</td>
+      <td>Muñiz Huayanca, Percy Alonso</td>
+    </tr>
+  </tbody>
+</table>
+
+Para este sprint se ha realizado la implementación de la web app, para esto los integrantes del grupo realizaron su aporte a través de commits en la herramienta Git Hub.
+
+<img width="1049" height="716" alt="Image" src="https://github.com/user-attachments/assets/e37cab39-3844-4fb0-bfa9-d2b7cf578693" />
 
 #### 5.3. Validation Interviews. 
 #### 5.3.1. Diseño de Entrevistas. 
