@@ -347,6 +347,7 @@ sabían usar dichos programas.<br/>
 debe hacer, realicé las 2 entrevistas adicionales en relación al front-end deployado e hice parte del bounded 
 context de subscriptionos para el backend.<br/>
         <em>TF1</em><br/>
+	Durante el desarrollo del TF, participé en la inclusión del último sprint backlog y apoyo en el pptx con el video.<br/>
         <br/><strong>Flores Manrique, Sebastian</strong><br/>
         <em>TB1</em><br/>
         Participé en reuniones con frecuencia para acordar la asignación y revisión del trabajo.<br/>
@@ -424,6 +425,7 @@ segmentos objetivos de nuestro trabajo en el tiempo establecido. Planifiqué la 
 tiempo, la parte del bounded context de subscription del backend se realizó en el tiempo estimado y cumplí los 
 objetivos y puntos a tener en cuenta de este entregable.<br/>
         <em>TF1</em><br/>
+	Durante el desarrollo del TF, hice algunas mejoras con respecto al reporte, el apoyo cuando se requería y el video, haciendolo cuando se necesitaba y llegando a concluir para el entregable.<br/>
         <br/><strong>Flores Manrique, Sebastian</strong><br/>
         <em>TB1</em><br/>
         Realicé una investigación exhaustiva del sector de alquiler de vehículos ligeros para comprender sus 
