@@ -371,7 +371,9 @@ técnico hasta lo estratégico.<br/>
 implementación de las funcionalidades principales. Participé activamente en el desarrollo de las entrevistas, desde 
 la preparación de las preguntas hasta el análisis de las respuestas obtenidas. Asimismo, contribuí en la redacción 
 del informe final, asegurando que el contenido reflejara de forma clara y precisa el trabajo realizado.<br/>
-        <em>TF1</em><br/>
+	<em>TF</em><br/>
+Contribuí activamente en la elaboración del informe final, organizando la información recolectada y asegurando una redacción clara y coherente. Me encargué de la edición del video, cuidando tanto el contenido visual como la narrativa. Además, realicé ajustes y mejoras en el código fuente para optimizar su funcionalidad. Fui responsable del seguimiento de los plazos establecidos, velando por el cumplimiento de las entregas dentro del cronograma previsto.<br/>
+        <em>TB1</em><br/>
         <br/><strong>Velarde Gonzales, Néstor</strong><br/>
         <em>TB1</em><br/>
         Durante el desarrollo de esta primera entrega, participé en las reuniones acordadas y realizé el Cap. 04, 
@@ -453,6 +455,8 @@ la preparación de las preguntas hasta el análisis de las respuestas obtenidas.
 del informe final, asegurando que el contenido reflejara de forma clara y precisa el trabajo realizado. Todo esto lo 
 llevé a cabo en constante coordinación con el equipo, fomentando un ambiente de colaboración para lograr los 
 objetivos del proyecto.<br/>
+	<em>TF</em><br/>
+       Brindé apoyo en el desarrollo del backend, participando en la definición de módulos clave y asegurando una integración fluida entre las distintas capas del sistema. Estuve involucrado en la planificación y ejecución de entrevistas, contribuyendo en la elaboración de guías y en el análisis de la información recolectada. Además, colaboré en la elaboración del informe final, cuidando la estructura, redacción y coherencia del documento. Todas estas tareas las realicé en constante comunicación con mis compañeros, promoviendo una dinámica de trabajo eficiente y orientada a resultados.<br/>
         <em>TF1</em><br/>
         <br/><strong>Velarde Gonzales, Néstor</strong><br/>
         <em>TB1</em><br/>
