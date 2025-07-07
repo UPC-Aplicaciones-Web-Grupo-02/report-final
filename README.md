@@ -4326,6 +4326,40 @@ Tambien se muestra la contribucion de cada alumno en esta sección.
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+ ## Frontend
+- Deployamos nuestro frontend mediante Firebase.
+  ![Image](https://github.com/user-attachments/assets/e7dbad5b-c84b-4946-96f4-5d7035b6665d)
+  
+- Se muestra la confirmación del desplegado.
+  ![Image](https://github.com/user-attachments/assets/8e532c93-4f42-4250-b623-8b03400a0f84)
+  
+- Se muestra nuestro Frontend desplegado.
+  ![Image](https://github.com/user-attachments/assets/1391bb63-b3fe-49f1-8218-d4307d582386)
+
+ ## Base de datos
+
+- Para el despliegue de nuestra base de datos usamos Azure.
+![1-BaseDeDatos](https://github.com/user-attachments/assets/ba91dc33-8d03-4ee2-8892-ab2640fb9a05)
+
+![6-BaseDeDatos](https://github.com/user-attachments/assets/767db6a8-e684-494d-b58f-7c156bc24b21)
+
+## Backend
+
+- Para el despliegue de nuestro Backend lo hicimos en Azure mediante Rider.
+![1-Backend](https://github.com/user-attachments/assets/d5bb429e-cd2e-4772-82f3-f46cf965571c)
+
+- Una vez que se complete el despliegue, nos mostrará una notificación de que el despliegue se ha realizado con éxito 
+y si nos dirigimos a nuestro recurso de Azure, podremos ver que el backend se ha desplegado correctamente.
+![6-Backend](https://github.com/user-attachments/assets/f52a16f6-02f2-41f6-8c26-df2f797aca3b)
+
+- Al acceder a la URL del backend, le añadimos el "/swagger/index.html" podremos ver que se ha desplegado 
+correctamente y 
+que está funcionando.
+![7-Backend](https://github.com/user-attachments/assets/0691ac53-9b3c-4ecc-b59c-f4bbb24089aa)
+
+![8--Backend](https://github.com/user-attachments/assets/180d5cf6-cba9-4d2e-bfec-1bc6e76ed081)
+  
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
 
