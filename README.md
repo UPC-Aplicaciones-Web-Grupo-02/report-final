@@ -4324,6 +4324,60 @@ Tambien se muestra la contribucion de cada alumno en esta sección.
 #### 5.2.4.3. Sprint Backlog 4.
 #### 5.2.4.4. Development Evidence for Sprint Review.
 #### 5.2.4.5. Execution Evidence for Sprint Review.
+Se mostrara el funcionamiento de la aplicación.
+## Movix
+- Pantalla de Inicio
+  
+![Image](https://github.com/user-attachments/assets/9715e4e6-45e3-4b7e-85ac-914607d82247)
+
+- Para Iniciar sesión en nuestra app hay que registrarse.
+
+![Image](https://github.com/user-attachments/assets/0f4ed3de-26f7-4175-a4bf-480809429787)
+
+- Se mostrará una alerta de registro éxitoso.
+
+![Image](https://github.com/user-attachments/assets/d866d8f8-bf44-4a87-ab7f-624ddefefd3b)
+
+- De igual manera al momento de iniciar sesión.
+  
+<img width="561" height="113" alt="Image" src="https://github.com/user-attachments/assets/511d9701-391d-4aa1-bd5a-187f56ae17ab" />
+
+- Una vez ingresemos a la app se mostrará la pantalla del Perfil
+  
+![Image](https://github.com/user-attachments/assets/73039915-60b8-45ae-9b7e-1d7f0f9e45c5)
+
+- Para poder realizar la reserva de un scooter tenemos que tener una suscripción, por lo que iremos a la pantalla de suscripciones y escogemos la que se acomode a la necesidad. 
+
+![Image](https://github.com/user-attachments/assets/461ab159-4243-4ea0-89f2-63c52a77079f)
+
+- Completamos con los datos requeridos.
+
+<img width="1920" height="878" alt="Image" src="https://github.com/user-attachments/assets/b7038947-14dc-4cb3-aebc-1049e4dd295d" />
+
+- Y ya estamos suscritos!
+  
+![Image](https://github.com/user-attachments/assets/905a53fd-f720-4aed-9053-0958199c27e8)
+
+- Ahora vamos a la pantalla de Scooters y seleccionamos el de nuestra preferencia.
+
+![Image](https://github.com/user-attachments/assets/421251f2-b1c6-4a04-a0e0-a2c046f0a1c9)
+
+- Hacemos click en reservar.
+
+  ![Image](https://github.com/user-attachments/assets/bb106a16-fd23-4ae5-8cdb-a1f0a201f714)
+  
+- Nos saldra una pantalla donde debemos confirmar la reserva.
+
+  ![Image](https://github.com/user-attachments/assets/660ba4d2-81cb-4a58-bcb3-65e063f4b470)
+  
+- Al confirmar la reserva, nos dara una alerta de reserva realizada con éxito.
+
+![Image](https://github.com/user-attachments/assets/3b214ed4-8251-442f-bc6b-0f4552fab589)
+
+- Tambien tendremos la opcion de ver el historial de reservas.
+
+![Image](https://github.com/user-attachments/assets/7e1773d7-dbbb-4e00-bc29-2448bb85131c)
+
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
