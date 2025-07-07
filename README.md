@@ -4328,6 +4328,89 @@ Tambien se muestra la contribucion de cada alumno en esta sección.
 </table>
 
 #### 5.2.4.3. Sprint Backlog 4.
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Historia de Usuario (HU)</th>
+      <th>Tarea Técnica (TS)</th>
+      <th>Descripción de la Tarea</th>
+      <th>Encargado</th>
+      <th>Estado</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HU05 - Gestión de Perfil</td>
+      <td>TS41</td>
+      <td>Implementar CRUD completo del perfil (GET, POST, PUT, DELETE)</td>
+      <td>Néstor Velarde</td>
+      <td>Completado</td>
+    </tr>
+    <tr>
+      <td>HU06 - Gestión de Scooter</td>
+      <td>TS42</td>
+      <td>Añadir funcionalidad de actualización (PUT) a los scooters</td>
+      <td>Sebastián Flores</td>
+      <td>Completado</td>
+    </tr>
+    <tr>
+      <td>HU06 - Gestión de Scooter</td>
+      <td>TS43</td>
+      <td>Añadir funcionalidad de eliminación (DELETE) de scooters</td>
+      <td>Sebastián Flores</td>
+      <td>Completado</td>
+    </tr>
+    <tr>
+      <td>HU07 - Gestión de Reservas</td>
+      <td>TS44</td>
+      <td>Crear endpoint para modificar reservas existentes</td>
+      <td>Percy Muñiz</td>
+      <td>Completado</td>
+    </tr>
+    <tr>
+      <td>HU07 - Gestión de Reservas</td>
+      <td>TS45</td>
+      <td>Crear endpoint para eliminar reservas</td>
+      <td>Percy Muñiz</td>
+      <td>Completado</td>
+    </tr>
+    <tr>
+      <td>HU08 - Gestión de Subscripciones</td>
+      <td>TS46</td>
+      <td>Completar CRUD de subscripciones (incluyendo update y delete)</td>
+      <td>Arnold Morales</td>
+      <td>Completado</td>
+    </tr>
+    <tr>
+      <td>HU09 - Gestión de Usuarios (Admin)</td>
+      <td>TS47</td>
+      <td>Añadir lógica de validación y control de roles</td>
+      <td>Rafael Cuya</td>
+      <td>Completado</td>
+    </tr>
+    <tr>
+      <td>HU03 - Búsqueda de Scooters</td>
+      <td>TS48</td>
+      <td>Mejorar filtros de búsqueda y validación de campos</td>
+      <td>Rafael Cuya</td>
+      <td>Completado</td>
+    </tr>
+    <tr>
+      <td>HU10 - Interfaz de usuario</td>
+      <td>TS49</td>
+      <td>Añadir feedback visual al confirmar una reserva</td>
+      <td>Arnold Morales</td>
+      <td>Completado</td>
+    </tr>
+    <tr>
+      <td>HU10 - Interfaz de usuario</td>
+      <td>TS50</td>
+      <td>Mejorar experiencia visual en la sección de pago</td>
+      <td>Percy Muñiz</td>
+      <td>Completado</td>
+    </tr>
+  </tbody>
+</table>
 #### 5.2.4.4. Development Evidence for Sprint Review.
 
 En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
