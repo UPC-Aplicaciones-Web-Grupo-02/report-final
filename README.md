@@ -288,6 +288,15 @@
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - **[5.2.4. Sprint 04](#524-sprint-04)**
+    - [5.2.4.1. Sprint Planning 04](#5241-sprint-planning-04)
+    - [5.2.4.2. Aspect Leaders and Collaborators](#5242-aspect-leaders-and-collaborators)
+    - [5.2.4.3. Sprint Backlog 4](#5243-sprint-backlog-3)
+    - [5.2.4.4. Development Evidence for Sprint Review](#5244-development-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 - **[5.3. Validation Interviews](#53-validation-interviews)**
   - [5.3.1. Diseño de entrevistas](#531-diseño-de-entrevistas)
   - [5.3.2. Registro de entrevistas](#532-registro-de-entrevistas)
@@ -358,6 +367,7 @@ frontend según algunos ideas de mejoras que dió mi equipo.<br/>
         Para esta entrega, participé en todas las reuniones organizadas por el equipo para la coordinación del 
 desarrollo de los endpoints del Backend.<br/>
         <em>TF1</em><br/>
+        Para esta entrega, realicé las correcciones necesarias en el informe final y la landing page.<br/>
         <br/><strong>Muñiz Huayanca, Percy</strong><br/>
         <em>TB1</em><br/>
         A lo largo del desarrollo del TB1 participé activamente en las reuniones grupales donde se definieron las 
@@ -437,6 +447,8 @@ frontEnd.<br/>
         Participé en la creación de los endpoints del BackEnd que me fueron asignados, además realizar la correción 
 y mejora del reporte final del proyecto.<br/>
         <em>TF1</em><br/>
+        Durante el desarrollo del TF, me encargué de agregar los CRUDS faltantes a los endpoints del BackEnd, y 
+conectarlo con el frontEnd junto a su despliegue<br/>
         <br/><strong>Muñiz Huayanca, Percy</strong><br/>
         <em>TB1</em><br/>
         Fui responsable del desarrollo del capítulo 3 del informe, elaborando dos To-Be Scenario Maps para los 
@@ -4413,6 +4425,7 @@ Tambien se muestra la contribucion de cada alumno en esta sección.
     </tr>
   </tbody>
 </table>
+
 #### 5.2.4.4. Development Evidence for Sprint Review.
 
 En esta sección se detallarán los commits realizados en el desarrollo del backend de la aplicación web.
@@ -4462,7 +4475,7 @@ En esta sección se detallarán los commits realizados en el desarrollo del back
 </table>
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
-Se mostrara el funcionamiento de la aplicación.
+Se mostrará el funcionamiento de la aplicación.
 ## Movix
 - Pantalla de Inicio
   
@@ -4553,6 +4566,7 @@ Se mostrara el funcionamiento de la aplicación.
 - Users
 
 <img width="1452" height="330" alt="users" src="https://github.com/user-attachments/assets/9d3725d5-f9a8-463b-9def-6aa312f4b53e" />
+
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
  ## Frontend
