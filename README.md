@@ -4517,6 +4517,42 @@ Se mostrara el funcionamiento de la aplicación.
 ![Image](https://github.com/user-attachments/assets/7e1773d7-dbbb-4e00-bc29-2448bb85131c)
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+- Brands
+
+<img width="1468" height="340" alt="brands" src="https://github.com/user-attachments/assets/cceac7ac-76b9-4b6a-b803-b17c9560de6a" />
+
+- Districts
+
+<img width="1448" height="325" alt="districts" src="https://github.com/user-attachments/assets/88290b8b-2bde-4346-a6ad-eb01e18ff2c6" />
+
+- Models
+
+<img width="1445" height="328" alt="models" src="https://github.com/user-attachments/assets/40b99998-9b76-4ed5-8236-5eb3b2c331c8" />
+
+- Reservations
+
+<img width="1457" height="173" alt="reservations" src="https://github.com/user-attachments/assets/9488b2cc-428c-41d8-b431-2e2821961b9c" />
+
+- Scooter
+
+<img width="1458" height="330" alt="scooter" src="https://github.com/user-attachments/assets/fb694759-4497-43ac-b0f7-3ec7ab57cb75" />
+
+- Suscription
+
+<img width="1468" height="178" alt="suscription" src="https://github.com/user-attachments/assets/6f7170ba-1fee-44f2-9fa3-6be4343b2d5b" />
+
+- TypeSuscription
+
+<img width="1458" height="282" alt="typeSuscription" src="https://github.com/user-attachments/assets/e3294b83-e780-460d-ac81-cc8fe34e727d" />
+
+- User Roles
+
+<img width="1460" height="271" alt="userRole" src="https://github.com/user-attachments/assets/b1deb19f-46a0-4f87-ab4b-61dd6f15b651" />
+
+- Users
+
+<img width="1452" height="330" alt="users" src="https://github.com/user-attachments/assets/9d3725d5-f9a8-463b-9def-6aa312f4b53e" />
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
  ## Frontend
